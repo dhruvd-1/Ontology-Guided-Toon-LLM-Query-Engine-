@@ -1,0 +1,520 @@
+{
+  "property_to_id": {
+    "activeStatus": 0,
+    "addressId": 1,
+    "addressType": 2,
+    "amount": 3,
+    "brand": 4,
+    "cartId": 5,
+    "categoryId": 6,
+    "categoryName": 7,
+    "city": 8,
+    "contactEmail": 9,
+    "country": 10,
+    "createdDate": 11,
+    "customerId": 12,
+    "customerTier": 13,
+    "dateOfBirth": 14,
+    "description": 15,
+    "dimensions": 16,
+    "discountCode": 17,
+    "discountId": 18,
+    "discountType": 19,
+    "discountValue": 20,
+    "email": 21,
+    "endDate": 22,
+    "firstName": 23,
+    "helpfulCount": 24,
+    "lastModified": 25,
+    "lastName": 26,
+    "level": 27,
+    "minimumPurchase": 28,
+    "orderDate": 29,
+    "orderId": 30,
+    "orderStatus": 31,
+    "parentCategory": 32,
+    "paymentDate": 33,
+    "paymentId": 34,
+    "paymentMethod": 35,
+    "paymentStatus": 36,
+    "phoneNumber": 37,
+    "postalCode": 38,
+    "price": 39,
+    "productId": 40,
+    "productName": 41,
+    "rating": 42,
+    "registrationDate": 43,
+    "reviewDate": 44,
+    "reviewId": 45,
+    "reviewText": 46,
+    "shippingMethod": 47,
+    "sku": 48,
+    "startDate": 49,
+    "state": 50,
+    "streetAddress": 51,
+    "subtotal": 52,
+    "totalAmount": 53,
+    "totalItems": 54,
+    "trackingNumber": 55,
+    "transactionId": 56,
+    "vendorId": 57,
+    "vendorName": 58,
+    "verified": 59,
+    "weight": 60
+  },
+  "id_to_property": {
+    "0": "activeStatus",
+    "1": "addressId",
+    "2": "addressType",
+    "3": "amount",
+    "4": "brand",
+    "5": "cartId",
+    "6": "categoryId",
+    "7": "categoryName",
+    "8": "city",
+    "9": "contactEmail",
+    "10": "country",
+    "11": "createdDate",
+    "12": "customerId",
+    "13": "customerTier",
+    "14": "dateOfBirth",
+    "15": "description",
+    "16": "dimensions",
+    "17": "discountCode",
+    "18": "discountId",
+    "19": "discountType",
+    "20": "discountValue",
+    "21": "email",
+    "22": "endDate",
+    "23": "firstName",
+    "24": "helpfulCount",
+    "25": "lastModified",
+    "26": "lastName",
+    "27": "level",
+    "28": "minimumPurchase",
+    "29": "orderDate",
+    "30": "orderId",
+    "31": "orderStatus",
+    "32": "parentCategory",
+    "33": "paymentDate",
+    "34": "paymentId",
+    "35": "paymentMethod",
+    "36": "paymentStatus",
+    "37": "phoneNumber",
+    "38": "postalCode",
+    "39": "price",
+    "40": "productId",
+    "41": "productName",
+    "42": "rating",
+    "43": "registrationDate",
+    "44": "reviewDate",
+    "45": "reviewId",
+    "46": "reviewText",
+    "47": "shippingMethod",
+    "48": "sku",
+    "49": "startDate",
+    "50": "state",
+    "51": "streetAddress",
+    "52": "subtotal",
+    "53": "totalAmount",
+    "54": "totalItems",
+    "55": "trackingNumber",
+    "56": "transactionId",
+    "57": "vendorId",
+    "58": "vendorName",
+    "59": "verified",
+    "60": "weight"
+  },
+  "node_info": [
+    {
+      "node_id": 0,
+      "field_name": "l_name",
+      "table_name": "customer_table",
+      "ontology_property": "lastName"
+    },
+    {
+      "node_id": 1,
+      "field_name": "fname",
+      "table_name": "customer_table",
+      "ontology_property": "firstName"
+    },
+    {
+      "node_id": 2,
+      "field_name": "cust_id",
+      "table_name": "customer_table",
+      "ontology_property": "customerId"
+    },
+    {
+      "node_id": 3,
+      "field_name": "birth_dt",
+      "table_name": "customer_table",
+      "ontology_property": "dateOfBirth"
+    },
+    {
+      "node_id": 4,
+      "field_name": "tier_type",
+      "table_name": "customer_table",
+      "ontology_property": "customerTier"
+    },
+    {
+      "node_id": 5,
+      "field_name": "ph_num",
+      "table_name": "customer_table",
+      "ontology_property": "phoneNumber"
+    },
+    {
+      "node_id": 6,
+      "field_name": "email_addr",
+      "table_name": "customer_table",
+      "ontology_property": "email"
+    },
+    {
+      "node_id": 7,
+      "field_name": "registered_on",
+      "table_name": "customer_table",
+      "ontology_property": "registrationDate"
+    },
+    {
+      "node_id": 8,
+      "field_name": "status",
+      "table_name": "order",
+      "ontology_property": "orderStatus"
+    },
+    {
+      "node_id": 9,
+      "field_name": "ord_ts",
+      "table_name": "order",
+      "ontology_property": "orderDate"
+    },
+    {
+      "node_id": 10,
+      "field_name": "ord_val",
+      "table_name": "order",
+      "ontology_property": "totalAmount"
+    },
+    {
+      "node_id": 11,
+      "field_name": "shipping_type",
+      "table_name": "order",
+      "ontology_property": "shippingMethod"
+    },
+    {
+      "node_id": 12,
+      "field_name": "order_no",
+      "table_name": "order",
+      "ontology_property": "orderId"
+    },
+    {
+      "node_id": 13,
+      "field_name": "trk_no",
+      "table_name": "order",
+      "ontology_property": "trackingNumber"
+    },
+    {
+      "node_id": 14,
+      "field_name": "product_id",
+      "table_name": "product_data",
+      "ontology_property": "productId"
+    },
+    {
+      "node_id": 15,
+      "field_name": "p_name",
+      "table_name": "product_data",
+      "ontology_property": "productName"
+    },
+    {
+      "node_id": 16,
+      "field_name": "brand_name",
+      "table_name": "product_data",
+      "ontology_property": "brand"
+    },
+    {
+      "node_id": 17,
+      "field_name": "prod_dims",
+      "table_name": "product_data",
+      "ontology_property": "dimensions"
+    },
+    {
+      "node_id": 18,
+      "field_name": "desc",
+      "table_name": "product_data",
+      "ontology_property": "description"
+    },
+    {
+      "node_id": 19,
+      "field_name": "sku",
+      "table_name": "product_data",
+      "ontology_property": "sku"
+    },
+    {
+      "node_id": 20,
+      "field_name": "price",
+      "table_name": "product_data",
+      "ontology_property": "price"
+    },
+    {
+      "node_id": 21,
+      "field_name": "prod_weight",
+      "table_name": "product_data",
+      "ontology_property": "weight"
+    },
+    {
+      "node_id": 22,
+      "field_name": "item_desc",
+      "table_name": "category",
+      "ontology_property": "description"
+    },
+    {
+      "node_id": 23,
+      "field_name": "category_nm",
+      "table_name": "category",
+      "ontology_property": "categoryName"
+    },
+    {
+      "node_id": 24,
+      "field_name": "parent_id",
+      "table_name": "category",
+      "ontology_property": "parentCategory"
+    },
+    {
+      "node_id": 25,
+      "field_name": "level",
+      "table_name": "category",
+      "ontology_property": "level"
+    },
+    {
+      "node_id": 26,
+      "field_name": "category_id",
+      "table_name": "category",
+      "ontology_property": "categoryId"
+    },
+    {
+      "node_id": 27,
+      "field_name": "status",
+      "table_name": "payment",
+      "ontology_property": "paymentStatus"
+    },
+    {
+      "node_id": 28,
+      "field_name": "pay_amount",
+      "table_name": "payment",
+      "ontology_property": "amount"
+    },
+    {
+      "node_id": 29,
+      "field_name": "payment_dt",
+      "table_name": "payment",
+      "ontology_property": "paymentDate"
+    },
+    {
+      "node_id": 30,
+      "field_name": "pay_id",
+      "table_name": "payment",
+      "ontology_property": "paymentId"
+    },
+    {
+      "node_id": 31,
+      "field_name": "payment_mode",
+      "table_name": "payment",
+      "ontology_property": "paymentMethod"
+    },
+    {
+      "node_id": 32,
+      "field_name": "txn_id",
+      "table_name": "payment",
+      "ontology_property": "transactionId"
+    },
+    {
+      "node_id": 33,
+      "field_name": "locality",
+      "table_name": "address_tbl",
+      "ontology_property": "city"
+    },
+    {
+      "node_id": 34,
+      "field_name": "province",
+      "table_name": "address_tbl",
+      "ontology_property": "state"
+    },
+    {
+      "node_id": 35,
+      "field_name": "country",
+      "table_name": "address_tbl",
+      "ontology_property": "country"
+    },
+    {
+      "node_id": 36,
+      "field_name": "location_type",
+      "table_name": "address_tbl",
+      "ontology_property": "addressType"
+    },
+    {
+      "node_id": 37,
+      "field_name": "address1",
+      "table_name": "address_tbl",
+      "ontology_property": "streetAddress"
+    },
+    {
+      "node_id": 38,
+      "field_name": "add_id",
+      "table_name": "address_tbl",
+      "ontology_property": "addressId"
+    },
+    {
+      "node_id": 39,
+      "field_name": "zip",
+      "table_name": "address_tbl",
+      "ontology_property": "postalCode"
+    },
+    {
+      "node_id": 40,
+      "field_name": "rev_date",
+      "table_name": "review_data",
+      "ontology_property": "reviewDate"
+    },
+    {
+      "node_id": 41,
+      "field_name": "r_id",
+      "table_name": "review_data",
+      "ontology_property": "reviewId"
+    },
+    {
+      "node_id": 42,
+      "field_name": "is_verified",
+      "table_name": "review_data",
+      "ontology_property": "verified"
+    },
+    {
+      "node_id": 43,
+      "field_name": "upvotes",
+      "table_name": "review_data",
+      "ontology_property": "helpfulCount"
+    },
+    {
+      "node_id": 44,
+      "field_name": "rate",
+      "table_name": "review_data",
+      "ontology_property": "rating"
+    },
+    {
+      "node_id": 45,
+      "field_name": "feedback",
+      "table_name": "review_data",
+      "ontology_property": "reviewText"
+    },
+    {
+      "node_id": 46,
+      "field_name": "vendor_id",
+      "table_name": "vendor_table",
+      "ontology_property": "vendorId"
+    },
+    {
+      "node_id": 47,
+      "field_name": "contact_email",
+      "table_name": "vendor_table",
+      "ontology_property": "contactEmail"
+    },
+    {
+      "node_id": 48,
+      "field_name": "status",
+      "table_name": "vendor_table",
+      "ontology_property": "activeStatus"
+    },
+    {
+      "node_id": 49,
+      "field_name": "phone_no",
+      "table_name": "vendor_table",
+      "ontology_property": "phoneNumber"
+    },
+    {
+      "node_id": 50,
+      "field_name": "supplier_name",
+      "table_name": "vendor_table",
+      "ontology_property": "vendorName"
+    },
+    {
+      "node_id": 51,
+      "field_name": "signup_date",
+      "table_name": "vendor_table",
+      "ontology_property": "registrationDate"
+    },
+    {
+      "node_id": 52,
+      "field_name": "score",
+      "table_name": "vendor_table",
+      "ontology_property": "rating"
+    },
+    {
+      "node_id": 53,
+      "field_name": "last_modified",
+      "table_name": "carts",
+      "ontology_property": "lastModified"
+    },
+    {
+      "node_id": 54,
+      "field_name": "total_items",
+      "table_name": "carts",
+      "ontology_property": "totalItems"
+    },
+    {
+      "node_id": 55,
+      "field_name": "item_total",
+      "table_name": "carts",
+      "ontology_property": "subtotal"
+    },
+    {
+      "node_id": 56,
+      "field_name": "cart_no",
+      "table_name": "carts",
+      "ontology_property": "cartId"
+    },
+    {
+      "node_id": 57,
+      "field_name": "created_dt",
+      "table_name": "carts",
+      "ontology_property": "createdDate"
+    },
+    {
+      "node_id": 58,
+      "field_name": "discount_amt",
+      "table_name": "discount_data",
+      "ontology_property": "discountValue"
+    },
+    {
+      "node_id": 59,
+      "field_name": "valid_from",
+      "table_name": "discount_data",
+      "ontology_property": "startDate"
+    },
+    {
+      "node_id": 60,
+      "field_name": "discount_type",
+      "table_name": "discount_data",
+      "ontology_property": "discountType"
+    },
+    {
+      "node_id": 61,
+      "field_name": "voucher_code",
+      "table_name": "discount_data",
+      "ontology_property": "discountCode"
+    },
+    {
+      "node_id": 62,
+      "field_name": "valid_until",
+      "table_name": "discount_data",
+      "ontology_property": "endDate"
+    },
+    {
+      "node_id": 63,
+      "field_name": "d_id",
+      "table_name": "discount_data",
+      "ontology_property": "discountId"
+    },
+    {
+      "node_id": 64,
+      "field_name": "minimumpurchase",
+      "table_name": "discount_data",
+      "ontology_property": "minimumPurchase"
+    }
+  ]
+}

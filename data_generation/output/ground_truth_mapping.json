@@ -1,0 +1,1236 @@
+{
+  "tables": {
+    "customer_table": {
+      "table_name": "customer_table",
+      "ontology_class": "Customer",
+      "fields": [
+        {
+          "table_name": "customer_table",
+          "field_name": "l_name",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Customer",
+          "ontology_property": "lastName",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "fname",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Customer",
+          "ontology_property": "firstName",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "cust_id",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Customer",
+          "ontology_property": "customerId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "birth_dt",
+          "data_type": "TIMESTAMP",
+          "ontology_class": "Customer",
+          "ontology_property": "dateOfBirth",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "tier_type",
+          "data_type": "TEXT",
+          "ontology_class": "Customer",
+          "ontology_property": "customerTier",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "ph_num",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Customer",
+          "ontology_property": "phoneNumber",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "email_addr",
+          "data_type": "CHAR(50)",
+          "ontology_class": "Customer",
+          "ontology_property": "email",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "customer_table",
+          "field_name": "registered_on",
+          "data_type": "TIMESTAMP WITH TIME ZONE",
+          "ontology_class": "Customer",
+          "ontology_property": "registrationDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "order": {
+      "table_name": "order",
+      "ontology_class": "Order",
+      "fields": [
+        {
+          "table_name": "order",
+          "field_name": "status",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Order",
+          "ontology_property": "orderStatus",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "order",
+          "field_name": "ord_ts",
+          "data_type": "TIMESTAMP WITH TIME ZONE",
+          "ontology_class": "Order",
+          "ontology_property": "orderDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "order",
+          "field_name": "ord_val",
+          "data_type": "FLOAT",
+          "ontology_class": "Order",
+          "ontology_property": "totalAmount",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "order",
+          "field_name": "shipping_type",
+          "data_type": "TEXT",
+          "ontology_class": "Order",
+          "ontology_property": "shippingMethod",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "order",
+          "field_name": "order_no",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Order",
+          "ontology_property": "orderId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "order",
+          "field_name": "trk_no",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Order",
+          "ontology_property": "trackingNumber",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "product_data": {
+      "table_name": "product_data",
+      "ontology_class": "Product",
+      "fields": [
+        {
+          "table_name": "product_data",
+          "field_name": "product_id",
+          "data_type": "TEXT",
+          "ontology_class": "Product",
+          "ontology_property": "productId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "p_name",
+          "data_type": "TEXT",
+          "ontology_class": "Product",
+          "ontology_property": "productName",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "brand_name",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Product",
+          "ontology_property": "brand",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "prod_dims",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Product",
+          "ontology_property": "dimensions",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "desc",
+          "data_type": "CLOB",
+          "ontology_class": "Product",
+          "ontology_property": "description",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "sku",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Product",
+          "ontology_property": "sku",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "price",
+          "data_type": "FLOAT",
+          "ontology_class": "Product",
+          "ontology_property": "price",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "product_data",
+          "field_name": "prod_weight",
+          "data_type": "DOUBLE",
+          "ontology_class": "Product",
+          "ontology_property": "weight",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "category": {
+      "table_name": "category",
+      "ontology_class": "Category",
+      "fields": [
+        {
+          "table_name": "category",
+          "field_name": "item_desc",
+          "data_type": "TEXT",
+          "ontology_class": "Category",
+          "ontology_property": "description",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "category",
+          "field_name": "category_nm",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Category",
+          "ontology_property": "categoryName",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "category",
+          "field_name": "parent_id",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Category",
+          "ontology_property": "parentCategory",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "category",
+          "field_name": "level",
+          "data_type": "INTEGER",
+          "ontology_class": "Category",
+          "ontology_property": "level",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "category",
+          "field_name": "category_id",
+          "data_type": "TEXT",
+          "ontology_class": "Category",
+          "ontology_property": "categoryId",
+          "is_primary_key": true,
+          "is_nullable": false
+        }
+      ]
+    },
+    "payment": {
+      "table_name": "payment",
+      "ontology_class": "Payment",
+      "fields": [
+        {
+          "table_name": "payment",
+          "field_name": "status",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Payment",
+          "ontology_property": "paymentStatus",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "payment",
+          "field_name": "pay_amount",
+          "data_type": "DOUBLE",
+          "ontology_class": "Payment",
+          "ontology_property": "amount",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "payment",
+          "field_name": "payment_dt",
+          "data_type": "DATETIME",
+          "ontology_class": "Payment",
+          "ontology_property": "paymentDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "payment",
+          "field_name": "pay_id",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Payment",
+          "ontology_property": "paymentId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "payment",
+          "field_name": "payment_mode",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Payment",
+          "ontology_property": "paymentMethod",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "payment",
+          "field_name": "txn_id",
+          "data_type": "TEXT",
+          "ontology_class": "Payment",
+          "ontology_property": "transactionId",
+          "is_primary_key": true,
+          "is_nullable": false
+        }
+      ]
+    },
+    "address_tbl": {
+      "table_name": "address_tbl",
+      "ontology_class": "Address",
+      "fields": [
+        {
+          "table_name": "address_tbl",
+          "field_name": "locality",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Address",
+          "ontology_property": "city",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "address_tbl",
+          "field_name": "province",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Address",
+          "ontology_property": "state",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "address_tbl",
+          "field_name": "country",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Address",
+          "ontology_property": "country",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "address_tbl",
+          "field_name": "location_type",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Address",
+          "ontology_property": "addressType",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "address_tbl",
+          "field_name": "address1",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Address",
+          "ontology_property": "streetAddress",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "address_tbl",
+          "field_name": "add_id",
+          "data_type": "CHAR(50)",
+          "ontology_class": "Address",
+          "ontology_property": "addressId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "address_tbl",
+          "field_name": "zip",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Address",
+          "ontology_property": "postalCode",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "review_data": {
+      "table_name": "review_data",
+      "ontology_class": "Review",
+      "fields": [
+        {
+          "table_name": "review_data",
+          "field_name": "rev_date",
+          "data_type": "TIMESTAMP",
+          "ontology_class": "Review",
+          "ontology_property": "reviewDate",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "review_data",
+          "field_name": "r_id",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Review",
+          "ontology_property": "reviewId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "review_data",
+          "field_name": "is_verified",
+          "data_type": "TINYINT(1)",
+          "ontology_class": "Review",
+          "ontology_property": "verified",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "review_data",
+          "field_name": "upvotes",
+          "data_type": "BIGINT",
+          "ontology_class": "Review",
+          "ontology_property": "helpfulCount",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "review_data",
+          "field_name": "rate",
+          "data_type": "DECIMAL(10,2)",
+          "ontology_class": "Review",
+          "ontology_property": "rating",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "review_data",
+          "field_name": "feedback",
+          "data_type": "CLOB",
+          "ontology_class": "Review",
+          "ontology_property": "reviewText",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "vendor_table": {
+      "table_name": "vendor_table",
+      "ontology_class": "Vendor",
+      "fields": [
+        {
+          "table_name": "vendor_table",
+          "field_name": "vendor_id",
+          "data_type": "TEXT",
+          "ontology_class": "Vendor",
+          "ontology_property": "vendorId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "vendor_table",
+          "field_name": "contact_email",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Vendor",
+          "ontology_property": "contactEmail",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "vendor_table",
+          "field_name": "status",
+          "data_type": "BIT",
+          "ontology_class": "Vendor",
+          "ontology_property": "activeStatus",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "vendor_table",
+          "field_name": "phone_no",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Vendor",
+          "ontology_property": "phoneNumber",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "vendor_table",
+          "field_name": "supplier_name",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Vendor",
+          "ontology_property": "vendorName",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "vendor_table",
+          "field_name": "signup_date",
+          "data_type": "TIMESTAMP",
+          "ontology_class": "Vendor",
+          "ontology_property": "registrationDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "vendor_table",
+          "field_name": "score",
+          "data_type": "FLOAT",
+          "ontology_class": "Vendor",
+          "ontology_property": "rating",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "carts": {
+      "table_name": "carts",
+      "ontology_class": "Cart",
+      "fields": [
+        {
+          "table_name": "carts",
+          "field_name": "last_modified",
+          "data_type": "TIMESTAMP",
+          "ontology_class": "Cart",
+          "ontology_property": "lastModified",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "carts",
+          "field_name": "total_items",
+          "data_type": "BIGINT",
+          "ontology_class": "Cart",
+          "ontology_property": "totalItems",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "carts",
+          "field_name": "item_total",
+          "data_type": "DECIMAL(10,2)",
+          "ontology_class": "Cart",
+          "ontology_property": "subtotal",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "carts",
+          "field_name": "cart_no",
+          "data_type": "CHAR(50)",
+          "ontology_class": "Cart",
+          "ontology_property": "cartId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "carts",
+          "field_name": "created_dt",
+          "data_type": "DATETIME",
+          "ontology_class": "Cart",
+          "ontology_property": "createdDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    },
+    "discount_data": {
+      "table_name": "discount_data",
+      "ontology_class": "Discount",
+      "fields": [
+        {
+          "table_name": "discount_data",
+          "field_name": "discount_amt",
+          "data_type": "FLOAT",
+          "ontology_class": "Discount",
+          "ontology_property": "discountValue",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "discount_data",
+          "field_name": "valid_from",
+          "data_type": "TIMESTAMP",
+          "ontology_class": "Discount",
+          "ontology_property": "startDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "discount_data",
+          "field_name": "discount_type",
+          "data_type": "VARCHAR(255)",
+          "ontology_class": "Discount",
+          "ontology_property": "discountType",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "discount_data",
+          "field_name": "voucher_code",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Discount",
+          "ontology_property": "discountCode",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "discount_data",
+          "field_name": "valid_until",
+          "data_type": "TIMESTAMP WITH TIME ZONE",
+          "ontology_class": "Discount",
+          "ontology_property": "endDate",
+          "is_primary_key": false,
+          "is_nullable": true
+        },
+        {
+          "table_name": "discount_data",
+          "field_name": "d_id",
+          "data_type": "VARCHAR(100)",
+          "ontology_class": "Discount",
+          "ontology_property": "discountId",
+          "is_primary_key": true,
+          "is_nullable": false
+        },
+        {
+          "table_name": "discount_data",
+          "field_name": "minimumpurchase",
+          "data_type": "NUMERIC(12,2)",
+          "ontology_class": "Discount",
+          "ontology_property": "minimumPurchase",
+          "is_primary_key": false,
+          "is_nullable": true
+        }
+      ]
+    }
+  },
+  "field_mappings": [
+    {
+      "table_name": "customer_table",
+      "field_name": "l_name",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Customer",
+      "ontology_property": "lastName",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "fname",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Customer",
+      "ontology_property": "firstName",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "cust_id",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Customer",
+      "ontology_property": "customerId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "birth_dt",
+      "data_type": "TIMESTAMP",
+      "ontology_class": "Customer",
+      "ontology_property": "dateOfBirth",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "tier_type",
+      "data_type": "TEXT",
+      "ontology_class": "Customer",
+      "ontology_property": "customerTier",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "ph_num",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Customer",
+      "ontology_property": "phoneNumber",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "email_addr",
+      "data_type": "CHAR(50)",
+      "ontology_class": "Customer",
+      "ontology_property": "email",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "customer_table",
+      "field_name": "registered_on",
+      "data_type": "TIMESTAMP WITH TIME ZONE",
+      "ontology_class": "Customer",
+      "ontology_property": "registrationDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "order",
+      "field_name": "status",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Order",
+      "ontology_property": "orderStatus",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "order",
+      "field_name": "ord_ts",
+      "data_type": "TIMESTAMP WITH TIME ZONE",
+      "ontology_class": "Order",
+      "ontology_property": "orderDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "order",
+      "field_name": "ord_val",
+      "data_type": "FLOAT",
+      "ontology_class": "Order",
+      "ontology_property": "totalAmount",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "order",
+      "field_name": "shipping_type",
+      "data_type": "TEXT",
+      "ontology_class": "Order",
+      "ontology_property": "shippingMethod",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "order",
+      "field_name": "order_no",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Order",
+      "ontology_property": "orderId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "order",
+      "field_name": "trk_no",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Order",
+      "ontology_property": "trackingNumber",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "product_id",
+      "data_type": "TEXT",
+      "ontology_class": "Product",
+      "ontology_property": "productId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "p_name",
+      "data_type": "TEXT",
+      "ontology_class": "Product",
+      "ontology_property": "productName",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "brand_name",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Product",
+      "ontology_property": "brand",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "prod_dims",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Product",
+      "ontology_property": "dimensions",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "desc",
+      "data_type": "CLOB",
+      "ontology_class": "Product",
+      "ontology_property": "description",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "sku",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Product",
+      "ontology_property": "sku",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "price",
+      "data_type": "FLOAT",
+      "ontology_class": "Product",
+      "ontology_property": "price",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "product_data",
+      "field_name": "prod_weight",
+      "data_type": "DOUBLE",
+      "ontology_class": "Product",
+      "ontology_property": "weight",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "category",
+      "field_name": "item_desc",
+      "data_type": "TEXT",
+      "ontology_class": "Category",
+      "ontology_property": "description",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "category",
+      "field_name": "category_nm",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Category",
+      "ontology_property": "categoryName",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "category",
+      "field_name": "parent_id",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Category",
+      "ontology_property": "parentCategory",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "category",
+      "field_name": "level",
+      "data_type": "INTEGER",
+      "ontology_class": "Category",
+      "ontology_property": "level",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "category",
+      "field_name": "category_id",
+      "data_type": "TEXT",
+      "ontology_class": "Category",
+      "ontology_property": "categoryId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "payment",
+      "field_name": "status",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Payment",
+      "ontology_property": "paymentStatus",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "payment",
+      "field_name": "pay_amount",
+      "data_type": "DOUBLE",
+      "ontology_class": "Payment",
+      "ontology_property": "amount",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "payment",
+      "field_name": "payment_dt",
+      "data_type": "DATETIME",
+      "ontology_class": "Payment",
+      "ontology_property": "paymentDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "payment",
+      "field_name": "pay_id",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Payment",
+      "ontology_property": "paymentId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "payment",
+      "field_name": "payment_mode",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Payment",
+      "ontology_property": "paymentMethod",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "payment",
+      "field_name": "txn_id",
+      "data_type": "TEXT",
+      "ontology_class": "Payment",
+      "ontology_property": "transactionId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "locality",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Address",
+      "ontology_property": "city",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "province",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Address",
+      "ontology_property": "state",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "country",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Address",
+      "ontology_property": "country",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "location_type",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Address",
+      "ontology_property": "addressType",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "address1",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Address",
+      "ontology_property": "streetAddress",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "add_id",
+      "data_type": "CHAR(50)",
+      "ontology_class": "Address",
+      "ontology_property": "addressId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "address_tbl",
+      "field_name": "zip",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Address",
+      "ontology_property": "postalCode",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "review_data",
+      "field_name": "rev_date",
+      "data_type": "TIMESTAMP",
+      "ontology_class": "Review",
+      "ontology_property": "reviewDate",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "review_data",
+      "field_name": "r_id",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Review",
+      "ontology_property": "reviewId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "review_data",
+      "field_name": "is_verified",
+      "data_type": "TINYINT(1)",
+      "ontology_class": "Review",
+      "ontology_property": "verified",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "review_data",
+      "field_name": "upvotes",
+      "data_type": "BIGINT",
+      "ontology_class": "Review",
+      "ontology_property": "helpfulCount",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "review_data",
+      "field_name": "rate",
+      "data_type": "DECIMAL(10,2)",
+      "ontology_class": "Review",
+      "ontology_property": "rating",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "review_data",
+      "field_name": "feedback",
+      "data_type": "CLOB",
+      "ontology_class": "Review",
+      "ontology_property": "reviewText",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "vendor_id",
+      "data_type": "TEXT",
+      "ontology_class": "Vendor",
+      "ontology_property": "vendorId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "contact_email",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Vendor",
+      "ontology_property": "contactEmail",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "status",
+      "data_type": "BIT",
+      "ontology_class": "Vendor",
+      "ontology_property": "activeStatus",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "phone_no",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Vendor",
+      "ontology_property": "phoneNumber",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "supplier_name",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Vendor",
+      "ontology_property": "vendorName",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "signup_date",
+      "data_type": "TIMESTAMP",
+      "ontology_class": "Vendor",
+      "ontology_property": "registrationDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "vendor_table",
+      "field_name": "score",
+      "data_type": "FLOAT",
+      "ontology_class": "Vendor",
+      "ontology_property": "rating",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "carts",
+      "field_name": "last_modified",
+      "data_type": "TIMESTAMP",
+      "ontology_class": "Cart",
+      "ontology_property": "lastModified",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "carts",
+      "field_name": "total_items",
+      "data_type": "BIGINT",
+      "ontology_class": "Cart",
+      "ontology_property": "totalItems",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "carts",
+      "field_name": "item_total",
+      "data_type": "DECIMAL(10,2)",
+      "ontology_class": "Cart",
+      "ontology_property": "subtotal",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "carts",
+      "field_name": "cart_no",
+      "data_type": "CHAR(50)",
+      "ontology_class": "Cart",
+      "ontology_property": "cartId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "carts",
+      "field_name": "created_dt",
+      "data_type": "DATETIME",
+      "ontology_class": "Cart",
+      "ontology_property": "createdDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "discount_amt",
+      "data_type": "FLOAT",
+      "ontology_class": "Discount",
+      "ontology_property": "discountValue",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "valid_from",
+      "data_type": "TIMESTAMP",
+      "ontology_class": "Discount",
+      "ontology_property": "startDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "discount_type",
+      "data_type": "VARCHAR(255)",
+      "ontology_class": "Discount",
+      "ontology_property": "discountType",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "voucher_code",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Discount",
+      "ontology_property": "discountCode",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "valid_until",
+      "data_type": "TIMESTAMP WITH TIME ZONE",
+      "ontology_class": "Discount",
+      "ontology_property": "endDate",
+      "is_primary_key": false,
+      "is_nullable": true
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "d_id",
+      "data_type": "VARCHAR(100)",
+      "ontology_class": "Discount",
+      "ontology_property": "discountId",
+      "is_primary_key": true,
+      "is_nullable": false
+    },
+    {
+      "table_name": "discount_data",
+      "field_name": "minimumpurchase",
+      "data_type": "NUMERIC(12,2)",
+      "ontology_class": "Discount",
+      "ontology_property": "minimumPurchase",
+      "is_primary_key": false,
+      "is_nullable": true
+    }
+  ]
+}

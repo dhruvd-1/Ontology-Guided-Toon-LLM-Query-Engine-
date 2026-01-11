@@ -1,0 +1,7002 @@
+[
+  {
+    "last_modified": "CAR-000001",
+    "total_items": 250.81,
+    "item_total": 59.57,
+    "cart_no": "CAR-000001",
+    "created_dt": "2025-05-21T19:25:20.917897"
+  },
+  {
+    "last_modified": "CAR-000002",
+    "total_items": 341.23,
+    "item_total": 790.7,
+    "cart_no": "CAR-000002",
+    "created_dt": "2025-05-20T19:25:20.917907"
+  },
+  {
+    "last_modified": "CAR-000003",
+    "total_items": 91.79,
+    "item_total": 945.24,
+    "cart_no": "CAR-000003",
+    "created_dt": "2025-10-25T19:25:20.917915"
+  },
+  {
+    "last_modified": "CAR-000004",
+    "total_items": 747.77,
+    "item_total": 105.22,
+    "cart_no": "CAR-000004",
+    "created_dt": "2025-08-21T19:25:20.917922"
+  },
+  {
+    "last_modified": "CAR-000005",
+    "total_items": 403.0,
+    "item_total": 830.52,
+    "cart_no": "CAR-000005",
+    "created_dt": "2025-03-05T19:25:20.917929"
+  },
+  {
+    "last_modified": "CAR-000006",
+    "total_items": 424.87,
+    "item_total": 40.42,
+    "cart_no": "CAR-000006",
+    "created_dt": "2025-11-04T19:25:20.917936"
+  },
+  {
+    "last_modified": "CAR-000007",
+    "total_items": 143.2,
+    "item_total": 355.16,
+    "cart_no": "CAR-000007",
+    "created_dt": "2024-11-08T19:25:20.917943"
+  },
+  {
+    "last_modified": "CAR-000008",
+    "total_items": 672.73,
+    "item_total": 846.25,
+    "cart_no": "CAR-000008",
+    "created_dt": "2024-02-21T19:25:20.917950"
+  },
+  {
+    "last_modified": "CAR-000009",
+    "total_items": 601.89,
+    "item_total": 864.88,
+    "cart_no": "CAR-000009",
+    "created_dt": "2024-11-19T19:25:20.917957"
+  },
+  {
+    "last_modified": "CAR-000010",
+    "total_items": 228.45,
+    "item_total": 296.13,
+    "cart_no": "CAR-000010",
+    "created_dt": "2023-03-22T19:25:20.917964"
+  },
+  {
+    "last_modified": "CAR-000011",
+    "total_items": 716.59,
+    "item_total": 364.58,
+    "cart_no": "CAR-000011",
+    "created_dt": "2025-07-11T19:25:20.917975"
+  },
+  {
+    "last_modified": "CAR-000012",
+    "total_items": 604.12,
+    "item_total": 116.72,
+    "cart_no": "CAR-000012",
+    "created_dt": "2023-10-07T19:25:20.917984"
+  },
+  {
+    "last_modified": "CAR-000013",
+    "total_items": 477.27,
+    "item_total": 100.38,
+    "cart_no": "CAR-000013",
+    "created_dt": "2024-08-11T19:25:20.917991"
+  },
+  {
+    "last_modified": "CAR-000014",
+    "total_items": 390.56,
+    "item_total": 970.6,
+    "cart_no": "CAR-000014",
+    "created_dt": "2023-03-12T19:25:20.917998"
+  },
+  {
+    "last_modified": "CAR-000015",
+    "total_items": 924.89,
+    "item_total": 985.1,
+    "cart_no": "CAR-000015",
+    "created_dt": "2023-11-08T19:25:20.918005"
+  },
+  {
+    "last_modified": "CAR-000016",
+    "total_items": 854.53,
+    "item_total": 681.99,
+    "cart_no": "CAR-000016",
+    "created_dt": "2024-09-05T19:25:20.918012"
+  },
+  {
+    "last_modified": "CAR-000017",
+    "total_items": 814.19,
+    "item_total": 32.72,
+    "cart_no": "CAR-000017",
+    "created_dt": "2024-11-10T19:25:20.918018"
+  },
+  {
+    "last_modified": "CAR-000018",
+    "total_items": 100.7,
+    "item_total": 994.97,
+    "cart_no": "CAR-000018",
+    "created_dt": "2023-04-02T19:25:20.918025"
+  },
+  {
+    "last_modified": "CAR-000019",
+    "total_items": 695.75,
+    "item_total": 819.11,
+    "cart_no": "CAR-000019",
+    "created_dt": "2023-09-28T19:25:20.918032"
+  },
+  {
+    "last_modified": "CAR-000020",
+    "total_items": 429.05,
+    "item_total": 154.79,
+    "cart_no": "CAR-000020",
+    "created_dt": "2023-02-13T19:25:20.918039"
+  },
+  {
+    "last_modified": "CAR-000021",
+    "total_items": 150.57,
+    "item_total": 398.92,
+    "cart_no": "CAR-000021",
+    "created_dt": "2024-02-27T19:25:20.918046"
+  },
+  {
+    "last_modified": "CAR-000022",
+    "total_items": 271.23,
+    "item_total": 890.08,
+    "cart_no": "CAR-000022",
+    "created_dt": "2025-02-03T19:25:20.918055"
+  },
+  {
+    "last_modified": "CAR-000023",
+    "total_items": 988.62,
+    "item_total": 503.08,
+    "cart_no": "CAR-000023",
+    "created_dt": "2025-04-21T19:25:20.918062"
+  },
+  {
+    "last_modified": "CAR-000024",
+    "total_items": 297.2,
+    "item_total": 49.0,
+    "cart_no": "CAR-000024",
+    "created_dt": "2025-10-31T19:25:20.918068"
+  },
+  {
+    "last_modified": "CAR-000025",
+    "total_items": 692.31,
+    "item_total": 737.29,
+    "cart_no": "CAR-000025",
+    "created_dt": "2025-03-26T19:25:20.918075"
+  },
+  {
+    "last_modified": "CAR-000026",
+    "total_items": 30.58,
+    "item_total": 397.21,
+    "cart_no": "CAR-000026",
+    "created_dt": "2025-09-30T19:25:20.918082"
+  },
+  {
+    "last_modified": "CAR-000027",
+    "total_items": 95.5,
+    "item_total": 669.87,
+    "cart_no": "CAR-000027",
+    "created_dt": "2023-11-29T19:25:20.918089"
+  },
+  {
+    "last_modified": "CAR-000028",
+    "total_items": 792.01,
+    "item_total": 326.43,
+    "cart_no": "CAR-000028",
+    "created_dt": "2025-11-21T19:25:20.918095"
+  },
+  {
+    "last_modified": "CAR-000029",
+    "total_items": 563.88,
+    "item_total": 344.54,
+    "cart_no": "CAR-000029",
+    "created_dt": "2024-11-09T19:25:20.918102"
+  },
+  {
+    "last_modified": "CAR-000030",
+    "total_items": 825.66,
+    "item_total": 500.55,
+    "cart_no": "CAR-000030",
+    "created_dt": "2025-05-20T19:25:20.918109"
+  },
+  {
+    "last_modified": "CAR-000031",
+    "total_items": 406.64,
+    "item_total": 655.19,
+    "cart_no": "CAR-000031",
+    "created_dt": "2025-09-15T19:25:20.918115"
+  },
+  {
+    "last_modified": "CAR-000032",
+    "total_items": 880.32,
+    "item_total": 699.11,
+    "cart_no": "CAR-000032",
+    "created_dt": "2024-11-30T19:25:20.918122"
+  },
+  {
+    "last_modified": "CAR-000033",
+    "total_items": 988.47,
+    "item_total": 327.07,
+    "cart_no": "CAR-000033",
+    "created_dt": "2023-09-01T19:25:20.918129"
+  },
+  {
+    "last_modified": "CAR-000034",
+    "total_items": 846.57,
+    "item_total": 910.48,
+    "cart_no": "CAR-000034",
+    "created_dt": "2023-11-20T19:25:20.918139"
+  },
+  {
+    "last_modified": "CAR-000035",
+    "total_items": 602.29,
+    "item_total": 765.0,
+    "cart_no": "CAR-000035",
+    "created_dt": "2024-11-24T19:25:20.918146"
+  },
+  {
+    "last_modified": "CAR-000036",
+    "total_items": 813.71,
+    "item_total": 98.52,
+    "cart_no": "CAR-000036",
+    "created_dt": "2025-09-12T19:25:20.918152"
+  },
+  {
+    "last_modified": "CAR-000037",
+    "total_items": 66.3,
+    "item_total": 47.34,
+    "cart_no": "CAR-000037",
+    "created_dt": "2025-09-24T19:25:20.918159"
+  },
+  {
+    "last_modified": "CAR-000038",
+    "total_items": 531.06,
+    "item_total": 599.24,
+    "cart_no": "CAR-000038",
+    "created_dt": "2024-09-16T19:25:20.918166"
+  },
+  {
+    "last_modified": "CAR-000039",
+    "total_items": 75.31,
+    "item_total": 448.93,
+    "cart_no": "CAR-000039",
+    "created_dt": "2025-05-21T19:25:20.918180"
+  },
+  {
+    "last_modified": "CAR-000040",
+    "total_items": 729.85,
+    "item_total": 811.45,
+    "cart_no": "CAR-000040",
+    "created_dt": "2024-04-15T19:25:20.918187"
+  },
+  {
+    "last_modified": "CAR-000041",
+    "total_items": 855.07,
+    "item_total": 536.38,
+    "cart_no": "CAR-000041",
+    "created_dt": "2025-10-10T19:25:20.918193"
+  },
+  {
+    "last_modified": "CAR-000042",
+    "total_items": 181.76,
+    "item_total": 647.26,
+    "cart_no": "CAR-000042",
+    "created_dt": "2024-09-24T19:25:20.918200"
+  },
+  {
+    "last_modified": "CAR-000043",
+    "total_items": 342.56,
+    "item_total": 952.32,
+    "cart_no": "CAR-000043",
+    "created_dt": "2025-08-30T19:25:20.918207"
+  },
+  {
+    "last_modified": "CAR-000044",
+    "total_items": 341.75,
+    "item_total": 881.97,
+    "cart_no": "CAR-000044",
+    "created_dt": "2025-01-06T19:25:20.918214"
+  },
+  {
+    "last_modified": "CAR-000045",
+    "total_items": 628.74,
+    "item_total": 60.07,
+    "cart_no": "CAR-000045",
+    "created_dt": "2024-09-25T19:25:20.918220"
+  },
+  {
+    "last_modified": "CAR-000046",
+    "total_items": 58.88,
+    "item_total": 269.89,
+    "cart_no": "CAR-000046",
+    "created_dt": "2024-10-15T19:25:20.918227"
+  },
+  {
+    "last_modified": "CAR-000047",
+    "total_items": 637.02,
+    "item_total": 422.99,
+    "cart_no": "CAR-000047",
+    "created_dt": "2025-07-12T19:25:20.918234"
+  },
+  {
+    "last_modified": "CAR-000048",
+    "total_items": 250.02,
+    "item_total": 423.31,
+    "cart_no": "CAR-000048",
+    "created_dt": "2025-01-26T19:25:20.918240"
+  },
+  {
+    "last_modified": "CAR-000049",
+    "total_items": 538.45,
+    "item_total": 646.27,
+    "cart_no": "CAR-000049",
+    "created_dt": "2023-02-26T19:25:20.918254"
+  },
+  {
+    "last_modified": "CAR-000050",
+    "total_items": 790.98,
+    "item_total": 91.52,
+    "cart_no": "CAR-000050",
+    "created_dt": "2025-04-04T19:25:20.918261"
+  },
+  {
+    "last_modified": "CAR-000051",
+    "total_items": 677.64,
+    "item_total": 434.8,
+    "cart_no": "CAR-000051",
+    "created_dt": "2025-08-26T19:25:20.918268"
+  },
+  {
+    "last_modified": "CAR-000052",
+    "total_items": 355.3,
+    "item_total": 984.3,
+    "cart_no": "CAR-000052",
+    "created_dt": "2024-04-29T19:25:20.918276"
+  },
+  {
+    "last_modified": "CAR-000053",
+    "total_items": 782.01,
+    "item_total": 895.19,
+    "cart_no": "CAR-000053",
+    "created_dt": "2024-08-02T19:25:20.918287"
+  },
+  {
+    "last_modified": "CAR-000054",
+    "total_items": 771.41,
+    "item_total": 848.34,
+    "cart_no": "CAR-000054",
+    "created_dt": "2024-01-29T19:25:20.918296"
+  },
+  {
+    "last_modified": "CAR-000055",
+    "total_items": 912.25,
+    "item_total": 228.09,
+    "cart_no": "CAR-000055",
+    "created_dt": "2025-07-13T19:25:20.918303"
+  },
+  {
+    "last_modified": "CAR-000056",
+    "total_items": 45.97,
+    "item_total": 355.36,
+    "cart_no": "CAR-000056",
+    "created_dt": "2024-11-01T19:25:20.918310"
+  },
+  {
+    "last_modified": "CAR-000057",
+    "total_items": 677.6,
+    "item_total": 744.27,
+    "cart_no": "CAR-000057",
+    "created_dt": "2025-12-23T19:25:20.918317"
+  },
+  {
+    "last_modified": "CAR-000058",
+    "total_items": 863.4,
+    "item_total": 438.32,
+    "cart_no": "CAR-000058",
+    "created_dt": "2024-11-20T19:25:20.918324"
+  },
+  {
+    "last_modified": "CAR-000059",
+    "total_items": 608.61,
+    "item_total": 622.55,
+    "cart_no": "CAR-000059",
+    "created_dt": "2024-05-25T19:25:20.918330"
+  },
+  {
+    "last_modified": "CAR-000060",
+    "total_items": 978.94,
+    "item_total": 103.72,
+    "cart_no": "CAR-000060",
+    "created_dt": "2025-04-29T19:25:20.918337"
+  },
+  {
+    "last_modified": "CAR-000061",
+    "total_items": 749.53,
+    "item_total": 148.53,
+    "cart_no": "CAR-000061",
+    "created_dt": "2023-08-29T19:25:20.918344"
+  },
+  {
+    "last_modified": "CAR-000062",
+    "total_items": 610.34,
+    "item_total": 479.63,
+    "cart_no": "CAR-000062",
+    "created_dt": "2023-09-27T19:25:20.918353"
+  },
+  {
+    "last_modified": "CAR-000063",
+    "total_items": 736.11,
+    "item_total": 362.42,
+    "cart_no": "CAR-000063",
+    "created_dt": "2025-11-12T19:25:20.918360"
+  },
+  {
+    "last_modified": "CAR-000064",
+    "total_items": 759.89,
+    "item_total": 112.81,
+    "cart_no": "CAR-000064",
+    "created_dt": "2023-04-21T19:25:20.918366"
+  },
+  {
+    "last_modified": "CAR-000065",
+    "total_items": 432.87,
+    "item_total": 693.18,
+    "cart_no": "CAR-000065",
+    "created_dt": "2025-06-22T19:25:20.918373"
+  },
+  {
+    "last_modified": "CAR-000066",
+    "total_items": 514.0,
+    "item_total": 483.93,
+    "cart_no": "CAR-000066",
+    "created_dt": "2025-04-28T19:25:20.918380"
+  },
+  {
+    "last_modified": "CAR-000067",
+    "total_items": 661.62,
+    "item_total": 547.27,
+    "cart_no": "CAR-000067",
+    "created_dt": "2024-10-23T19:25:20.918387"
+  },
+  {
+    "last_modified": "CAR-000068",
+    "total_items": 415.08,
+    "item_total": 243.83,
+    "cart_no": "CAR-000068",
+    "created_dt": "2023-01-28T19:25:20.918393"
+  },
+  {
+    "last_modified": "CAR-000069",
+    "total_items": 906.99,
+    "item_total": 670.1,
+    "cart_no": "CAR-000069",
+    "created_dt": "2025-11-20T19:25:20.918400"
+  },
+  {
+    "last_modified": "CAR-000070",
+    "total_items": 96.9,
+    "item_total": 658.19,
+    "cart_no": "CAR-000070",
+    "created_dt": "2025-02-13T19:25:20.918407"
+  },
+  {
+    "last_modified": "CAR-000071",
+    "total_items": 465.29,
+    "item_total": 407.5,
+    "cart_no": "CAR-000071",
+    "created_dt": "2025-02-18T19:25:20.918414"
+  },
+  {
+    "last_modified": "CAR-000072",
+    "total_items": 192.23,
+    "item_total": 437.93,
+    "cart_no": "CAR-000072",
+    "created_dt": "2023-07-15T19:25:20.918421"
+  },
+  {
+    "last_modified": "CAR-000073",
+    "total_items": 519.58,
+    "item_total": 694.22,
+    "cart_no": "CAR-000073",
+    "created_dt": "2025-12-18T19:25:20.918427"
+  },
+  {
+    "last_modified": "CAR-000074",
+    "total_items": 574.18,
+    "item_total": 690.91,
+    "cart_no": "CAR-000074",
+    "created_dt": "2023-07-08T19:25:20.918434"
+  },
+  {
+    "last_modified": "CAR-000075",
+    "total_items": 647.15,
+    "item_total": 94.77,
+    "cart_no": "CAR-000075",
+    "created_dt": "2023-10-23T19:25:20.918443"
+  },
+  {
+    "last_modified": "CAR-000076",
+    "total_items": 989.62,
+    "item_total": 331.62,
+    "cart_no": "CAR-000076",
+    "created_dt": "2024-12-22T19:25:20.918450"
+  },
+  {
+    "last_modified": "CAR-000077",
+    "total_items": 554.79,
+    "item_total": 644.42,
+    "cart_no": "CAR-000077",
+    "created_dt": "2026-01-08T19:25:20.918457"
+  },
+  {
+    "last_modified": "CAR-000078",
+    "total_items": 469.16,
+    "item_total": 584.97,
+    "cart_no": "CAR-000078",
+    "created_dt": "2024-09-01T19:25:20.918464"
+  },
+  {
+    "last_modified": "CAR-000079",
+    "total_items": 810.34,
+    "item_total": 569.94,
+    "cart_no": "CAR-000079",
+    "created_dt": "2025-06-06T19:25:20.918470"
+  },
+  {
+    "last_modified": "CAR-000080",
+    "total_items": 144.22,
+    "item_total": 347.98,
+    "cart_no": "CAR-000080",
+    "created_dt": "2023-05-09T19:25:20.918477"
+  },
+  {
+    "last_modified": "CAR-000081",
+    "total_items": 485.47,
+    "item_total": 160.77,
+    "cart_no": "CAR-000081",
+    "created_dt": "2024-03-20T19:25:20.918484"
+  },
+  {
+    "last_modified": "CAR-000082",
+    "total_items": 974.79,
+    "item_total": 837.59,
+    "cart_no": "CAR-000082",
+    "created_dt": "2023-11-23T19:25:20.918490"
+  },
+  {
+    "last_modified": "CAR-000083",
+    "total_items": 303.42,
+    "item_total": 553.55,
+    "cart_no": "CAR-000083",
+    "created_dt": "2024-12-21T19:25:20.918497"
+  },
+  {
+    "last_modified": "CAR-000084",
+    "total_items": 913.01,
+    "item_total": 375.66,
+    "cart_no": "CAR-000084",
+    "created_dt": "2023-01-16T19:25:20.918503"
+  },
+  {
+    "last_modified": "CAR-000085",
+    "total_items": 34.39,
+    "item_total": 39.03,
+    "cart_no": "CAR-000085",
+    "created_dt": "2025-08-14T19:25:20.918513"
+  },
+  {
+    "last_modified": "CAR-000086",
+    "total_items": 919.27,
+    "item_total": 941.78,
+    "cart_no": "CAR-000086",
+    "created_dt": "2024-05-24T19:25:20.918520"
+  },
+  {
+    "last_modified": "CAR-000087",
+    "total_items": 133.55,
+    "item_total": 446.41,
+    "cart_no": "CAR-000087",
+    "created_dt": "2023-11-08T19:25:20.918526"
+  },
+  {
+    "last_modified": "CAR-000088",
+    "total_items": 336.36,
+    "item_total": 555.92,
+    "cart_no": "CAR-000088",
+    "created_dt": "2024-12-20T19:25:20.918533"
+  },
+  {
+    "last_modified": "CAR-000089",
+    "total_items": 575.94,
+    "item_total": 953.86,
+    "cart_no": "CAR-000089",
+    "created_dt": "2025-03-31T19:25:20.918540"
+  },
+  {
+    "last_modified": "CAR-000090",
+    "total_items": 594.33,
+    "item_total": 949.52,
+    "cart_no": "CAR-000090",
+    "created_dt": "2024-01-19T19:25:20.918546"
+  },
+  {
+    "last_modified": "CAR-000091",
+    "total_items": 868.73,
+    "item_total": 357.41,
+    "cart_no": "CAR-000091",
+    "created_dt": "2025-07-03T19:25:20.918553"
+  },
+  {
+    "last_modified": "CAR-000092",
+    "total_items": 539.04,
+    "item_total": 446.99,
+    "cart_no": "CAR-000092",
+    "created_dt": "2025-05-21T19:25:20.918560"
+  },
+  {
+    "last_modified": "CAR-000093",
+    "total_items": 843.1,
+    "item_total": 315.29,
+    "cart_no": "CAR-000093",
+    "created_dt": "2023-08-16T19:25:20.918566"
+  },
+  {
+    "last_modified": "CAR-000094",
+    "total_items": 48.98,
+    "item_total": 874.31,
+    "cart_no": "CAR-000094",
+    "created_dt": "2024-01-01T19:25:20.918573"
+  },
+  {
+    "last_modified": "CAR-000095",
+    "total_items": 776.13,
+    "item_total": 14.32,
+    "cart_no": "CAR-000095",
+    "created_dt": "2024-12-29T19:25:20.918580"
+  },
+  {
+    "last_modified": "CAR-000096",
+    "total_items": 269.27,
+    "item_total": 598.42,
+    "cart_no": "CAR-000096",
+    "created_dt": "2025-01-04T19:25:20.918587"
+  },
+  {
+    "last_modified": "CAR-000097",
+    "total_items": 527.62,
+    "item_total": 452.73,
+    "cart_no": "CAR-000097",
+    "created_dt": "2023-04-09T19:25:20.918596"
+  },
+  {
+    "last_modified": "CAR-000098",
+    "total_items": 356.08,
+    "item_total": 468.42,
+    "cart_no": "CAR-000098",
+    "created_dt": "2025-09-30T19:25:20.918603"
+  },
+  {
+    "last_modified": "CAR-000099",
+    "total_items": 630.19,
+    "item_total": 646.13,
+    "cart_no": "CAR-000099",
+    "created_dt": "2025-03-26T19:25:20.918609"
+  },
+  {
+    "last_modified": "CAR-000100",
+    "total_items": 593.75,
+    "item_total": 27.84,
+    "cart_no": "CAR-000100",
+    "created_dt": "2025-06-15T19:25:20.918616"
+  },
+  {
+    "last_modified": "CAR-000101",
+    "total_items": 733.78,
+    "item_total": 158.43,
+    "cart_no": "CAR-000101",
+    "created_dt": "2025-12-13T19:25:20.918623"
+  },
+  {
+    "last_modified": "CAR-000102",
+    "total_items": 73.17,
+    "item_total": 512.1,
+    "cart_no": "CAR-000102",
+    "created_dt": "2025-10-28T19:25:20.918630"
+  },
+  {
+    "last_modified": "CAR-000103",
+    "total_items": 498.47,
+    "item_total": 179.21,
+    "cart_no": "CAR-000103",
+    "created_dt": "2025-11-23T19:25:20.918636"
+  },
+  {
+    "last_modified": "CAR-000104",
+    "total_items": 407.49,
+    "item_total": 646.7,
+    "cart_no": "CAR-000104",
+    "created_dt": "2024-02-04T19:25:20.918643"
+  },
+  {
+    "last_modified": "CAR-000105",
+    "total_items": 157.74,
+    "item_total": 189.35,
+    "cart_no": "CAR-000105",
+    "created_dt": "2024-10-01T19:25:20.918650"
+  },
+  {
+    "last_modified": "CAR-000106",
+    "total_items": 852.47,
+    "item_total": 413.99,
+    "cart_no": "CAR-000106",
+    "created_dt": "2024-11-04T19:25:20.918656"
+  },
+  {
+    "last_modified": "CAR-000107",
+    "total_items": 822.63,
+    "item_total": 637.65,
+    "cart_no": "CAR-000107",
+    "created_dt": "2025-12-08T19:25:20.918663"
+  },
+  {
+    "last_modified": "CAR-000108",
+    "total_items": 390.6,
+    "item_total": 887.57,
+    "cart_no": "CAR-000108",
+    "created_dt": "2025-12-13T19:25:20.918670"
+  },
+  {
+    "last_modified": "CAR-000109",
+    "total_items": 784.63,
+    "item_total": 503.49,
+    "cart_no": "CAR-000109",
+    "created_dt": "2024-12-05T19:25:20.918676"
+  },
+  {
+    "last_modified": "CAR-000110",
+    "total_items": 29.61,
+    "item_total": 144.74,
+    "cart_no": "CAR-000110",
+    "created_dt": "2024-07-23T19:25:20.918683"
+  },
+  {
+    "last_modified": "CAR-000111",
+    "total_items": 787.64,
+    "item_total": 905.65,
+    "cart_no": "CAR-000111",
+    "created_dt": "2023-08-26T19:25:20.918690"
+  },
+  {
+    "last_modified": "CAR-000112",
+    "total_items": 147.5,
+    "item_total": 704.73,
+    "cart_no": "CAR-000112",
+    "created_dt": "2023-06-30T19:25:20.918696"
+  },
+  {
+    "last_modified": "CAR-000113",
+    "total_items": 369.85,
+    "item_total": 474.88,
+    "cart_no": "CAR-000113",
+    "created_dt": "2024-05-29T19:25:20.918704"
+  },
+  {
+    "last_modified": "CAR-000114",
+    "total_items": 994.2,
+    "item_total": 700.31,
+    "cart_no": "CAR-000114",
+    "created_dt": "2024-03-12T19:25:20.918711"
+  },
+  {
+    "last_modified": "CAR-000115",
+    "total_items": 499.87,
+    "item_total": 784.08,
+    "cart_no": "CAR-000115",
+    "created_dt": "2025-07-05T19:25:20.918720"
+  },
+  {
+    "last_modified": "CAR-000116",
+    "total_items": 808.69,
+    "item_total": 765.01,
+    "cart_no": "CAR-000116",
+    "created_dt": "2024-04-25T19:25:20.918727"
+  },
+  {
+    "last_modified": "CAR-000117",
+    "total_items": 397.12,
+    "item_total": 666.71,
+    "cart_no": "CAR-000117",
+    "created_dt": "2023-12-19T19:25:20.918745"
+  },
+  {
+    "last_modified": "CAR-000118",
+    "total_items": 902.28,
+    "item_total": 681.51,
+    "cart_no": "CAR-000118",
+    "created_dt": "2023-03-31T19:25:20.918752"
+  },
+  {
+    "last_modified": "CAR-000119",
+    "total_items": 263.16,
+    "item_total": 723.16,
+    "cart_no": "CAR-000119",
+    "created_dt": "2023-04-06T19:25:20.918761"
+  },
+  {
+    "last_modified": "CAR-000120",
+    "total_items": 791.1,
+    "item_total": 368.27,
+    "cart_no": "CAR-000120",
+    "created_dt": "2024-04-27T19:25:20.918768"
+  },
+  {
+    "last_modified": "CAR-000121",
+    "total_items": 260.62,
+    "item_total": 378.95,
+    "cart_no": "CAR-000121",
+    "created_dt": "2024-08-07T19:25:20.918774"
+  },
+  {
+    "last_modified": "CAR-000122",
+    "total_items": 337.0,
+    "item_total": 74.93,
+    "cart_no": "CAR-000122",
+    "created_dt": "2023-11-22T19:25:20.918781"
+  },
+  {
+    "last_modified": "CAR-000123",
+    "total_items": 658.76,
+    "item_total": 897.36,
+    "cart_no": "CAR-000123",
+    "created_dt": "2023-09-05T19:25:20.918788"
+  },
+  {
+    "last_modified": "CAR-000124",
+    "total_items": 360.4,
+    "item_total": 875.26,
+    "cart_no": "CAR-000124",
+    "created_dt": "2024-11-29T19:25:20.918794"
+  },
+  {
+    "last_modified": "CAR-000125",
+    "total_items": 669.59,
+    "item_total": 873.86,
+    "cart_no": "CAR-000125",
+    "created_dt": "2023-03-09T19:25:20.918801"
+  },
+  {
+    "last_modified": "CAR-000126",
+    "total_items": 206.32,
+    "item_total": 303.71,
+    "cart_no": "CAR-000126",
+    "created_dt": "2024-09-28T19:25:20.918808"
+  },
+  {
+    "last_modified": "CAR-000127",
+    "total_items": 664.74,
+    "item_total": 927.56,
+    "cart_no": "CAR-000127",
+    "created_dt": "2023-08-15T19:25:20.918814"
+  },
+  {
+    "last_modified": "CAR-000128",
+    "total_items": 633.68,
+    "item_total": 856.13,
+    "cart_no": "CAR-000128",
+    "created_dt": "2023-04-03T19:25:20.918821"
+  },
+  {
+    "last_modified": "CAR-000129",
+    "total_items": 223.68,
+    "item_total": 978.85,
+    "cart_no": "CAR-000129",
+    "created_dt": "2024-05-06T19:25:20.918828"
+  },
+  {
+    "last_modified": "CAR-000130",
+    "total_items": 522.41,
+    "item_total": 247.93,
+    "cart_no": "CAR-000130",
+    "created_dt": "2025-11-10T19:25:20.918835"
+  },
+  {
+    "last_modified": "CAR-000131",
+    "total_items": 862.07,
+    "item_total": 813.29,
+    "cart_no": "CAR-000131",
+    "created_dt": "2023-05-17T19:25:20.918841"
+  },
+  {
+    "last_modified": "CAR-000132",
+    "total_items": 371.27,
+    "item_total": 476.29,
+    "cart_no": "CAR-000132",
+    "created_dt": "2023-03-06T19:25:20.918848"
+  },
+  {
+    "last_modified": "CAR-000133",
+    "total_items": 902.08,
+    "item_total": 297.82,
+    "cart_no": "CAR-000133",
+    "created_dt": "2025-02-18T19:25:20.918855"
+  },
+  {
+    "last_modified": "CAR-000134",
+    "total_items": 775.41,
+    "item_total": 653.94,
+    "cart_no": "CAR-000134",
+    "created_dt": "2024-10-19T19:25:20.918861"
+  },
+  {
+    "last_modified": "CAR-000135",
+    "total_items": 660.32,
+    "item_total": 652.34,
+    "cart_no": "CAR-000135",
+    "created_dt": "2024-05-04T19:25:20.918868"
+  },
+  {
+    "last_modified": "CAR-000136",
+    "total_items": 251.42,
+    "item_total": 975.64,
+    "cart_no": "CAR-000136",
+    "created_dt": "2023-08-12T19:25:20.918874"
+  },
+  {
+    "last_modified": "CAR-000137",
+    "total_items": 996.85,
+    "item_total": 693.6,
+    "cart_no": "CAR-000137",
+    "created_dt": "2025-11-06T19:25:20.918881"
+  },
+  {
+    "last_modified": "CAR-000138",
+    "total_items": 362.47,
+    "item_total": 765.53,
+    "cart_no": "CAR-000138",
+    "created_dt": "2024-04-24T19:25:20.918888"
+  },
+  {
+    "last_modified": "CAR-000139",
+    "total_items": 325.94,
+    "item_total": 68.98,
+    "cart_no": "CAR-000139",
+    "created_dt": "2025-11-05T19:25:20.918896"
+  },
+  {
+    "last_modified": "CAR-000140",
+    "total_items": 599.92,
+    "item_total": 536.69,
+    "cart_no": "CAR-000140",
+    "created_dt": "2023-10-11T19:25:20.918903"
+  },
+  {
+    "last_modified": "CAR-000141",
+    "total_items": 468.85,
+    "item_total": 735.49,
+    "cart_no": "CAR-000141",
+    "created_dt": "2025-12-24T19:25:20.918910"
+  },
+  {
+    "last_modified": "CAR-000142",
+    "total_items": 60.63,
+    "item_total": 205.1,
+    "cart_no": "CAR-000142",
+    "created_dt": "2025-01-22T19:25:20.918916"
+  },
+  {
+    "last_modified": "CAR-000143",
+    "total_items": 918.59,
+    "item_total": 760.58,
+    "cart_no": "CAR-000143",
+    "created_dt": "2024-12-04T19:25:20.918923"
+  },
+  {
+    "last_modified": "CAR-000144",
+    "total_items": 571.47,
+    "item_total": 699.97,
+    "cart_no": "CAR-000144",
+    "created_dt": "2023-07-09T19:25:20.918930"
+  },
+  {
+    "last_modified": "CAR-000145",
+    "total_items": 235.0,
+    "item_total": 740.92,
+    "cart_no": "CAR-000145",
+    "created_dt": "2025-03-25T19:25:20.918936"
+  },
+  {
+    "last_modified": "CAR-000146",
+    "total_items": 846.09,
+    "item_total": 594.39,
+    "cart_no": "CAR-000146",
+    "created_dt": "2024-07-06T19:25:20.918943"
+  },
+  {
+    "last_modified": "CAR-000147",
+    "total_items": 638.59,
+    "item_total": 922.87,
+    "cart_no": "CAR-000147",
+    "created_dt": "2025-12-31T19:25:20.918950"
+  },
+  {
+    "last_modified": "CAR-000148",
+    "total_items": 249.27,
+    "item_total": 926.12,
+    "cart_no": "CAR-000148",
+    "created_dt": "2025-09-02T19:25:20.918956"
+  },
+  {
+    "last_modified": "CAR-000149",
+    "total_items": 427.49,
+    "item_total": 341.73,
+    "cart_no": "CAR-000149",
+    "created_dt": "2024-01-21T19:25:20.918965"
+  },
+  {
+    "last_modified": "CAR-000150",
+    "total_items": 118.84,
+    "item_total": 48.07,
+    "cart_no": "CAR-000150",
+    "created_dt": "2025-04-13T19:25:20.918972"
+  },
+  {
+    "last_modified": "CAR-000151",
+    "total_items": 692.24,
+    "item_total": 639.67,
+    "cart_no": "CAR-000151",
+    "created_dt": "2024-05-05T19:25:20.918979"
+  },
+  {
+    "last_modified": "CAR-000152",
+    "total_items": 992.53,
+    "item_total": 32.93,
+    "cart_no": "CAR-000152",
+    "created_dt": "2024-12-27T19:25:20.918986"
+  },
+  {
+    "last_modified": "CAR-000153",
+    "total_items": 959.83,
+    "item_total": 103.27,
+    "cart_no": "CAR-000153",
+    "created_dt": "2024-11-06T19:25:20.918992"
+  },
+  {
+    "last_modified": "CAR-000154",
+    "total_items": 349.98,
+    "item_total": 885.87,
+    "cart_no": "CAR-000154",
+    "created_dt": "2025-03-30T19:25:20.918999"
+  },
+  {
+    "last_modified": "CAR-000155",
+    "total_items": 909.77,
+    "item_total": 600.66,
+    "cart_no": "CAR-000155",
+    "created_dt": "2024-09-20T19:25:20.919006"
+  },
+  {
+    "last_modified": "CAR-000156",
+    "total_items": 826.12,
+    "item_total": 753.09,
+    "cart_no": "CAR-000156",
+    "created_dt": "2024-03-03T19:25:20.919013"
+  },
+  {
+    "last_modified": "CAR-000157",
+    "total_items": 196.21,
+    "item_total": 799.51,
+    "cart_no": "CAR-000157",
+    "created_dt": "2025-06-18T19:25:20.919019"
+  },
+  {
+    "last_modified": "CAR-000158",
+    "total_items": 120.56,
+    "item_total": 246.61,
+    "cart_no": "CAR-000158",
+    "created_dt": "2024-01-18T19:25:20.919026"
+  },
+  {
+    "last_modified": "CAR-000159",
+    "total_items": 580.34,
+    "item_total": 282.02,
+    "cart_no": "CAR-000159",
+    "created_dt": "2025-02-02T19:25:20.919033"
+  },
+  {
+    "last_modified": "CAR-000160",
+    "total_items": 407.09,
+    "item_total": 192.8,
+    "cart_no": "CAR-000160",
+    "created_dt": "2023-06-11T19:25:20.919042"
+  },
+  {
+    "last_modified": "CAR-000161",
+    "total_items": 818.94,
+    "item_total": 157.5,
+    "cart_no": "CAR-000161",
+    "created_dt": "2023-08-04T19:25:20.919049"
+  },
+  {
+    "last_modified": "CAR-000162",
+    "total_items": 842.09,
+    "item_total": 386.5,
+    "cart_no": "CAR-000162",
+    "created_dt": "2024-12-30T19:25:20.919055"
+  },
+  {
+    "last_modified": "CAR-000163",
+    "total_items": 808.06,
+    "item_total": 350.51,
+    "cart_no": "CAR-000163",
+    "created_dt": "2025-09-27T19:25:20.919062"
+  },
+  {
+    "last_modified": "CAR-000164",
+    "total_items": 528.34,
+    "item_total": 500.95,
+    "cart_no": "CAR-000164",
+    "created_dt": "2023-01-23T19:25:20.919071"
+  },
+  {
+    "last_modified": "CAR-000165",
+    "total_items": 200.51,
+    "item_total": 717.76,
+    "cart_no": "CAR-000165",
+    "created_dt": "2024-01-24T19:25:20.919077"
+  },
+  {
+    "last_modified": "CAR-000166",
+    "total_items": 355.08,
+    "item_total": 348.8,
+    "cart_no": "CAR-000166",
+    "created_dt": "2025-07-29T19:25:20.919084"
+  },
+  {
+    "last_modified": "CAR-000167",
+    "total_items": 266.95,
+    "item_total": 759.03,
+    "cart_no": "CAR-000167",
+    "created_dt": "2025-10-18T19:25:20.919091"
+  },
+  {
+    "last_modified": "CAR-000168",
+    "total_items": 800.2,
+    "item_total": 825.56,
+    "cart_no": "CAR-000168",
+    "created_dt": "2025-07-28T19:25:20.919097"
+  },
+  {
+    "last_modified": "CAR-000169",
+    "total_items": 588.75,
+    "item_total": 330.94,
+    "cart_no": "CAR-000169",
+    "created_dt": "2025-08-02T19:25:20.919104"
+  },
+  {
+    "last_modified": "CAR-000170",
+    "total_items": 481.87,
+    "item_total": 902.86,
+    "cart_no": "CAR-000170",
+    "created_dt": "2024-04-26T19:25:20.919111"
+  },
+  {
+    "last_modified": "CAR-000171",
+    "total_items": 350.58,
+    "item_total": 363.9,
+    "cart_no": "CAR-000171",
+    "created_dt": "2024-10-16T19:25:20.919117"
+  },
+  {
+    "last_modified": "CAR-000172",
+    "total_items": 691.75,
+    "item_total": 701.55,
+    "cart_no": "CAR-000172",
+    "created_dt": "2023-09-07T19:25:20.919124"
+  },
+  {
+    "last_modified": "CAR-000173",
+    "total_items": 144.36,
+    "item_total": 194.61,
+    "cart_no": "CAR-000173",
+    "created_dt": "2025-06-03T19:25:20.919131"
+  },
+  {
+    "last_modified": "CAR-000174",
+    "total_items": 421.58,
+    "item_total": 207.8,
+    "cart_no": "CAR-000174",
+    "created_dt": "2023-07-19T19:25:20.919138"
+  },
+  {
+    "last_modified": "CAR-000175",
+    "total_items": 257.68,
+    "item_total": 104.51,
+    "cart_no": "CAR-000175",
+    "created_dt": "2025-03-28T19:25:20.919144"
+  },
+  {
+    "last_modified": "CAR-000176",
+    "total_items": 847.4,
+    "item_total": 671.12,
+    "cart_no": "CAR-000176",
+    "created_dt": "2023-05-11T19:25:20.919151"
+  },
+  {
+    "last_modified": "CAR-000177",
+    "total_items": 380.81,
+    "item_total": 428.95,
+    "cart_no": "CAR-000177",
+    "created_dt": "2025-02-02T19:25:20.919158"
+  },
+  {
+    "last_modified": "CAR-000178",
+    "total_items": 763.44,
+    "item_total": 264.75,
+    "cart_no": "CAR-000178",
+    "created_dt": "2025-06-16T19:25:20.919165"
+  },
+  {
+    "last_modified": "CAR-000179",
+    "total_items": 182.06,
+    "item_total": 430.07,
+    "cart_no": "CAR-000179",
+    "created_dt": "2023-02-22T19:25:20.919179"
+  },
+  {
+    "last_modified": "CAR-000180",
+    "total_items": 264.96,
+    "item_total": 127.34,
+    "cart_no": "CAR-000180",
+    "created_dt": "2023-07-19T19:25:20.919189"
+  },
+  {
+    "last_modified": "CAR-000181",
+    "total_items": 398.33,
+    "item_total": 23.97,
+    "cart_no": "CAR-000181",
+    "created_dt": "2025-09-10T19:25:20.919195"
+  },
+  {
+    "last_modified": "CAR-000182",
+    "total_items": 429.66,
+    "item_total": 241.7,
+    "cart_no": "CAR-000182",
+    "created_dt": "2023-08-10T19:25:20.919205"
+  },
+  {
+    "last_modified": "CAR-000183",
+    "total_items": 248.09,
+    "item_total": 792.2,
+    "cart_no": "CAR-000183",
+    "created_dt": "2024-09-15T19:25:20.919211"
+  },
+  {
+    "last_modified": "CAR-000184",
+    "total_items": 923.72,
+    "item_total": 601.74,
+    "cart_no": "CAR-000184",
+    "created_dt": "2025-08-11T19:25:20.919218"
+  },
+  {
+    "last_modified": "CAR-000185",
+    "total_items": 441.47,
+    "item_total": 499.13,
+    "cart_no": "CAR-000185",
+    "created_dt": "2025-09-10T19:25:20.919225"
+  },
+  {
+    "last_modified": "CAR-000186",
+    "total_items": 317.66,
+    "item_total": 42.16,
+    "cart_no": "CAR-000186",
+    "created_dt": "2024-03-05T19:25:20.919231"
+  },
+  {
+    "last_modified": "CAR-000187",
+    "total_items": 723.89,
+    "item_total": 823.29,
+    "cart_no": "CAR-000187",
+    "created_dt": "2025-03-23T19:25:20.919238"
+  },
+  {
+    "last_modified": "CAR-000188",
+    "total_items": 918.51,
+    "item_total": 133.79,
+    "cart_no": "CAR-000188",
+    "created_dt": "2023-09-05T19:25:20.919245"
+  },
+  {
+    "last_modified": "CAR-000189",
+    "total_items": 446.31,
+    "item_total": 679.93,
+    "cart_no": "CAR-000189",
+    "created_dt": "2025-06-19T19:25:20.919257"
+  },
+  {
+    "last_modified": "CAR-000190",
+    "total_items": 948.17,
+    "item_total": 952.75,
+    "cart_no": "CAR-000190",
+    "created_dt": "2024-10-26T19:25:20.919264"
+  },
+  {
+    "last_modified": "CAR-000191",
+    "total_items": 287.59,
+    "item_total": 236.86,
+    "cart_no": "CAR-000191",
+    "created_dt": "2023-01-18T19:25:20.919270"
+  },
+  {
+    "last_modified": "CAR-000192",
+    "total_items": 920.56,
+    "item_total": 535.29,
+    "cart_no": "CAR-000192",
+    "created_dt": "2025-10-23T19:25:20.919277"
+  },
+  {
+    "last_modified": "CAR-000193",
+    "total_items": 315.49,
+    "item_total": 350.71,
+    "cart_no": "CAR-000193",
+    "created_dt": "2025-07-08T19:25:20.919284"
+  },
+  {
+    "last_modified": "CAR-000194",
+    "total_items": 660.99,
+    "item_total": 653.71,
+    "cart_no": "CAR-000194",
+    "created_dt": "2025-09-14T19:25:20.919291"
+  },
+  {
+    "last_modified": "CAR-000195",
+    "total_items": 153.8,
+    "item_total": 611.73,
+    "cart_no": "CAR-000195",
+    "created_dt": "2024-08-31T19:25:20.919297"
+  },
+  {
+    "last_modified": "CAR-000196",
+    "total_items": 406.73,
+    "item_total": 372.61,
+    "cart_no": "CAR-000196",
+    "created_dt": "2025-03-19T19:25:20.919304"
+  },
+  {
+    "last_modified": "CAR-000197",
+    "total_items": 557.45,
+    "item_total": 787.58,
+    "cart_no": "CAR-000197",
+    "created_dt": "2024-09-10T19:25:20.919311"
+  },
+  {
+    "last_modified": "CAR-000198",
+    "total_items": 116.0,
+    "item_total": 262.8,
+    "cart_no": "CAR-000198",
+    "created_dt": "2023-05-20T19:25:20.919317"
+  },
+  {
+    "last_modified": "CAR-000199",
+    "total_items": 368.19,
+    "item_total": 377.37,
+    "cart_no": "CAR-000199",
+    "created_dt": "2023-11-26T19:25:20.919324"
+  },
+  {
+    "last_modified": "CAR-000200",
+    "total_items": 471.89,
+    "item_total": 610.31,
+    "cart_no": "CAR-000200",
+    "created_dt": "2025-09-01T19:25:20.919331"
+  },
+  {
+    "last_modified": "CAR-000201",
+    "total_items": 119.1,
+    "item_total": 337.92,
+    "cart_no": "CAR-000201",
+    "created_dt": "2025-11-21T19:25:20.919337"
+  },
+  {
+    "last_modified": "CAR-000202",
+    "total_items": 751.0,
+    "item_total": 632.42,
+    "cart_no": "CAR-000202",
+    "created_dt": "2024-12-08T19:25:20.919344"
+  },
+  {
+    "last_modified": "CAR-000203",
+    "total_items": 896.35,
+    "item_total": 526.12,
+    "cart_no": "CAR-000203",
+    "created_dt": "2024-11-20T19:25:20.919351"
+  },
+  {
+    "last_modified": "CAR-000204",
+    "total_items": 650.43,
+    "item_total": 256.24,
+    "cart_no": "CAR-000204",
+    "created_dt": "2023-12-09T19:25:20.919361"
+  },
+  {
+    "last_modified": "CAR-000205",
+    "total_items": 232.77,
+    "item_total": 797.59,
+    "cart_no": "CAR-000205",
+    "created_dt": "2025-10-23T19:25:20.919368"
+  },
+  {
+    "last_modified": "CAR-000206",
+    "total_items": 688.82,
+    "item_total": 857.2,
+    "cart_no": "CAR-000206",
+    "created_dt": "2023-04-25T19:25:20.919375"
+  },
+  {
+    "last_modified": "CAR-000207",
+    "total_items": 488.81,
+    "item_total": 681.42,
+    "cart_no": "CAR-000207",
+    "created_dt": "2025-06-04T19:25:20.919382"
+  },
+  {
+    "last_modified": "CAR-000208",
+    "total_items": 327.49,
+    "item_total": 413.92,
+    "cart_no": "CAR-000208",
+    "created_dt": "2025-05-20T19:25:20.919388"
+  },
+  {
+    "last_modified": "CAR-000209",
+    "total_items": 949.24,
+    "item_total": 936.77,
+    "cart_no": "CAR-000209",
+    "created_dt": "2025-04-25T19:25:20.919395"
+  },
+  {
+    "last_modified": "CAR-000210",
+    "total_items": 395.93,
+    "item_total": 784.44,
+    "cart_no": "CAR-000210",
+    "created_dt": "2024-02-14T19:25:20.919402"
+  },
+  {
+    "last_modified": "CAR-000211",
+    "total_items": 810.81,
+    "item_total": 910.6,
+    "cart_no": "CAR-000211",
+    "created_dt": "2024-10-29T19:25:20.919409"
+  },
+  {
+    "last_modified": "CAR-000212",
+    "total_items": 858.66,
+    "item_total": 514.14,
+    "cart_no": "CAR-000212",
+    "created_dt": "2023-08-18T19:25:20.919417"
+  },
+  {
+    "last_modified": "CAR-000213",
+    "total_items": 149.84,
+    "item_total": 618.24,
+    "cart_no": "CAR-000213",
+    "created_dt": "2025-09-22T19:25:20.919424"
+  },
+  {
+    "last_modified": "CAR-000214",
+    "total_items": 733.84,
+    "item_total": 494.28,
+    "cart_no": "CAR-000214",
+    "created_dt": "2025-02-25T19:25:20.919431"
+  },
+  {
+    "last_modified": "CAR-000215",
+    "total_items": 165.16,
+    "item_total": 597.77,
+    "cart_no": "CAR-000215",
+    "created_dt": "2024-08-23T19:25:20.919440"
+  },
+  {
+    "last_modified": "CAR-000216",
+    "total_items": 403.1,
+    "item_total": 900.89,
+    "cart_no": "CAR-000216",
+    "created_dt": "2024-03-21T19:25:20.919447"
+  },
+  {
+    "last_modified": "CAR-000217",
+    "total_items": 448.23,
+    "item_total": 682.6,
+    "cart_no": "CAR-000217",
+    "created_dt": "2023-08-02T19:25:20.919453"
+  },
+  {
+    "last_modified": "CAR-000218",
+    "total_items": 780.23,
+    "item_total": 122.77,
+    "cart_no": "CAR-000218",
+    "created_dt": "2025-11-15T19:25:20.919460"
+  },
+  {
+    "last_modified": "CAR-000219",
+    "total_items": 365.4,
+    "item_total": 569.23,
+    "cart_no": "CAR-000219",
+    "created_dt": "2023-06-30T19:25:20.919467"
+  },
+  {
+    "last_modified": "CAR-000220",
+    "total_items": 492.45,
+    "item_total": 447.65,
+    "cart_no": "CAR-000220",
+    "created_dt": "2024-05-21T19:25:20.919473"
+  },
+  {
+    "last_modified": "CAR-000221",
+    "total_items": 352.79,
+    "item_total": 598.91,
+    "cart_no": "CAR-000221",
+    "created_dt": "2025-07-28T19:25:20.919480"
+  },
+  {
+    "last_modified": "CAR-000222",
+    "total_items": 379.43,
+    "item_total": 204.53,
+    "cart_no": "CAR-000222",
+    "created_dt": "2024-08-07T19:25:20.919487"
+  },
+  {
+    "last_modified": "CAR-000223",
+    "total_items": 281.42,
+    "item_total": 60.61,
+    "cart_no": "CAR-000223",
+    "created_dt": "2025-01-11T19:25:20.919493"
+  },
+  {
+    "last_modified": "CAR-000224",
+    "total_items": 15.82,
+    "item_total": 778.35,
+    "cart_no": "CAR-000224",
+    "created_dt": "2023-11-29T19:25:20.919502"
+  },
+  {
+    "last_modified": "CAR-000225",
+    "total_items": 744.98,
+    "item_total": 525.54,
+    "cart_no": "CAR-000225",
+    "created_dt": "2023-04-03T19:25:20.919509"
+  },
+  {
+    "last_modified": "CAR-000226",
+    "total_items": 559.4,
+    "item_total": 43.87,
+    "cart_no": "CAR-000226",
+    "created_dt": "2024-10-30T19:25:20.919516"
+  },
+  {
+    "last_modified": "CAR-000227",
+    "total_items": 747.33,
+    "item_total": 316.58,
+    "cart_no": "CAR-000227",
+    "created_dt": "2024-01-31T19:25:20.919522"
+  },
+  {
+    "last_modified": "CAR-000228",
+    "total_items": 881.69,
+    "item_total": 178.4,
+    "cart_no": "CAR-000228",
+    "created_dt": "2024-04-02T19:25:20.919529"
+  },
+  {
+    "last_modified": "CAR-000229",
+    "total_items": 507.97,
+    "item_total": 458.06,
+    "cart_no": "CAR-000229",
+    "created_dt": "2023-10-20T19:25:20.919536"
+  },
+  {
+    "last_modified": "CAR-000230",
+    "total_items": 56.76,
+    "item_total": 652.09,
+    "cart_no": "CAR-000230",
+    "created_dt": "2025-10-04T19:25:20.919542"
+  },
+  {
+    "last_modified": "CAR-000231",
+    "total_items": 279.48,
+    "item_total": 608.54,
+    "cart_no": "CAR-000231",
+    "created_dt": "2024-11-14T19:25:20.919549"
+  },
+  {
+    "last_modified": "CAR-000232",
+    "total_items": 280.41,
+    "item_total": 688.0,
+    "cart_no": "CAR-000232",
+    "created_dt": "2023-06-14T19:25:20.919556"
+  },
+  {
+    "last_modified": "CAR-000233",
+    "total_items": 682.63,
+    "item_total": 304.62,
+    "cart_no": "CAR-000233",
+    "created_dt": "2025-08-22T19:25:20.919562"
+  },
+  {
+    "last_modified": "CAR-000234",
+    "total_items": 541.1,
+    "item_total": 726.37,
+    "cart_no": "CAR-000234",
+    "created_dt": "2024-09-05T19:25:20.919569"
+  },
+  {
+    "last_modified": "CAR-000235",
+    "total_items": 790.92,
+    "item_total": 546.29,
+    "cart_no": "CAR-000235",
+    "created_dt": "2025-06-26T19:25:20.919576"
+  },
+  {
+    "last_modified": "CAR-000236",
+    "total_items": 54.21,
+    "item_total": 889.78,
+    "cart_no": "CAR-000236",
+    "created_dt": "2025-04-14T19:25:20.919583"
+  },
+  {
+    "last_modified": "CAR-000237",
+    "total_items": 451.94,
+    "item_total": 80.95,
+    "cart_no": "CAR-000237",
+    "created_dt": "2024-04-07T19:25:20.919590"
+  },
+  {
+    "last_modified": "CAR-000238",
+    "total_items": 109.13,
+    "item_total": 252.12,
+    "cart_no": "CAR-000238",
+    "created_dt": "2023-12-03T19:25:20.919596"
+  },
+  {
+    "last_modified": "CAR-000239",
+    "total_items": 69.51,
+    "item_total": 550.04,
+    "cart_no": "CAR-000239",
+    "created_dt": "2025-02-16T19:25:20.919603"
+  },
+  {
+    "last_modified": "CAR-000240",
+    "total_items": 157.41,
+    "item_total": 107.55,
+    "cart_no": "CAR-000240",
+    "created_dt": "2025-01-28T19:25:20.919610"
+  },
+  {
+    "last_modified": "CAR-000241",
+    "total_items": 368.05,
+    "item_total": 243.69,
+    "cart_no": "CAR-000241",
+    "created_dt": "2025-11-06T19:25:20.919617"
+  },
+  {
+    "last_modified": "CAR-000242",
+    "total_items": 773.24,
+    "item_total": 742.83,
+    "cart_no": "CAR-000242",
+    "created_dt": "2025-08-05T19:25:20.919623"
+  },
+  {
+    "last_modified": "CAR-000243",
+    "total_items": 882.67,
+    "item_total": 675.4,
+    "cart_no": "CAR-000243",
+    "created_dt": "2023-02-03T19:25:20.919630"
+  },
+  {
+    "last_modified": "CAR-000244",
+    "total_items": 130.34,
+    "item_total": 781.94,
+    "cart_no": "CAR-000244",
+    "created_dt": "2023-09-21T19:25:20.919639"
+  },
+  {
+    "last_modified": "CAR-000245",
+    "total_items": 230.04,
+    "item_total": 842.69,
+    "cart_no": "CAR-000245",
+    "created_dt": "2024-09-10T19:25:20.919648"
+  },
+  {
+    "last_modified": "CAR-000246",
+    "total_items": 542.1,
+    "item_total": 679.97,
+    "cart_no": "CAR-000246",
+    "created_dt": "2025-07-17T19:25:20.919655"
+  },
+  {
+    "last_modified": "CAR-000247",
+    "total_items": 652.03,
+    "item_total": 704.4,
+    "cart_no": "CAR-000247",
+    "created_dt": "2024-08-25T19:25:20.919662"
+  },
+  {
+    "last_modified": "CAR-000248",
+    "total_items": 740.9,
+    "item_total": 604.23,
+    "cart_no": "CAR-000248",
+    "created_dt": "2023-05-31T19:25:20.919668"
+  },
+  {
+    "last_modified": "CAR-000249",
+    "total_items": 751.6,
+    "item_total": 596.59,
+    "cart_no": "CAR-000249",
+    "created_dt": "2024-04-22T19:25:20.919675"
+  },
+  {
+    "last_modified": "CAR-000250",
+    "total_items": 651.54,
+    "item_total": 434.13,
+    "cart_no": "CAR-000250",
+    "created_dt": "2024-12-28T19:25:20.919682"
+  },
+  {
+    "last_modified": "CAR-000251",
+    "total_items": 55.71,
+    "item_total": 32.9,
+    "cart_no": "CAR-000251",
+    "created_dt": "2025-04-19T19:25:20.919688"
+  },
+  {
+    "last_modified": "CAR-000252",
+    "total_items": 89.98,
+    "item_total": 701.76,
+    "cart_no": "CAR-000252",
+    "created_dt": "2025-06-19T19:25:20.919695"
+  },
+  {
+    "last_modified": "CAR-000253",
+    "total_items": 782.74,
+    "item_total": 966.86,
+    "cart_no": "CAR-000253",
+    "created_dt": "2025-12-22T19:25:20.919702"
+  },
+  {
+    "last_modified": "CAR-000254",
+    "total_items": 462.18,
+    "item_total": 439.36,
+    "cart_no": "CAR-000254",
+    "created_dt": "2024-07-08T19:25:20.919708"
+  },
+  {
+    "last_modified": "CAR-000255",
+    "total_items": 565.02,
+    "item_total": 872.65,
+    "cart_no": "CAR-000255",
+    "created_dt": "2025-11-14T19:25:20.919715"
+  },
+  {
+    "last_modified": "CAR-000256",
+    "total_items": 796.51,
+    "item_total": 674.58,
+    "cart_no": "CAR-000256",
+    "created_dt": "2024-03-24T19:25:20.919722"
+  },
+  {
+    "last_modified": "CAR-000257",
+    "total_items": 113.16,
+    "item_total": 224.52,
+    "cart_no": "CAR-000257",
+    "created_dt": "2025-12-27T19:25:20.919729"
+  },
+  {
+    "last_modified": "CAR-000258",
+    "total_items": 533.8,
+    "item_total": 90.12,
+    "cart_no": "CAR-000258",
+    "created_dt": "2025-05-29T19:25:20.919736"
+  },
+  {
+    "last_modified": "CAR-000259",
+    "total_items": 883.33,
+    "item_total": 588.3,
+    "cart_no": "CAR-000259",
+    "created_dt": "2025-07-29T19:25:20.919742"
+  },
+  {
+    "last_modified": "CAR-000260",
+    "total_items": 625.99,
+    "item_total": 800.56,
+    "cart_no": "CAR-000260",
+    "created_dt": "2024-04-27T19:25:20.919749"
+  },
+  {
+    "last_modified": "CAR-000261",
+    "total_items": 368.19,
+    "item_total": 935.39,
+    "cart_no": "CAR-000261",
+    "created_dt": "2023-09-02T19:25:20.919756"
+  },
+  {
+    "last_modified": "CAR-000262",
+    "total_items": 609.45,
+    "item_total": 150.35,
+    "cart_no": "CAR-000262",
+    "created_dt": "2023-10-23T19:25:20.919763"
+  },
+  {
+    "last_modified": "CAR-000263",
+    "total_items": 350.68,
+    "item_total": 395.59,
+    "cart_no": "CAR-000263",
+    "created_dt": "2025-05-19T19:25:20.919770"
+  },
+  {
+    "last_modified": "CAR-000264",
+    "total_items": 604.04,
+    "item_total": 458.98,
+    "cart_no": "CAR-000264",
+    "created_dt": "2023-03-26T19:25:20.919776"
+  },
+  {
+    "last_modified": "CAR-000265",
+    "total_items": 87.46,
+    "item_total": 444.8,
+    "cart_no": "CAR-000265",
+    "created_dt": "2025-05-16T19:25:20.919783"
+  },
+  {
+    "last_modified": "CAR-000266",
+    "total_items": 691.22,
+    "item_total": 678.97,
+    "cart_no": "CAR-000266",
+    "created_dt": "2023-03-22T19:25:20.919792"
+  },
+  {
+    "last_modified": "CAR-000267",
+    "total_items": 421.12,
+    "item_total": 149.95,
+    "cart_no": "CAR-000267",
+    "created_dt": "2023-08-22T19:25:20.919801"
+  },
+  {
+    "last_modified": "CAR-000268",
+    "total_items": 248.11,
+    "item_total": 360.83,
+    "cart_no": "CAR-000268",
+    "created_dt": "2025-06-05T19:25:20.919808"
+  },
+  {
+    "last_modified": "CAR-000269",
+    "total_items": 143.13,
+    "item_total": 407.71,
+    "cart_no": "CAR-000269",
+    "created_dt": "2023-11-20T19:25:20.919815"
+  },
+  {
+    "last_modified": "CAR-000270",
+    "total_items": 924.43,
+    "item_total": 446.21,
+    "cart_no": "CAR-000270",
+    "created_dt": "2024-10-18T19:25:20.919822"
+  },
+  {
+    "last_modified": "CAR-000271",
+    "total_items": 940.56,
+    "item_total": 378.53,
+    "cart_no": "CAR-000271",
+    "created_dt": "2023-04-03T19:25:20.919829"
+  },
+  {
+    "last_modified": "CAR-000272",
+    "total_items": 215.4,
+    "item_total": 107.46,
+    "cart_no": "CAR-000272",
+    "created_dt": "2023-01-31T19:25:20.919836"
+  },
+  {
+    "last_modified": "CAR-000273",
+    "total_items": 483.05,
+    "item_total": 293.63,
+    "cart_no": "CAR-000273",
+    "created_dt": "2025-10-06T19:25:20.919843"
+  },
+  {
+    "last_modified": "CAR-000274",
+    "total_items": 174.21,
+    "item_total": 148.39,
+    "cart_no": "CAR-000274",
+    "created_dt": "2024-05-28T19:25:20.919849"
+  },
+  {
+    "last_modified": "CAR-000275",
+    "total_items": 670.54,
+    "item_total": 961.8,
+    "cart_no": "CAR-000275",
+    "created_dt": "2024-05-01T19:25:20.919856"
+  },
+  {
+    "last_modified": "CAR-000276",
+    "total_items": 304.15,
+    "item_total": 397.07,
+    "cart_no": "CAR-000276",
+    "created_dt": "2023-11-21T19:25:20.919865"
+  },
+  {
+    "last_modified": "CAR-000277",
+    "total_items": 184.15,
+    "item_total": 430.02,
+    "cart_no": "CAR-000277",
+    "created_dt": "2024-10-19T19:25:20.919872"
+  },
+  {
+    "last_modified": "CAR-000278",
+    "total_items": 10.84,
+    "item_total": 951.91,
+    "cart_no": "CAR-000278",
+    "created_dt": "2025-05-28T19:25:20.919878"
+  },
+  {
+    "last_modified": "CAR-000279",
+    "total_items": 80.9,
+    "item_total": 462.51,
+    "cart_no": "CAR-000279",
+    "created_dt": "2025-06-25T19:25:20.919885"
+  },
+  {
+    "last_modified": "CAR-000280",
+    "total_items": 687.36,
+    "item_total": 182.37,
+    "cart_no": "CAR-000280",
+    "created_dt": "2025-06-14T19:25:20.919892"
+  },
+  {
+    "last_modified": "CAR-000281",
+    "total_items": 380.85,
+    "item_total": 302.57,
+    "cart_no": "CAR-000281",
+    "created_dt": "2024-10-02T19:25:20.919899"
+  },
+  {
+    "last_modified": "CAR-000282",
+    "total_items": 121.57,
+    "item_total": 402.81,
+    "cart_no": "CAR-000282",
+    "created_dt": "2023-01-16T19:25:20.919905"
+  },
+  {
+    "last_modified": "CAR-000283",
+    "total_items": 739.75,
+    "item_total": 215.14,
+    "cart_no": "CAR-000283",
+    "created_dt": "2023-09-11T19:25:20.919912"
+  },
+  {
+    "last_modified": "CAR-000284",
+    "total_items": 269.31,
+    "item_total": 36.94,
+    "cart_no": "CAR-000284",
+    "created_dt": "2024-08-15T19:25:20.919919"
+  },
+  {
+    "last_modified": "CAR-000285",
+    "total_items": 394.42,
+    "item_total": 383.34,
+    "cart_no": "CAR-000285",
+    "created_dt": "2023-11-08T19:25:20.919926"
+  },
+  {
+    "last_modified": "CAR-000286",
+    "total_items": 597.22,
+    "item_total": 903.37,
+    "cart_no": "CAR-000286",
+    "created_dt": "2025-11-26T19:25:20.919932"
+  },
+  {
+    "last_modified": "CAR-000287",
+    "total_items": 224.29,
+    "item_total": 555.69,
+    "cart_no": "CAR-000287",
+    "created_dt": "2024-09-23T19:25:20.919939"
+  },
+  {
+    "last_modified": "CAR-000288",
+    "total_items": 12.96,
+    "item_total": 285.52,
+    "cart_no": "CAR-000288",
+    "created_dt": "2024-10-16T19:25:20.919946"
+  },
+  {
+    "last_modified": "CAR-000289",
+    "total_items": 491.56,
+    "item_total": 607.32,
+    "cart_no": "CAR-000289",
+    "created_dt": "2024-09-30T19:25:20.919955"
+  },
+  {
+    "last_modified": "CAR-000290",
+    "total_items": 407.55,
+    "item_total": 234.74,
+    "cart_no": "CAR-000290",
+    "created_dt": "2025-08-01T19:25:20.919962"
+  },
+  {
+    "last_modified": "CAR-000291",
+    "total_items": 767.85,
+    "item_total": 580.89,
+    "cart_no": "CAR-000291",
+    "created_dt": "2025-01-04T19:25:20.919969"
+  },
+  {
+    "last_modified": "CAR-000292",
+    "total_items": 749.35,
+    "item_total": 153.52,
+    "cart_no": "CAR-000292",
+    "created_dt": "2025-05-22T19:25:20.919976"
+  },
+  {
+    "last_modified": "CAR-000293",
+    "total_items": 664.71,
+    "item_total": 175.99,
+    "cart_no": "CAR-000293",
+    "created_dt": "2025-09-13T19:25:20.919982"
+  },
+  {
+    "last_modified": "CAR-000294",
+    "total_items": 389.47,
+    "item_total": 602.33,
+    "cart_no": "CAR-000294",
+    "created_dt": "2024-06-15T19:25:20.919989"
+  },
+  {
+    "last_modified": "CAR-000295",
+    "total_items": 73.77,
+    "item_total": 908.76,
+    "cart_no": "CAR-000295",
+    "created_dt": "2025-09-29T19:25:20.919996"
+  },
+  {
+    "last_modified": "CAR-000296",
+    "total_items": 383.35,
+    "item_total": 937.27,
+    "cart_no": "CAR-000296",
+    "created_dt": "2025-03-18T19:25:20.920003"
+  },
+  {
+    "last_modified": "CAR-000297",
+    "total_items": 583.22,
+    "item_total": 91.14,
+    "cart_no": "CAR-000297",
+    "created_dt": "2023-06-29T19:25:20.920010"
+  },
+  {
+    "last_modified": "CAR-000298",
+    "total_items": 178.64,
+    "item_total": 518.43,
+    "cart_no": "CAR-000298",
+    "created_dt": "2024-06-13T19:25:20.920016"
+  },
+  {
+    "last_modified": "CAR-000299",
+    "total_items": 485.02,
+    "item_total": 523.41,
+    "cart_no": "CAR-000299",
+    "created_dt": "2025-11-29T19:25:20.920023"
+  },
+  {
+    "last_modified": "CAR-000300",
+    "total_items": 96.63,
+    "item_total": 123.07,
+    "cart_no": "CAR-000300",
+    "created_dt": "2023-10-12T19:25:20.920030"
+  },
+  {
+    "last_modified": "CAR-000301",
+    "total_items": 655.48,
+    "item_total": 849.5,
+    "cart_no": "CAR-000301",
+    "created_dt": "2023-05-02T19:25:20.920037"
+  },
+  {
+    "last_modified": "CAR-000302",
+    "total_items": 341.32,
+    "item_total": 453.72,
+    "cart_no": "CAR-000302",
+    "created_dt": "2023-02-08T19:25:20.920043"
+  },
+  {
+    "last_modified": "CAR-000303",
+    "total_items": 659.61,
+    "item_total": 834.3,
+    "cart_no": "CAR-000303",
+    "created_dt": "2023-05-08T19:25:20.920050"
+  },
+  {
+    "last_modified": "CAR-000304",
+    "total_items": 895.45,
+    "item_total": 585.82,
+    "cart_no": "CAR-000304",
+    "created_dt": "2023-07-05T19:25:20.920057"
+  },
+  {
+    "last_modified": "CAR-000305",
+    "total_items": 628.04,
+    "item_total": 66.31,
+    "cart_no": "CAR-000305",
+    "created_dt": "2025-02-13T19:25:20.920063"
+  },
+  {
+    "last_modified": "CAR-000306",
+    "total_items": 930.56,
+    "item_total": 143.47,
+    "cart_no": "CAR-000306",
+    "created_dt": "2023-04-11T19:25:20.920070"
+  },
+  {
+    "last_modified": "CAR-000307",
+    "total_items": 133.0,
+    "item_total": 286.37,
+    "cart_no": "CAR-000307",
+    "created_dt": "2023-09-24T19:25:20.920078"
+  },
+  {
+    "last_modified": "CAR-000308",
+    "total_items": 792.62,
+    "item_total": 987.97,
+    "cart_no": "CAR-000308",
+    "created_dt": "2024-01-12T19:25:20.920085"
+  },
+  {
+    "last_modified": "CAR-000309",
+    "total_items": 521.62,
+    "item_total": 103.97,
+    "cart_no": "CAR-000309",
+    "created_dt": "2023-01-11T19:25:20.920094"
+  },
+  {
+    "last_modified": "CAR-000310",
+    "total_items": 666.28,
+    "item_total": 994.95,
+    "cart_no": "CAR-000310",
+    "created_dt": "2025-12-21T19:25:20.920101"
+  },
+  {
+    "last_modified": "CAR-000311",
+    "total_items": 438.34,
+    "item_total": 497.59,
+    "cart_no": "CAR-000311",
+    "created_dt": "2024-04-08T19:25:20.920108"
+  },
+  {
+    "last_modified": "CAR-000312",
+    "total_items": 412.32,
+    "item_total": 250.82,
+    "cart_no": "CAR-000312",
+    "created_dt": "2023-09-27T19:25:20.920115"
+  },
+  {
+    "last_modified": "CAR-000313",
+    "total_items": 208.12,
+    "item_total": 103.18,
+    "cart_no": "CAR-000313",
+    "created_dt": "2023-06-10T19:25:20.920121"
+  },
+  {
+    "last_modified": "CAR-000314",
+    "total_items": 981.26,
+    "item_total": 372.86,
+    "cart_no": "CAR-000314",
+    "created_dt": "2024-01-19T19:25:20.920128"
+  },
+  {
+    "last_modified": "CAR-000315",
+    "total_items": 454.15,
+    "item_total": 186.23,
+    "cart_no": "CAR-000315",
+    "created_dt": "2023-09-14T19:25:20.920135"
+  },
+  {
+    "last_modified": "CAR-000316",
+    "total_items": 112.32,
+    "item_total": 600.72,
+    "cart_no": "CAR-000316",
+    "created_dt": "2023-09-22T19:25:20.920141"
+  },
+  {
+    "last_modified": "CAR-000317",
+    "total_items": 225.74,
+    "item_total": 914.72,
+    "cart_no": "CAR-000317",
+    "created_dt": "2023-03-08T19:25:20.920148"
+  },
+  {
+    "last_modified": "CAR-000318",
+    "total_items": 80.32,
+    "item_total": 578.22,
+    "cart_no": "CAR-000318",
+    "created_dt": "2024-11-03T19:25:20.920155"
+  },
+  {
+    "last_modified": "CAR-000319",
+    "total_items": 530.3,
+    "item_total": 692.84,
+    "cart_no": "CAR-000319",
+    "created_dt": "2025-09-22T19:25:20.920164"
+  },
+  {
+    "last_modified": "CAR-000320",
+    "total_items": 398.04,
+    "item_total": 978.25,
+    "cart_no": "CAR-000320",
+    "created_dt": "2025-02-02T19:25:20.920178"
+  },
+  {
+    "last_modified": "CAR-000321",
+    "total_items": 700.72,
+    "item_total": 122.69,
+    "cart_no": "CAR-000321",
+    "created_dt": "2024-11-11T19:25:20.920185"
+  },
+  {
+    "last_modified": "CAR-000322",
+    "total_items": 646.57,
+    "item_total": 22.84,
+    "cart_no": "CAR-000322",
+    "created_dt": "2025-08-05T19:25:20.920192"
+  },
+  {
+    "last_modified": "CAR-000323",
+    "total_items": 431.76,
+    "item_total": 498.81,
+    "cart_no": "CAR-000323",
+    "created_dt": "2024-12-19T19:25:20.920198"
+  },
+  {
+    "last_modified": "CAR-000324",
+    "total_items": 797.39,
+    "item_total": 698.65,
+    "cart_no": "CAR-000324",
+    "created_dt": "2025-05-19T19:25:20.920205"
+  },
+  {
+    "last_modified": "CAR-000325",
+    "total_items": 395.13,
+    "item_total": 804.45,
+    "cart_no": "CAR-000325",
+    "created_dt": "2024-12-07T19:25:20.920212"
+  },
+  {
+    "last_modified": "CAR-000326",
+    "total_items": 427.38,
+    "item_total": 129.33,
+    "cart_no": "CAR-000326",
+    "created_dt": "2024-09-01T19:25:20.920219"
+  },
+  {
+    "last_modified": "CAR-000327",
+    "total_items": 86.11,
+    "item_total": 617.78,
+    "cart_no": "CAR-000327",
+    "created_dt": "2023-01-26T19:25:20.920225"
+  },
+  {
+    "last_modified": "CAR-000328",
+    "total_items": 336.13,
+    "item_total": 582.61,
+    "cart_no": "CAR-000328",
+    "created_dt": "2025-10-09T19:25:20.920232"
+  },
+  {
+    "last_modified": "CAR-000329",
+    "total_items": 317.37,
+    "item_total": 606.03,
+    "cart_no": "CAR-000329",
+    "created_dt": "2025-09-16T19:25:20.920239"
+  },
+  {
+    "last_modified": "CAR-000330",
+    "total_items": 250.25,
+    "item_total": 675.83,
+    "cart_no": "CAR-000330",
+    "created_dt": "2024-01-09T19:25:20.920248"
+  },
+  {
+    "last_modified": "CAR-000331",
+    "total_items": 752.24,
+    "item_total": 377.86,
+    "cart_no": "CAR-000331",
+    "created_dt": "2024-02-28T19:25:20.920257"
+  },
+  {
+    "last_modified": "CAR-000332",
+    "total_items": 508.49,
+    "item_total": 348.33,
+    "cart_no": "CAR-000332",
+    "created_dt": "2023-08-31T19:25:20.920264"
+  },
+  {
+    "last_modified": "CAR-000333",
+    "total_items": 904.77,
+    "item_total": 822.13,
+    "cart_no": "CAR-000333",
+    "created_dt": "2024-09-16T19:25:20.920271"
+  },
+  {
+    "last_modified": "CAR-000334",
+    "total_items": 683.28,
+    "item_total": 917.9,
+    "cart_no": "CAR-000334",
+    "created_dt": "2025-05-01T19:25:20.920278"
+  },
+  {
+    "last_modified": "CAR-000335",
+    "total_items": 161.62,
+    "item_total": 852.11,
+    "cart_no": "CAR-000335",
+    "created_dt": "2024-10-20T19:25:20.920284"
+  },
+  {
+    "last_modified": "CAR-000336",
+    "total_items": 607.72,
+    "item_total": 162.59,
+    "cart_no": "CAR-000336",
+    "created_dt": "2024-03-21T19:25:20.920291"
+  },
+  {
+    "last_modified": "CAR-000337",
+    "total_items": 779.42,
+    "item_total": 893.06,
+    "cart_no": "CAR-000337",
+    "created_dt": "2025-06-07T19:25:20.920298"
+  },
+  {
+    "last_modified": "CAR-000338",
+    "total_items": 443.57,
+    "item_total": 279.61,
+    "cart_no": "CAR-000338",
+    "created_dt": "2024-12-28T19:25:20.920305"
+  },
+  {
+    "last_modified": "CAR-000339",
+    "total_items": 329.44,
+    "item_total": 881.78,
+    "cart_no": "CAR-000339",
+    "created_dt": "2025-08-26T19:25:20.920313"
+  },
+  {
+    "last_modified": "CAR-000340",
+    "total_items": 633.06,
+    "item_total": 844.61,
+    "cart_no": "CAR-000340",
+    "created_dt": "2024-08-07T19:25:20.920320"
+  },
+  {
+    "last_modified": "CAR-000341",
+    "total_items": 833.75,
+    "item_total": 868.97,
+    "cart_no": "CAR-000341",
+    "created_dt": "2025-01-07T19:25:20.920327"
+  },
+  {
+    "last_modified": "CAR-000342",
+    "total_items": 905.56,
+    "item_total": 115.23,
+    "cart_no": "CAR-000342",
+    "created_dt": "2025-01-01T19:25:20.920333"
+  },
+  {
+    "last_modified": "CAR-000343",
+    "total_items": 709.6,
+    "item_total": 411.76,
+    "cart_no": "CAR-000343",
+    "created_dt": "2025-10-25T19:25:20.920340"
+  },
+  {
+    "last_modified": "CAR-000344",
+    "total_items": 130.3,
+    "item_total": 546.58,
+    "cart_no": "CAR-000344",
+    "created_dt": "2024-09-19T19:25:20.920347"
+  },
+  {
+    "last_modified": "CAR-000345",
+    "total_items": 575.73,
+    "item_total": 268.51,
+    "cart_no": "CAR-000345",
+    "created_dt": "2024-07-30T19:25:20.920354"
+  },
+  {
+    "last_modified": "CAR-000346",
+    "total_items": 106.69,
+    "item_total": 215.83,
+    "cart_no": "CAR-000346",
+    "created_dt": "2024-08-12T19:25:20.920360"
+  },
+  {
+    "last_modified": "CAR-000347",
+    "total_items": 325.16,
+    "item_total": 102.88,
+    "cart_no": "CAR-000347",
+    "created_dt": "2023-11-04T19:25:20.920367"
+  },
+  {
+    "last_modified": "CAR-000348",
+    "total_items": 225.45,
+    "item_total": 62.19,
+    "cart_no": "CAR-000348",
+    "created_dt": "2024-08-31T19:25:20.920374"
+  },
+  {
+    "last_modified": "CAR-000349",
+    "total_items": 18.59,
+    "item_total": 774.09,
+    "cart_no": "CAR-000349",
+    "created_dt": "2023-05-22T19:25:20.920380"
+  },
+  {
+    "last_modified": "CAR-000350",
+    "total_items": 601.84,
+    "item_total": 526.1,
+    "cart_no": "CAR-000350",
+    "created_dt": "2024-02-18T19:25:20.920387"
+  },
+  {
+    "last_modified": "CAR-000351",
+    "total_items": 777.42,
+    "item_total": 625.54,
+    "cart_no": "CAR-000351",
+    "created_dt": "2023-08-16T19:25:20.920394"
+  },
+  {
+    "last_modified": "CAR-000352",
+    "total_items": 698.81,
+    "item_total": 312.8,
+    "cart_no": "CAR-000352",
+    "created_dt": "2023-06-03T19:25:20.920405"
+  },
+  {
+    "last_modified": "CAR-000353",
+    "total_items": 144.26,
+    "item_total": 284.79,
+    "cart_no": "CAR-000353",
+    "created_dt": "2025-11-05T19:25:20.920412"
+  },
+  {
+    "last_modified": "CAR-000354",
+    "total_items": 566.78,
+    "item_total": 751.77,
+    "cart_no": "CAR-000354",
+    "created_dt": "2025-01-14T19:25:20.920418"
+  },
+  {
+    "last_modified": "CAR-000355",
+    "total_items": 705.59,
+    "item_total": 466.29,
+    "cart_no": "CAR-000355",
+    "created_dt": "2024-12-20T19:25:20.920425"
+  },
+  {
+    "last_modified": "CAR-000356",
+    "total_items": 335.34,
+    "item_total": 946.25,
+    "cart_no": "CAR-000356",
+    "created_dt": "2025-07-03T19:25:20.920432"
+  },
+  {
+    "last_modified": "CAR-000357",
+    "total_items": 424.35,
+    "item_total": 513.14,
+    "cart_no": "CAR-000357",
+    "created_dt": "2025-08-26T19:25:20.920439"
+  },
+  {
+    "last_modified": "CAR-000358",
+    "total_items": 878.57,
+    "item_total": 223.63,
+    "cart_no": "CAR-000358",
+    "created_dt": "2023-05-22T19:25:20.920445"
+  },
+  {
+    "last_modified": "CAR-000359",
+    "total_items": 200.19,
+    "item_total": 434.5,
+    "cart_no": "CAR-000359",
+    "created_dt": "2025-11-12T19:25:20.920452"
+  },
+  {
+    "last_modified": "CAR-000360",
+    "total_items": 483.44,
+    "item_total": 144.72,
+    "cart_no": "CAR-000360",
+    "created_dt": "2023-05-05T19:25:20.920458"
+  },
+  {
+    "last_modified": "CAR-000361",
+    "total_items": 660.29,
+    "item_total": 709.55,
+    "cart_no": "CAR-000361",
+    "created_dt": "2025-12-18T19:25:20.920465"
+  },
+  {
+    "last_modified": "CAR-000362",
+    "total_items": 709.28,
+    "item_total": 188.46,
+    "cart_no": "CAR-000362",
+    "created_dt": "2025-04-13T19:25:20.920472"
+  },
+  {
+    "last_modified": "CAR-000363",
+    "total_items": 653.95,
+    "item_total": 649.88,
+    "cart_no": "CAR-000363",
+    "created_dt": "2024-07-05T19:25:20.920479"
+  },
+  {
+    "last_modified": "CAR-000364",
+    "total_items": 103.12,
+    "item_total": 620.56,
+    "cart_no": "CAR-000364",
+    "created_dt": "2024-09-26T19:25:20.920486"
+  },
+  {
+    "last_modified": "CAR-000365",
+    "total_items": 812.65,
+    "item_total": 70.72,
+    "cart_no": "CAR-000365",
+    "created_dt": "2024-08-24T19:25:20.920492"
+  },
+  {
+    "last_modified": "CAR-000366",
+    "total_items": 192.98,
+    "item_total": 242.34,
+    "cart_no": "CAR-000366",
+    "created_dt": "2024-04-09T19:25:20.920499"
+  },
+  {
+    "last_modified": "CAR-000367",
+    "total_items": 315.46,
+    "item_total": 24.27,
+    "cart_no": "CAR-000367",
+    "created_dt": "2025-06-19T19:25:20.920506"
+  },
+  {
+    "last_modified": "CAR-000368",
+    "total_items": 652.33,
+    "item_total": 316.9,
+    "cart_no": "CAR-000368",
+    "created_dt": "2024-07-09T19:25:20.920514"
+  },
+  {
+    "last_modified": "CAR-000369",
+    "total_items": 176.51,
+    "item_total": 763.17,
+    "cart_no": "CAR-000369",
+    "created_dt": "2024-07-04T19:25:20.920521"
+  },
+  {
+    "last_modified": "CAR-000370",
+    "total_items": 163.75,
+    "item_total": 985.4,
+    "cart_no": "CAR-000370",
+    "created_dt": "2025-11-07T19:25:20.920528"
+  },
+  {
+    "last_modified": "CAR-000371",
+    "total_items": 165.77,
+    "item_total": 286.72,
+    "cart_no": "CAR-000371",
+    "created_dt": "2023-12-18T19:25:20.920537"
+  },
+  {
+    "last_modified": "CAR-000372",
+    "total_items": 17.25,
+    "item_total": 604.91,
+    "cart_no": "CAR-000372",
+    "created_dt": "2023-07-25T19:25:20.920543"
+  },
+  {
+    "last_modified": "CAR-000373",
+    "total_items": 417.24,
+    "item_total": 704.54,
+    "cart_no": "CAR-000373",
+    "created_dt": "2025-07-07T19:25:20.920550"
+  },
+  {
+    "last_modified": "CAR-000374",
+    "total_items": 126.84,
+    "item_total": 738.48,
+    "cart_no": "CAR-000374",
+    "created_dt": "2023-08-21T19:25:20.920560"
+  },
+  {
+    "last_modified": "CAR-000375",
+    "total_items": 660.8,
+    "item_total": 980.08,
+    "cart_no": "CAR-000375",
+    "created_dt": "2023-09-09T19:25:20.920566"
+  },
+  {
+    "last_modified": "CAR-000376",
+    "total_items": 989.8,
+    "item_total": 17.98,
+    "cart_no": "CAR-000376",
+    "created_dt": "2024-06-05T19:25:20.920573"
+  },
+  {
+    "last_modified": "CAR-000377",
+    "total_items": 112.02,
+    "item_total": 500.04,
+    "cart_no": "CAR-000377",
+    "created_dt": "2024-12-11T19:25:20.920580"
+  },
+  {
+    "last_modified": "CAR-000378",
+    "total_items": 624.79,
+    "item_total": 623.84,
+    "cart_no": "CAR-000378",
+    "created_dt": "2025-08-29T19:25:20.920587"
+  },
+  {
+    "last_modified": "CAR-000379",
+    "total_items": 898.28,
+    "item_total": 472.78,
+    "cart_no": "CAR-000379",
+    "created_dt": "2024-03-25T19:25:20.920593"
+  },
+  {
+    "last_modified": "CAR-000380",
+    "total_items": 317.94,
+    "item_total": 639.92,
+    "cart_no": "CAR-000380",
+    "created_dt": "2024-05-05T19:25:20.920600"
+  },
+  {
+    "last_modified": "CAR-000381",
+    "total_items": 840.38,
+    "item_total": 990.22,
+    "cart_no": "CAR-000381",
+    "created_dt": "2025-09-17T19:25:20.920607"
+  },
+  {
+    "last_modified": "CAR-000382",
+    "total_items": 513.49,
+    "item_total": 826.41,
+    "cart_no": "CAR-000382",
+    "created_dt": "2023-11-12T19:25:20.920614"
+  },
+  {
+    "last_modified": "CAR-000383",
+    "total_items": 861.48,
+    "item_total": 670.72,
+    "cart_no": "CAR-000383",
+    "created_dt": "2025-08-18T19:25:20.920620"
+  },
+  {
+    "last_modified": "CAR-000384",
+    "total_items": 36.89,
+    "item_total": 207.64,
+    "cart_no": "CAR-000384",
+    "created_dt": "2023-11-16T19:25:20.920627"
+  },
+  {
+    "last_modified": "CAR-000385",
+    "total_items": 326.33,
+    "item_total": 274.5,
+    "cart_no": "CAR-000385",
+    "created_dt": "2025-01-15T19:25:20.920634"
+  },
+  {
+    "last_modified": "CAR-000386",
+    "total_items": 44.88,
+    "item_total": 957.24,
+    "cart_no": "CAR-000386",
+    "created_dt": "2024-09-01T19:25:20.920640"
+  },
+  {
+    "last_modified": "CAR-000387",
+    "total_items": 485.48,
+    "item_total": 714.01,
+    "cart_no": "CAR-000387",
+    "created_dt": "2023-08-07T19:25:20.920647"
+  },
+  {
+    "last_modified": "CAR-000388",
+    "total_items": 587.26,
+    "item_total": 937.18,
+    "cart_no": "CAR-000388",
+    "created_dt": "2023-08-26T19:25:20.920657"
+  },
+  {
+    "last_modified": "CAR-000389",
+    "total_items": 603.95,
+    "item_total": 777.61,
+    "cart_no": "CAR-000389",
+    "created_dt": "2024-01-30T19:25:20.920664"
+  },
+  {
+    "last_modified": "CAR-000390",
+    "total_items": 241.39,
+    "item_total": 541.89,
+    "cart_no": "CAR-000390",
+    "created_dt": "2025-07-02T19:25:20.920671"
+  },
+  {
+    "last_modified": "CAR-000391",
+    "total_items": 572.99,
+    "item_total": 101.94,
+    "cart_no": "CAR-000391",
+    "created_dt": "2025-08-29T19:25:20.920677"
+  },
+  {
+    "last_modified": "CAR-000392",
+    "total_items": 628.86,
+    "item_total": 546.35,
+    "cart_no": "CAR-000392",
+    "created_dt": "2024-12-13T19:25:20.920684"
+  },
+  {
+    "last_modified": "CAR-000393",
+    "total_items": 612.74,
+    "item_total": 26.08,
+    "cart_no": "CAR-000393",
+    "created_dt": "2024-09-24T19:25:20.920691"
+  },
+  {
+    "last_modified": "CAR-000394",
+    "total_items": 785.61,
+    "item_total": 312.49,
+    "cart_no": "CAR-000394",
+    "created_dt": "2024-06-14T19:25:20.920700"
+  },
+  {
+    "last_modified": "CAR-000395",
+    "total_items": 657.17,
+    "item_total": 860.08,
+    "cart_no": "CAR-000395",
+    "created_dt": "2024-05-17T19:25:20.920706"
+  },
+  {
+    "last_modified": "CAR-000396",
+    "total_items": 12.18,
+    "item_total": 430.39,
+    "cart_no": "CAR-000396",
+    "created_dt": "2025-01-11T19:25:20.920713"
+  },
+  {
+    "last_modified": "CAR-000397",
+    "total_items": 517.26,
+    "item_total": 195.94,
+    "cart_no": "CAR-000397",
+    "created_dt": "2023-09-23T19:25:20.920720"
+  },
+  {
+    "last_modified": "CAR-000398",
+    "total_items": 199.4,
+    "item_total": 807.89,
+    "cart_no": "CAR-000398",
+    "created_dt": "2023-02-15T19:25:20.920726"
+  },
+  {
+    "last_modified": "CAR-000399",
+    "total_items": 543.41,
+    "item_total": 237.77,
+    "cart_no": "CAR-000399",
+    "created_dt": "2024-09-09T19:25:20.920733"
+  },
+  {
+    "last_modified": "CAR-000400",
+    "total_items": 264.78,
+    "item_total": 477.91,
+    "cart_no": "CAR-000400",
+    "created_dt": "2025-06-14T19:25:20.920740"
+  },
+  {
+    "last_modified": "CAR-000401",
+    "total_items": 939.68,
+    "item_total": 740.2,
+    "cart_no": "CAR-000401",
+    "created_dt": "2023-11-21T19:25:20.920746"
+  },
+  {
+    "last_modified": "CAR-000402",
+    "total_items": 441.82,
+    "item_total": 616.17,
+    "cart_no": "CAR-000402",
+    "created_dt": "2025-10-25T19:25:20.920753"
+  },
+  {
+    "last_modified": "CAR-000403",
+    "total_items": 512.65,
+    "item_total": 778.29,
+    "cart_no": "CAR-000403",
+    "created_dt": "2023-12-30T19:25:20.921331"
+  },
+  {
+    "last_modified": "CAR-000404",
+    "total_items": 813.82,
+    "item_total": 183.97,
+    "cart_no": "CAR-000404",
+    "created_dt": "2024-08-17T19:25:20.921346"
+  },
+  {
+    "last_modified": "CAR-000405",
+    "total_items": 730.18,
+    "item_total": 184.83,
+    "cart_no": "CAR-000405",
+    "created_dt": "2025-04-11T19:25:20.921356"
+  },
+  {
+    "last_modified": "CAR-000406",
+    "total_items": 558.94,
+    "item_total": 350.09,
+    "cart_no": "CAR-000406",
+    "created_dt": "2023-07-03T19:25:20.921364"
+  },
+  {
+    "last_modified": "CAR-000407",
+    "total_items": 276.3,
+    "item_total": 346.63,
+    "cart_no": "CAR-000407",
+    "created_dt": "2025-11-26T19:25:20.921371"
+  },
+  {
+    "last_modified": "CAR-000408",
+    "total_items": 581.84,
+    "item_total": 353.92,
+    "cart_no": "CAR-000408",
+    "created_dt": "2023-02-03T19:25:20.921379"
+  },
+  {
+    "last_modified": "CAR-000409",
+    "total_items": 808.89,
+    "item_total": 988.81,
+    "cart_no": "CAR-000409",
+    "created_dt": "2024-07-01T19:25:20.921385"
+  },
+  {
+    "last_modified": "CAR-000410",
+    "total_items": 880.35,
+    "item_total": 921.95,
+    "cart_no": "CAR-000410",
+    "created_dt": "2025-12-24T19:25:20.921393"
+  },
+  {
+    "last_modified": "CAR-000411",
+    "total_items": 256.25,
+    "item_total": 432.65,
+    "cart_no": "CAR-000411",
+    "created_dt": "2023-08-29T19:25:20.921400"
+  },
+  {
+    "last_modified": "CAR-000412",
+    "total_items": 290.55,
+    "item_total": 217.43,
+    "cart_no": "CAR-000412",
+    "created_dt": "2025-06-27T19:25:20.921407"
+  },
+  {
+    "last_modified": "CAR-000413",
+    "total_items": 841.11,
+    "item_total": 475.62,
+    "cart_no": "CAR-000413",
+    "created_dt": "2024-03-08T19:25:20.921413"
+  },
+  {
+    "last_modified": "CAR-000414",
+    "total_items": 54.35,
+    "item_total": 463.33,
+    "cart_no": "CAR-000414",
+    "created_dt": "2023-02-03T19:25:20.921420"
+  },
+  {
+    "last_modified": "CAR-000415",
+    "total_items": 209.4,
+    "item_total": 47.26,
+    "cart_no": "CAR-000415",
+    "created_dt": "2024-02-13T19:25:20.921430"
+  },
+  {
+    "last_modified": "CAR-000416",
+    "total_items": 281.23,
+    "item_total": 554.97,
+    "cart_no": "CAR-000416",
+    "created_dt": "2023-06-22T19:25:20.921437"
+  },
+  {
+    "last_modified": "CAR-000417",
+    "total_items": 220.14,
+    "item_total": 282.02,
+    "cart_no": "CAR-000417",
+    "created_dt": "2024-06-05T19:25:20.921444"
+  },
+  {
+    "last_modified": "CAR-000418",
+    "total_items": 742.18,
+    "item_total": 614.42,
+    "cart_no": "CAR-000418",
+    "created_dt": "2023-10-09T19:25:20.921450"
+  },
+  {
+    "last_modified": "CAR-000419",
+    "total_items": 670.29,
+    "item_total": 521.18,
+    "cart_no": "CAR-000419",
+    "created_dt": "2023-08-05T19:25:20.921459"
+  },
+  {
+    "last_modified": "CAR-000420",
+    "total_items": 435.4,
+    "item_total": 593.15,
+    "cart_no": "CAR-000420",
+    "created_dt": "2024-07-30T19:25:20.921466"
+  },
+  {
+    "last_modified": "CAR-000421",
+    "total_items": 462.42,
+    "item_total": 414.5,
+    "cart_no": "CAR-000421",
+    "created_dt": "2025-06-05T19:25:20.921473"
+  },
+  {
+    "last_modified": "CAR-000422",
+    "total_items": 463.0,
+    "item_total": 854.82,
+    "cart_no": "CAR-000422",
+    "created_dt": "2025-11-25T19:25:20.921480"
+  },
+  {
+    "last_modified": "CAR-000423",
+    "total_items": 873.46,
+    "item_total": 867.87,
+    "cart_no": "CAR-000423",
+    "created_dt": "2023-08-06T19:25:20.921487"
+  },
+  {
+    "last_modified": "CAR-000424",
+    "total_items": 588.4,
+    "item_total": 94.15,
+    "cart_no": "CAR-000424",
+    "created_dt": "2024-07-24T19:25:20.921493"
+  },
+  {
+    "last_modified": "CAR-000425",
+    "total_items": 625.01,
+    "item_total": 909.1,
+    "cart_no": "CAR-000425",
+    "created_dt": "2025-07-28T19:25:20.921500"
+  },
+  {
+    "last_modified": "CAR-000426",
+    "total_items": 36.05,
+    "item_total": 761.13,
+    "cart_no": "CAR-000426",
+    "created_dt": "2023-02-02T19:25:20.921507"
+  },
+  {
+    "last_modified": "CAR-000427",
+    "total_items": 268.1,
+    "item_total": 951.88,
+    "cart_no": "CAR-000427",
+    "created_dt": "2023-07-07T19:25:20.921513"
+  },
+  {
+    "last_modified": "CAR-000428",
+    "total_items": 111.6,
+    "item_total": 398.27,
+    "cart_no": "CAR-000428",
+    "created_dt": "2024-01-06T19:25:20.921520"
+  },
+  {
+    "last_modified": "CAR-000429",
+    "total_items": 424.64,
+    "item_total": 730.62,
+    "cart_no": "CAR-000429",
+    "created_dt": "2026-01-09T19:25:20.921527"
+  },
+  {
+    "last_modified": "CAR-000430",
+    "total_items": 656.09,
+    "item_total": 85.81,
+    "cart_no": "CAR-000430",
+    "created_dt": "2023-03-12T19:25:20.921539"
+  },
+  {
+    "last_modified": "CAR-000431",
+    "total_items": 428.15,
+    "item_total": 29.8,
+    "cart_no": "CAR-000431",
+    "created_dt": "2025-06-27T19:25:20.921546"
+  },
+  {
+    "last_modified": "CAR-000432",
+    "total_items": 390.52,
+    "item_total": 665.56,
+    "cart_no": "CAR-000432",
+    "created_dt": "2024-07-24T19:25:20.921553"
+  },
+  {
+    "last_modified": "CAR-000433",
+    "total_items": 567.35,
+    "item_total": 725.97,
+    "cart_no": "CAR-000433",
+    "created_dt": "2025-01-04T19:25:20.921560"
+  },
+  {
+    "last_modified": "CAR-000434",
+    "total_items": 212.37,
+    "item_total": 697.35,
+    "cart_no": "CAR-000434",
+    "created_dt": "2023-12-18T19:25:20.921569"
+  },
+  {
+    "last_modified": "CAR-000435",
+    "total_items": 614.59,
+    "item_total": 643.26,
+    "cart_no": "CAR-000435",
+    "created_dt": "2023-08-03T19:25:20.921575"
+  },
+  {
+    "last_modified": "CAR-000436",
+    "total_items": 579.73,
+    "item_total": 334.39,
+    "cart_no": "CAR-000436",
+    "created_dt": "2024-06-19T19:25:20.921582"
+  },
+  {
+    "last_modified": "CAR-000437",
+    "total_items": 330.96,
+    "item_total": 910.24,
+    "cart_no": "CAR-000437",
+    "created_dt": "2024-02-23T19:25:20.921591"
+  },
+  {
+    "last_modified": "CAR-000438",
+    "total_items": 783.72,
+    "item_total": 414.44,
+    "cart_no": "CAR-000438",
+    "created_dt": "2024-09-27T19:25:20.921598"
+  },
+  {
+    "last_modified": "CAR-000439",
+    "total_items": 489.63,
+    "item_total": 317.76,
+    "cart_no": "CAR-000439",
+    "created_dt": "2025-04-07T19:25:20.921605"
+  },
+  {
+    "last_modified": "CAR-000440",
+    "total_items": 826.58,
+    "item_total": 751.9,
+    "cart_no": "CAR-000440",
+    "created_dt": "2024-07-17T19:25:20.921612"
+  },
+  {
+    "last_modified": "CAR-000441",
+    "total_items": 902.23,
+    "item_total": 797.45,
+    "cart_no": "CAR-000441",
+    "created_dt": "2023-08-03T19:25:20.921619"
+  },
+  {
+    "last_modified": "CAR-000442",
+    "total_items": 81.38,
+    "item_total": 833.12,
+    "cart_no": "CAR-000442",
+    "created_dt": "2025-01-31T19:25:20.921625"
+  },
+  {
+    "last_modified": "CAR-000443",
+    "total_items": 900.51,
+    "item_total": 803.52,
+    "cart_no": "CAR-000443",
+    "created_dt": "2025-04-30T19:25:20.921632"
+  },
+  {
+    "last_modified": "CAR-000444",
+    "total_items": 307.66,
+    "item_total": 42.96,
+    "cart_no": "CAR-000444",
+    "created_dt": "2025-04-18T19:25:20.921639"
+  },
+  {
+    "last_modified": "CAR-000445",
+    "total_items": 337.13,
+    "item_total": 980.53,
+    "cart_no": "CAR-000445",
+    "created_dt": "2024-09-04T19:25:20.921645"
+  },
+  {
+    "last_modified": "CAR-000446",
+    "total_items": 543.53,
+    "item_total": 872.58,
+    "cart_no": "CAR-000446",
+    "created_dt": "2023-04-11T19:25:20.921652"
+  },
+  {
+    "last_modified": "CAR-000447",
+    "total_items": 433.55,
+    "item_total": 180.71,
+    "cart_no": "CAR-000447",
+    "created_dt": "2023-12-01T19:25:20.921659"
+  },
+  {
+    "last_modified": "CAR-000448",
+    "total_items": 875.8,
+    "item_total": 307.85,
+    "cart_no": "CAR-000448",
+    "created_dt": "2025-08-16T19:25:20.921665"
+  },
+  {
+    "last_modified": "CAR-000449",
+    "total_items": 632.89,
+    "item_total": 762.99,
+    "cart_no": "CAR-000449",
+    "created_dt": "2024-08-17T19:25:20.921672"
+  },
+  {
+    "last_modified": "CAR-000450",
+    "total_items": 522.13,
+    "item_total": 294.65,
+    "cart_no": "CAR-000450",
+    "created_dt": "2024-08-27T19:25:20.921679"
+  },
+  {
+    "last_modified": "CAR-000451",
+    "total_items": 761.15,
+    "item_total": 413.13,
+    "cart_no": "CAR-000451",
+    "created_dt": "2025-09-25T19:25:20.921685"
+  },
+  {
+    "last_modified": "CAR-000452",
+    "total_items": 674.46,
+    "item_total": 203.9,
+    "cart_no": "CAR-000452",
+    "created_dt": "2023-02-26T19:25:20.921692"
+  },
+  {
+    "last_modified": "CAR-000453",
+    "total_items": 357.29,
+    "item_total": 28.76,
+    "cart_no": "CAR-000453",
+    "created_dt": "2025-07-20T19:25:20.921699"
+  },
+  {
+    "last_modified": "CAR-000454",
+    "total_items": 31.52,
+    "item_total": 88.67,
+    "cart_no": "CAR-000454",
+    "created_dt": "2025-03-26T19:25:20.921705"
+  },
+  {
+    "last_modified": "CAR-000455",
+    "total_items": 444.88,
+    "item_total": 582.32,
+    "cart_no": "CAR-000455",
+    "created_dt": "2024-02-27T19:25:20.921712"
+  },
+  {
+    "last_modified": "CAR-000456",
+    "total_items": 93.22,
+    "item_total": 808.45,
+    "cart_no": "CAR-000456",
+    "created_dt": "2024-11-09T19:25:20.921719"
+  },
+  {
+    "last_modified": "CAR-000457",
+    "total_items": 11.52,
+    "item_total": 301.01,
+    "cart_no": "CAR-000457",
+    "created_dt": "2023-03-15T19:25:20.921725"
+  },
+  {
+    "last_modified": "CAR-000458",
+    "total_items": 861.06,
+    "item_total": 155.96,
+    "cart_no": "CAR-000458",
+    "created_dt": "2023-04-13T19:25:20.921734"
+  },
+  {
+    "last_modified": "CAR-000459",
+    "total_items": 465.07,
+    "item_total": 528.94,
+    "cart_no": "CAR-000459",
+    "created_dt": "2023-05-13T19:25:20.921743"
+  },
+  {
+    "last_modified": "CAR-000460",
+    "total_items": 58.28,
+    "item_total": 224.07,
+    "cart_no": "CAR-000460",
+    "created_dt": "2024-03-10T19:25:20.921750"
+  },
+  {
+    "last_modified": "CAR-000461",
+    "total_items": 420.8,
+    "item_total": 61.09,
+    "cart_no": "CAR-000461",
+    "created_dt": "2024-12-08T19:25:20.921757"
+  },
+  {
+    "last_modified": "CAR-000462",
+    "total_items": 749.88,
+    "item_total": 223.48,
+    "cart_no": "CAR-000462",
+    "created_dt": "2024-04-27T19:25:20.921764"
+  },
+  {
+    "last_modified": "CAR-000463",
+    "total_items": 683.2,
+    "item_total": 219.17,
+    "cart_no": "CAR-000463",
+    "created_dt": "2024-07-30T19:25:20.921771"
+  },
+  {
+    "last_modified": "CAR-000464",
+    "total_items": 408.94,
+    "item_total": 783.07,
+    "cart_no": "CAR-000464",
+    "created_dt": "2023-11-28T19:25:20.921778"
+  },
+  {
+    "last_modified": "CAR-000465",
+    "total_items": 749.74,
+    "item_total": 721.54,
+    "cart_no": "CAR-000465",
+    "created_dt": "2024-09-20T19:25:20.921785"
+  },
+  {
+    "last_modified": "CAR-000466",
+    "total_items": 113.9,
+    "item_total": 81.22,
+    "cart_no": "CAR-000466",
+    "created_dt": "2025-03-07T19:25:20.921794"
+  },
+  {
+    "last_modified": "CAR-000467",
+    "total_items": 204.21,
+    "item_total": 377.08,
+    "cart_no": "CAR-000467",
+    "created_dt": "2023-08-30T19:25:20.921801"
+  },
+  {
+    "last_modified": "CAR-000468",
+    "total_items": 97.89,
+    "item_total": 716.92,
+    "cart_no": "CAR-000468",
+    "created_dt": "2025-10-04T19:25:20.921807"
+  },
+  {
+    "last_modified": "CAR-000469",
+    "total_items": 454.01,
+    "item_total": 227.64,
+    "cart_no": "CAR-000469",
+    "created_dt": "2025-04-30T19:25:20.921814"
+  },
+  {
+    "last_modified": "CAR-000470",
+    "total_items": 887.05,
+    "item_total": 308.44,
+    "cart_no": "CAR-000470",
+    "created_dt": "2024-01-09T19:25:20.921823"
+  },
+  {
+    "last_modified": "CAR-000471",
+    "total_items": 466.37,
+    "item_total": 887.28,
+    "cart_no": "CAR-000471",
+    "created_dt": "2025-01-20T19:25:20.921830"
+  },
+  {
+    "last_modified": "CAR-000472",
+    "total_items": 678.45,
+    "item_total": 891.29,
+    "cart_no": "CAR-000472",
+    "created_dt": "2023-11-07T19:25:20.921836"
+  },
+  {
+    "last_modified": "CAR-000473",
+    "total_items": 252.55,
+    "item_total": 398.49,
+    "cart_no": "CAR-000473",
+    "created_dt": "2024-04-08T19:25:20.921843"
+  },
+  {
+    "last_modified": "CAR-000474",
+    "total_items": 699.65,
+    "item_total": 514.35,
+    "cart_no": "CAR-000474",
+    "created_dt": "2023-04-15T19:25:20.921850"
+  },
+  {
+    "last_modified": "CAR-000475",
+    "total_items": 815.58,
+    "item_total": 272.32,
+    "cart_no": "CAR-000475",
+    "created_dt": "2023-03-31T19:25:20.921857"
+  },
+  {
+    "last_modified": "CAR-000476",
+    "total_items": 966.53,
+    "item_total": 860.1,
+    "cart_no": "CAR-000476",
+    "created_dt": "2024-06-30T19:25:20.921864"
+  },
+  {
+    "last_modified": "CAR-000477",
+    "total_items": 687.3,
+    "item_total": 653.56,
+    "cart_no": "CAR-000477",
+    "created_dt": "2024-06-04T19:25:20.921870"
+  },
+  {
+    "last_modified": "CAR-000478",
+    "total_items": 840.92,
+    "item_total": 715.73,
+    "cart_no": "CAR-000478",
+    "created_dt": "2025-04-01T19:25:20.921877"
+  },
+  {
+    "last_modified": "CAR-000479",
+    "total_items": 591.56,
+    "item_total": 849.96,
+    "cart_no": "CAR-000479",
+    "created_dt": "2023-07-11T19:25:20.921886"
+  },
+  {
+    "last_modified": "CAR-000480",
+    "total_items": 752.41,
+    "item_total": 789.34,
+    "cart_no": "CAR-000480",
+    "created_dt": "2025-11-14T19:25:20.921893"
+  },
+  {
+    "last_modified": "CAR-000481",
+    "total_items": 962.68,
+    "item_total": 786.17,
+    "cart_no": "CAR-000481",
+    "created_dt": "2023-05-10T19:25:20.921900"
+  },
+  {
+    "last_modified": "CAR-000482",
+    "total_items": 395.4,
+    "item_total": 425.69,
+    "cart_no": "CAR-000482",
+    "created_dt": "2023-05-12T19:25:20.921906"
+  },
+  {
+    "last_modified": "CAR-000483",
+    "total_items": 288.58,
+    "item_total": 272.49,
+    "cart_no": "CAR-000483",
+    "created_dt": "2025-03-08T19:25:20.921913"
+  },
+  {
+    "last_modified": "CAR-000484",
+    "total_items": 32.3,
+    "item_total": 867.91,
+    "cart_no": "CAR-000484",
+    "created_dt": "2023-08-31T19:25:20.921920"
+  },
+  {
+    "last_modified": "CAR-000485",
+    "total_items": 472.57,
+    "item_total": 89.71,
+    "cart_no": "CAR-000485",
+    "created_dt": "2023-07-13T19:25:20.921926"
+  },
+  {
+    "last_modified": "CAR-000486",
+    "total_items": 357.22,
+    "item_total": 305.07,
+    "cart_no": "CAR-000486",
+    "created_dt": "2025-08-07T19:25:20.921933"
+  },
+  {
+    "last_modified": "CAR-000487",
+    "total_items": 323.92,
+    "item_total": 476.47,
+    "cart_no": "CAR-000487",
+    "created_dt": "2024-11-10T19:25:20.921940"
+  },
+  {
+    "last_modified": "CAR-000488",
+    "total_items": 655.22,
+    "item_total": 215.88,
+    "cart_no": "CAR-000488",
+    "created_dt": "2025-09-12T19:25:20.921947"
+  },
+  {
+    "last_modified": "CAR-000489",
+    "total_items": 790.88,
+    "item_total": 646.92,
+    "cart_no": "CAR-000489",
+    "created_dt": "2025-10-06T19:25:20.921953"
+  },
+  {
+    "last_modified": "CAR-000490",
+    "total_items": 575.27,
+    "item_total": 284.99,
+    "cart_no": "CAR-000490",
+    "created_dt": "2025-11-02T19:25:20.921960"
+  },
+  {
+    "last_modified": "CAR-000491",
+    "total_items": 798.35,
+    "item_total": 378.87,
+    "cart_no": "CAR-000491",
+    "created_dt": "2024-01-09T19:25:20.921967"
+  },
+  {
+    "last_modified": "CAR-000492",
+    "total_items": 728.71,
+    "item_total": 158.51,
+    "cart_no": "CAR-000492",
+    "created_dt": "2024-05-25T19:25:20.921973"
+  },
+  {
+    "last_modified": "CAR-000493",
+    "total_items": 725.13,
+    "item_total": 349.97,
+    "cart_no": "CAR-000493",
+    "created_dt": "2023-01-30T19:25:20.921980"
+  },
+  {
+    "last_modified": "CAR-000494",
+    "total_items": 983.36,
+    "item_total": 802.49,
+    "cart_no": "CAR-000494",
+    "created_dt": "2023-08-28T19:25:20.921987"
+  },
+  {
+    "last_modified": "CAR-000495",
+    "total_items": 371.8,
+    "item_total": 348.54,
+    "cart_no": "CAR-000495",
+    "created_dt": "2025-01-05T19:25:20.921994"
+  },
+  {
+    "last_modified": "CAR-000496",
+    "total_items": 914.65,
+    "item_total": 866.27,
+    "cart_no": "CAR-000496",
+    "created_dt": "2025-04-18T19:25:20.922000"
+  },
+  {
+    "last_modified": "CAR-000497",
+    "total_items": 942.07,
+    "item_total": 435.54,
+    "cart_no": "CAR-000497",
+    "created_dt": "2025-11-05T19:25:20.922007"
+  },
+  {
+    "last_modified": "CAR-000498",
+    "total_items": 634.98,
+    "item_total": 916.27,
+    "cart_no": "CAR-000498",
+    "created_dt": "2025-12-13T19:25:20.922016"
+  },
+  {
+    "last_modified": "CAR-000499",
+    "total_items": 863.08,
+    "item_total": 46.45,
+    "cart_no": "CAR-000499",
+    "created_dt": "2023-05-30T19:25:20.922022"
+  },
+  {
+    "last_modified": "CAR-000500",
+    "total_items": 38.61,
+    "item_total": 999.54,
+    "cart_no": "CAR-000500",
+    "created_dt": "2025-08-01T19:25:20.922034"
+  },
+  {
+    "last_modified": "CAR-000501",
+    "total_items": 79.44,
+    "item_total": 738.26,
+    "cart_no": "CAR-000501",
+    "created_dt": "2024-04-19T19:25:20.922041"
+  },
+  {
+    "last_modified": "CAR-000502",
+    "total_items": 589.07,
+    "item_total": 755.93,
+    "cart_no": "CAR-000502",
+    "created_dt": "2023-12-31T19:25:20.922047"
+  },
+  {
+    "last_modified": "CAR-000503",
+    "total_items": 826.23,
+    "item_total": 87.02,
+    "cart_no": "CAR-000503",
+    "created_dt": "2023-03-19T19:25:20.922054"
+  },
+  {
+    "last_modified": "CAR-000504",
+    "total_items": 572.02,
+    "item_total": 738.24,
+    "cart_no": "CAR-000504",
+    "created_dt": "2024-04-06T19:25:20.922061"
+  },
+  {
+    "last_modified": "CAR-000505",
+    "total_items": 993.68,
+    "item_total": 95.9,
+    "cart_no": "CAR-000505",
+    "created_dt": "2025-06-15T19:25:20.922068"
+  },
+  {
+    "last_modified": "CAR-000506",
+    "total_items": 686.02,
+    "item_total": 325.1,
+    "cart_no": "CAR-000506",
+    "created_dt": "2024-10-26T19:25:20.922074"
+  },
+  {
+    "last_modified": "CAR-000507",
+    "total_items": 751.39,
+    "item_total": 453.34,
+    "cart_no": "CAR-000507",
+    "created_dt": "2024-06-22T19:25:20.922081"
+  },
+  {
+    "last_modified": "CAR-000508",
+    "total_items": 407.78,
+    "item_total": 85.74,
+    "cart_no": "CAR-000508",
+    "created_dt": "2024-04-22T19:25:20.922088"
+  },
+  {
+    "last_modified": "CAR-000509",
+    "total_items": 475.68,
+    "item_total": 430.8,
+    "cart_no": "CAR-000509",
+    "created_dt": "2025-07-03T19:25:20.922094"
+  },
+  {
+    "last_modified": "CAR-000510",
+    "total_items": 515.62,
+    "item_total": 766.47,
+    "cart_no": "CAR-000510",
+    "created_dt": "2023-09-26T19:25:20.922103"
+  },
+  {
+    "last_modified": "CAR-000511",
+    "total_items": 516.01,
+    "item_total": 672.24,
+    "cart_no": "CAR-000511",
+    "created_dt": "2024-06-14T19:25:20.922110"
+  },
+  {
+    "last_modified": "CAR-000512",
+    "total_items": 723.34,
+    "item_total": 735.75,
+    "cart_no": "CAR-000512",
+    "created_dt": "2023-09-20T19:25:20.922116"
+  },
+  {
+    "last_modified": "CAR-000513",
+    "total_items": 405.9,
+    "item_total": 654.39,
+    "cart_no": "CAR-000513",
+    "created_dt": "2023-11-16T19:25:20.922123"
+  },
+  {
+    "last_modified": "CAR-000514",
+    "total_items": 552.08,
+    "item_total": 155.79,
+    "cart_no": "CAR-000514",
+    "created_dt": "2025-12-08T19:25:20.922130"
+  },
+  {
+    "last_modified": "CAR-000515",
+    "total_items": 742.97,
+    "item_total": 714.89,
+    "cart_no": "CAR-000515",
+    "created_dt": "2023-12-16T19:25:20.922138"
+  },
+  {
+    "last_modified": "CAR-000516",
+    "total_items": 410.07,
+    "item_total": 978.17,
+    "cart_no": "CAR-000516",
+    "created_dt": "2023-12-04T19:25:20.922149"
+  },
+  {
+    "last_modified": "CAR-000517",
+    "total_items": 26.61,
+    "item_total": 645.48,
+    "cart_no": "CAR-000517",
+    "created_dt": "2025-08-24T19:25:20.922160"
+  },
+  {
+    "last_modified": "CAR-000518",
+    "total_items": 283.46,
+    "item_total": 172.43,
+    "cart_no": "CAR-000518",
+    "created_dt": "2024-09-20T19:25:20.922183"
+  },
+  {
+    "last_modified": "CAR-000519",
+    "total_items": 694.74,
+    "item_total": 13.57,
+    "cart_no": "CAR-000519",
+    "created_dt": "2025-01-05T19:25:20.922192"
+  },
+  {
+    "last_modified": "CAR-000520",
+    "total_items": 578.51,
+    "item_total": 194.08,
+    "cart_no": "CAR-000520",
+    "created_dt": "2023-08-28T19:25:20.922198"
+  },
+  {
+    "last_modified": "CAR-000521",
+    "total_items": 909.19,
+    "item_total": 856.81,
+    "cart_no": "CAR-000521",
+    "created_dt": "2024-04-03T19:25:20.922206"
+  },
+  {
+    "last_modified": "CAR-000522",
+    "total_items": 285.46,
+    "item_total": 486.37,
+    "cart_no": "CAR-000522",
+    "created_dt": "2024-09-01T19:25:20.922216"
+  },
+  {
+    "last_modified": "CAR-000523",
+    "total_items": 626.91,
+    "item_total": 428.11,
+    "cart_no": "CAR-000523",
+    "created_dt": "2025-02-25T19:25:20.922226"
+  },
+  {
+    "last_modified": "CAR-000524",
+    "total_items": 76.41,
+    "item_total": 64.25,
+    "cart_no": "CAR-000524",
+    "created_dt": "2025-08-25T19:25:20.922233"
+  },
+  {
+    "last_modified": "CAR-000525",
+    "total_items": 224.12,
+    "item_total": 97.36,
+    "cart_no": "CAR-000525",
+    "created_dt": "2023-11-06T19:25:20.922240"
+  },
+  {
+    "last_modified": "CAR-000526",
+    "total_items": 382.34,
+    "item_total": 315.24,
+    "cart_no": "CAR-000526",
+    "created_dt": "2024-04-20T19:25:20.922246"
+  },
+  {
+    "last_modified": "CAR-000527",
+    "total_items": 456.56,
+    "item_total": 251.2,
+    "cart_no": "CAR-000527",
+    "created_dt": "2025-07-09T19:25:20.922253"
+  },
+  {
+    "last_modified": "CAR-000528",
+    "total_items": 260.8,
+    "item_total": 735.9,
+    "cart_no": "CAR-000528",
+    "created_dt": "2023-03-22T19:25:20.922260"
+  },
+  {
+    "last_modified": "CAR-000529",
+    "total_items": 346.19,
+    "item_total": 268.54,
+    "cart_no": "CAR-000529",
+    "created_dt": "2024-05-07T19:25:20.922267"
+  },
+  {
+    "last_modified": "CAR-000530",
+    "total_items": 866.1,
+    "item_total": 829.34,
+    "cart_no": "CAR-000530",
+    "created_dt": "2026-01-04T19:25:20.922276"
+  },
+  {
+    "last_modified": "CAR-000531",
+    "total_items": 196.1,
+    "item_total": 609.65,
+    "cart_no": "CAR-000531",
+    "created_dt": "2024-06-11T19:25:20.922282"
+  },
+  {
+    "last_modified": "CAR-000532",
+    "total_items": 112.08,
+    "item_total": 930.72,
+    "cart_no": "CAR-000532",
+    "created_dt": "2025-02-03T19:25:20.922289"
+  },
+  {
+    "last_modified": "CAR-000533",
+    "total_items": 917.16,
+    "item_total": 233.67,
+    "cart_no": "CAR-000533",
+    "created_dt": "2023-03-13T19:25:20.922296"
+  },
+  {
+    "last_modified": "CAR-000534",
+    "total_items": 486.04,
+    "item_total": 233.4,
+    "cart_no": "CAR-000534",
+    "created_dt": "2024-01-09T19:25:20.922303"
+  },
+  {
+    "last_modified": "CAR-000535",
+    "total_items": 992.19,
+    "item_total": 541.9,
+    "cart_no": "CAR-000535",
+    "created_dt": "2023-09-30T19:25:20.922309"
+  },
+  {
+    "last_modified": "CAR-000536",
+    "total_items": 419.48,
+    "item_total": 926.41,
+    "cart_no": "CAR-000536",
+    "created_dt": "2023-03-29T19:25:20.922316"
+  },
+  {
+    "last_modified": "CAR-000537",
+    "total_items": 484.28,
+    "item_total": 104.56,
+    "cart_no": "CAR-000537",
+    "created_dt": "2025-07-09T19:25:20.922323"
+  },
+  {
+    "last_modified": "CAR-000538",
+    "total_items": 969.68,
+    "item_total": 919.49,
+    "cart_no": "CAR-000538",
+    "created_dt": "2025-08-06T19:25:20.922330"
+  },
+  {
+    "last_modified": "CAR-000539",
+    "total_items": 510.43,
+    "item_total": 196.02,
+    "cart_no": "CAR-000539",
+    "created_dt": "2025-03-26T19:25:20.922336"
+  },
+  {
+    "last_modified": "CAR-000540",
+    "total_items": 361.79,
+    "item_total": 380.15,
+    "cart_no": "CAR-000540",
+    "created_dt": "2024-07-11T19:25:20.922343"
+  },
+  {
+    "last_modified": "CAR-000541",
+    "total_items": 901.69,
+    "item_total": 970.79,
+    "cart_no": "CAR-000541",
+    "created_dt": "2024-03-29T19:25:20.922350"
+  },
+  {
+    "last_modified": "CAR-000542",
+    "total_items": 539.17,
+    "item_total": 87.75,
+    "cart_no": "CAR-000542",
+    "created_dt": "2024-11-05T19:25:20.922356"
+  },
+  {
+    "last_modified": "CAR-000543",
+    "total_items": 951.36,
+    "item_total": 936.31,
+    "cart_no": "CAR-000543",
+    "created_dt": "2023-12-25T19:25:20.922363"
+  },
+  {
+    "last_modified": "CAR-000544",
+    "total_items": 641.32,
+    "item_total": 696.83,
+    "cart_no": "CAR-000544",
+    "created_dt": "2023-04-14T19:25:20.922372"
+  },
+  {
+    "last_modified": "CAR-000545",
+    "total_items": 554.87,
+    "item_total": 334.59,
+    "cart_no": "CAR-000545",
+    "created_dt": "2025-09-13T19:25:20.922379"
+  },
+  {
+    "last_modified": "CAR-000546",
+    "total_items": 810.76,
+    "item_total": 527.29,
+    "cart_no": "CAR-000546",
+    "created_dt": "2025-08-07T19:25:20.922386"
+  },
+  {
+    "last_modified": "CAR-000547",
+    "total_items": 917.51,
+    "item_total": 971.41,
+    "cart_no": "CAR-000547",
+    "created_dt": "2023-12-03T19:25:20.922392"
+  },
+  {
+    "last_modified": "CAR-000548",
+    "total_items": 336.99,
+    "item_total": 809.57,
+    "cart_no": "CAR-000548",
+    "created_dt": "2025-05-28T19:25:20.922399"
+  },
+  {
+    "last_modified": "CAR-000549",
+    "total_items": 383.02,
+    "item_total": 351.71,
+    "cart_no": "CAR-000549",
+    "created_dt": "2025-01-10T19:25:20.922406"
+  },
+  {
+    "last_modified": "CAR-000550",
+    "total_items": 222.98,
+    "item_total": 213.48,
+    "cart_no": "CAR-000550",
+    "created_dt": "2025-06-25T19:25:20.922413"
+  },
+  {
+    "last_modified": "CAR-000551",
+    "total_items": 591.72,
+    "item_total": 317.94,
+    "cart_no": "CAR-000551",
+    "created_dt": "2025-07-06T19:25:20.922419"
+  },
+  {
+    "last_modified": "CAR-000552",
+    "total_items": 552.25,
+    "item_total": 719.31,
+    "cart_no": "CAR-000552",
+    "created_dt": "2025-10-17T19:25:20.922426"
+  },
+  {
+    "last_modified": "CAR-000553",
+    "total_items": 735.02,
+    "item_total": 992.83,
+    "cart_no": "CAR-000553",
+    "created_dt": "2023-01-14T19:25:20.922433"
+  },
+  {
+    "last_modified": "CAR-000554",
+    "total_items": 74.38,
+    "item_total": 265.62,
+    "cart_no": "CAR-000554",
+    "created_dt": "2023-11-13T19:25:20.922439"
+  },
+  {
+    "last_modified": "CAR-000555",
+    "total_items": 197.19,
+    "item_total": 135.86,
+    "cart_no": "CAR-000555",
+    "created_dt": "2025-01-20T19:25:20.922446"
+  },
+  {
+    "last_modified": "CAR-000556",
+    "total_items": 318.64,
+    "item_total": 165.42,
+    "cart_no": "CAR-000556",
+    "created_dt": "2023-12-14T19:25:20.922453"
+  },
+  {
+    "last_modified": "CAR-000557",
+    "total_items": 578.49,
+    "item_total": 747.12,
+    "cart_no": "CAR-000557",
+    "created_dt": "2024-09-01T19:25:20.922460"
+  },
+  {
+    "last_modified": "CAR-000558",
+    "total_items": 978.29,
+    "item_total": 848.52,
+    "cart_no": "CAR-000558",
+    "created_dt": "2025-06-15T19:25:20.922466"
+  },
+  {
+    "last_modified": "CAR-000559",
+    "total_items": 181.65,
+    "item_total": 519.86,
+    "cart_no": "CAR-000559",
+    "created_dt": "2025-02-27T19:25:20.922473"
+  },
+  {
+    "last_modified": "CAR-000560",
+    "total_items": 477.46,
+    "item_total": 201.26,
+    "cart_no": "CAR-000560",
+    "created_dt": "2025-07-08T19:25:20.922479"
+  },
+  {
+    "last_modified": "CAR-000561",
+    "total_items": 990.24,
+    "item_total": 302.77,
+    "cart_no": "CAR-000561",
+    "created_dt": "2023-10-10T19:25:20.922488"
+  },
+  {
+    "last_modified": "CAR-000562",
+    "total_items": 97.24,
+    "item_total": 256.96,
+    "cart_no": "CAR-000562",
+    "created_dt": "2024-02-29T19:25:20.922495"
+  },
+  {
+    "last_modified": "CAR-000563",
+    "total_items": 883.83,
+    "item_total": 362.79,
+    "cart_no": "CAR-000563",
+    "created_dt": "2024-12-05T19:25:20.922502"
+  },
+  {
+    "last_modified": "CAR-000564",
+    "total_items": 850.49,
+    "item_total": 952.75,
+    "cart_no": "CAR-000564",
+    "created_dt": "2024-03-24T19:25:20.922511"
+  },
+  {
+    "last_modified": "CAR-000565",
+    "total_items": 231.22,
+    "item_total": 197.91,
+    "cart_no": "CAR-000565",
+    "created_dt": "2024-04-20T19:25:20.922517"
+  },
+  {
+    "last_modified": "CAR-000566",
+    "total_items": 303.86,
+    "item_total": 455.28,
+    "cart_no": "CAR-000566",
+    "created_dt": "2023-01-14T19:25:20.922524"
+  },
+  {
+    "last_modified": "CAR-000567",
+    "total_items": 97.07,
+    "item_total": 715.09,
+    "cart_no": "CAR-000567",
+    "created_dt": "2025-10-04T19:25:20.922534"
+  },
+  {
+    "last_modified": "CAR-000568",
+    "total_items": 620.47,
+    "item_total": 889.12,
+    "cart_no": "CAR-000568",
+    "created_dt": "2023-09-28T19:25:20.922541"
+  },
+  {
+    "last_modified": "CAR-000569",
+    "total_items": 366.96,
+    "item_total": 553.54,
+    "cart_no": "CAR-000569",
+    "created_dt": "2024-04-09T19:25:20.922547"
+  },
+  {
+    "last_modified": "CAR-000570",
+    "total_items": 326.57,
+    "item_total": 412.71,
+    "cart_no": "CAR-000570",
+    "created_dt": "2023-08-08T19:25:20.922554"
+  },
+  {
+    "last_modified": "CAR-000571",
+    "total_items": 245.01,
+    "item_total": 802.22,
+    "cart_no": "CAR-000571",
+    "created_dt": "2024-03-14T19:25:20.922561"
+  },
+  {
+    "last_modified": "CAR-000572",
+    "total_items": 988.07,
+    "item_total": 310.54,
+    "cart_no": "CAR-000572",
+    "created_dt": "2024-12-29T19:25:20.922569"
+  },
+  {
+    "last_modified": "CAR-000573",
+    "total_items": 601.66,
+    "item_total": 107.3,
+    "cart_no": "CAR-000573",
+    "created_dt": "2023-09-30T19:25:20.922576"
+  },
+  {
+    "last_modified": "CAR-000574",
+    "total_items": 939.37,
+    "item_total": 859.11,
+    "cart_no": "CAR-000574",
+    "created_dt": "2024-07-12T19:25:20.922593"
+  },
+  {
+    "last_modified": "CAR-000575",
+    "total_items": 347.83,
+    "item_total": 64.53,
+    "cart_no": "CAR-000575",
+    "created_dt": "2024-04-21T19:25:20.922600"
+  },
+  {
+    "last_modified": "CAR-000576",
+    "total_items": 687.59,
+    "item_total": 935.59,
+    "cart_no": "CAR-000576",
+    "created_dt": "2025-06-13T19:25:20.922607"
+  },
+  {
+    "last_modified": "CAR-000577",
+    "total_items": 32.68,
+    "item_total": 971.98,
+    "cart_no": "CAR-000577",
+    "created_dt": "2023-11-18T19:25:20.922614"
+  },
+  {
+    "last_modified": "CAR-000578",
+    "total_items": 982.38,
+    "item_total": 386.73,
+    "cart_no": "CAR-000578",
+    "created_dt": "2025-07-02T19:25:20.922620"
+  },
+  {
+    "last_modified": "CAR-000579",
+    "total_items": 27.1,
+    "item_total": 896.22,
+    "cart_no": "CAR-000579",
+    "created_dt": "2023-01-27T19:25:20.922627"
+  },
+  {
+    "last_modified": "CAR-000580",
+    "total_items": 640.08,
+    "item_total": 168.44,
+    "cart_no": "CAR-000580",
+    "created_dt": "2024-08-15T19:25:20.922634"
+  },
+  {
+    "last_modified": "CAR-000581",
+    "total_items": 142.66,
+    "item_total": 742.65,
+    "cart_no": "CAR-000581",
+    "created_dt": "2023-10-04T19:25:20.922641"
+  },
+  {
+    "last_modified": "CAR-000582",
+    "total_items": 540.19,
+    "item_total": 423.23,
+    "cart_no": "CAR-000582",
+    "created_dt": "2023-03-15T19:25:20.922648"
+  },
+  {
+    "last_modified": "CAR-000583",
+    "total_items": 925.8,
+    "item_total": 160.43,
+    "cart_no": "CAR-000583",
+    "created_dt": "2025-07-22T19:25:20.922654"
+  },
+  {
+    "last_modified": "CAR-000584",
+    "total_items": 636.49,
+    "item_total": 504.23,
+    "cart_no": "CAR-000584",
+    "created_dt": "2023-10-09T19:25:20.922661"
+  },
+  {
+    "last_modified": "CAR-000585",
+    "total_items": 178.79,
+    "item_total": 784.34,
+    "cart_no": "CAR-000585",
+    "created_dt": "2023-11-20T19:25:20.922670"
+  },
+  {
+    "last_modified": "CAR-000586",
+    "total_items": 955.06,
+    "item_total": 40.17,
+    "cart_no": "CAR-000586",
+    "created_dt": "2024-12-09T19:25:20.922676"
+  },
+  {
+    "last_modified": "CAR-000587",
+    "total_items": 635.11,
+    "item_total": 501.6,
+    "cart_no": "CAR-000587",
+    "created_dt": "2025-07-17T19:25:20.922683"
+  },
+  {
+    "last_modified": "CAR-000588",
+    "total_items": 748.3,
+    "item_total": 21.01,
+    "cart_no": "CAR-000588",
+    "created_dt": "2024-09-25T19:25:20.922690"
+  },
+  {
+    "last_modified": "CAR-000589",
+    "total_items": 147.76,
+    "item_total": 801.66,
+    "cart_no": "CAR-000589",
+    "created_dt": "2024-01-20T19:25:20.922696"
+  },
+  {
+    "last_modified": "CAR-000590",
+    "total_items": 497.35,
+    "item_total": 762.46,
+    "cart_no": "CAR-000590",
+    "created_dt": "2023-06-21T19:25:20.922703"
+  },
+  {
+    "last_modified": "CAR-000591",
+    "total_items": 58.66,
+    "item_total": 209.22,
+    "cart_no": "CAR-000591",
+    "created_dt": "2025-03-17T19:25:20.922710"
+  },
+  {
+    "last_modified": "CAR-000592",
+    "total_items": 40.2,
+    "item_total": 960.56,
+    "cart_no": "CAR-000592",
+    "created_dt": "2023-06-06T19:25:20.922716"
+  },
+  {
+    "last_modified": "CAR-000593",
+    "total_items": 913.74,
+    "item_total": 274.66,
+    "cart_no": "CAR-000593",
+    "created_dt": "2024-02-14T19:25:20.922725"
+  },
+  {
+    "last_modified": "CAR-000594",
+    "total_items": 619.53,
+    "item_total": 737.67,
+    "cart_no": "CAR-000594",
+    "created_dt": "2024-08-07T19:25:20.922732"
+  },
+  {
+    "last_modified": "CAR-000595",
+    "total_items": 807.01,
+    "item_total": 560.94,
+    "cart_no": "CAR-000595",
+    "created_dt": "2025-05-04T19:25:20.922739"
+  },
+  {
+    "last_modified": "CAR-000596",
+    "total_items": 153.3,
+    "item_total": 356.15,
+    "cart_no": "CAR-000596",
+    "created_dt": "2024-05-15T19:25:20.922745"
+  },
+  {
+    "last_modified": "CAR-000597",
+    "total_items": 341.33,
+    "item_total": 901.96,
+    "cart_no": "CAR-000597",
+    "created_dt": "2025-10-10T19:25:20.922752"
+  },
+  {
+    "last_modified": "CAR-000598",
+    "total_items": 337.87,
+    "item_total": 995.89,
+    "cart_no": "CAR-000598",
+    "created_dt": "2025-11-23T19:25:20.922759"
+  },
+  {
+    "last_modified": "CAR-000599",
+    "total_items": 709.43,
+    "item_total": 155.95,
+    "cart_no": "CAR-000599",
+    "created_dt": "2023-02-18T19:25:20.922765"
+  },
+  {
+    "last_modified": "CAR-000600",
+    "total_items": 405.44,
+    "item_total": 807.95,
+    "cart_no": "CAR-000600",
+    "created_dt": "2025-10-12T19:25:20.922772"
+  },
+  {
+    "last_modified": "CAR-000601",
+    "total_items": 295.16,
+    "item_total": 38.39,
+    "cart_no": "CAR-000601",
+    "created_dt": "2025-01-02T19:25:20.922779"
+  },
+  {
+    "last_modified": "CAR-000602",
+    "total_items": 269.53,
+    "item_total": 424.32,
+    "cart_no": "CAR-000602",
+    "created_dt": "2024-01-06T19:25:20.922786"
+  },
+  {
+    "last_modified": "CAR-000603",
+    "total_items": 848.73,
+    "item_total": 887.54,
+    "cart_no": "CAR-000603",
+    "created_dt": "2024-07-19T19:25:20.922794"
+  },
+  {
+    "last_modified": "CAR-000604",
+    "total_items": 456.64,
+    "item_total": 806.6,
+    "cart_no": "CAR-000604",
+    "created_dt": "2024-02-11T19:25:20.922805"
+  },
+  {
+    "last_modified": "CAR-000605",
+    "total_items": 51.24,
+    "item_total": 583.78,
+    "cart_no": "CAR-000605",
+    "created_dt": "2024-08-01T19:25:20.922816"
+  },
+  {
+    "last_modified": "CAR-000606",
+    "total_items": 871.92,
+    "item_total": 638.22,
+    "cart_no": "CAR-000606",
+    "created_dt": "2023-03-12T19:25:20.922828"
+  },
+  {
+    "last_modified": "CAR-000607",
+    "total_items": 337.18,
+    "item_total": 398.22,
+    "cart_no": "CAR-000607",
+    "created_dt": "2024-07-27T19:25:20.922838"
+  },
+  {
+    "last_modified": "CAR-000608",
+    "total_items": 212.2,
+    "item_total": 102.83,
+    "cart_no": "CAR-000608",
+    "created_dt": "2023-11-05T19:25:20.922845"
+  },
+  {
+    "last_modified": "CAR-000609",
+    "total_items": 335.94,
+    "item_total": 842.59,
+    "cart_no": "CAR-000609",
+    "created_dt": "2023-08-10T19:25:20.922851"
+  },
+  {
+    "last_modified": "CAR-000610",
+    "total_items": 807.21,
+    "item_total": 228.35,
+    "cart_no": "CAR-000610",
+    "created_dt": "2023-04-08T19:25:20.922858"
+  },
+  {
+    "last_modified": "CAR-000611",
+    "total_items": 535.53,
+    "item_total": 927.48,
+    "cart_no": "CAR-000611",
+    "created_dt": "2023-07-18T19:25:20.922865"
+  },
+  {
+    "last_modified": "CAR-000612",
+    "total_items": 730.73,
+    "item_total": 387.11,
+    "cart_no": "CAR-000612",
+    "created_dt": "2023-08-22T19:25:20.922871"
+  },
+  {
+    "last_modified": "CAR-000613",
+    "total_items": 700.28,
+    "item_total": 912.21,
+    "cart_no": "CAR-000613",
+    "created_dt": "2024-09-10T19:25:20.922878"
+  },
+  {
+    "last_modified": "CAR-000614",
+    "total_items": 83.33,
+    "item_total": 395.46,
+    "cart_no": "CAR-000614",
+    "created_dt": "2025-09-24T19:25:20.922885"
+  },
+  {
+    "last_modified": "CAR-000615",
+    "total_items": 422.52,
+    "item_total": 136.7,
+    "cart_no": "CAR-000615",
+    "created_dt": "2025-04-02T19:25:20.922891"
+  },
+  {
+    "last_modified": "CAR-000616",
+    "total_items": 844.91,
+    "item_total": 32.8,
+    "cart_no": "CAR-000616",
+    "created_dt": "2025-07-13T19:25:20.922898"
+  },
+  {
+    "last_modified": "CAR-000617",
+    "total_items": 992.37,
+    "item_total": 801.37,
+    "cart_no": "CAR-000617",
+    "created_dt": "2024-12-09T19:25:20.922905"
+  },
+  {
+    "last_modified": "CAR-000618",
+    "total_items": 560.45,
+    "item_total": 19.03,
+    "cart_no": "CAR-000618",
+    "created_dt": "2024-06-16T19:25:20.922912"
+  },
+  {
+    "last_modified": "CAR-000619",
+    "total_items": 487.17,
+    "item_total": 593.23,
+    "cart_no": "CAR-000619",
+    "created_dt": "2023-07-09T19:25:20.922918"
+  },
+  {
+    "last_modified": "CAR-000620",
+    "total_items": 903.53,
+    "item_total": 88.85,
+    "cart_no": "CAR-000620",
+    "created_dt": "2025-12-09T19:25:20.922925"
+  },
+  {
+    "last_modified": "CAR-000621",
+    "total_items": 222.18,
+    "item_total": 26.51,
+    "cart_no": "CAR-000621",
+    "created_dt": "2024-03-06T19:25:20.922932"
+  },
+  {
+    "last_modified": "CAR-000622",
+    "total_items": 130.04,
+    "item_total": 723.82,
+    "cart_no": "CAR-000622",
+    "created_dt": "2024-08-02T19:25:20.922938"
+  },
+  {
+    "last_modified": "CAR-000623",
+    "total_items": 858.27,
+    "item_total": 525.84,
+    "cart_no": "CAR-000623",
+    "created_dt": "2024-03-20T19:25:20.922947"
+  },
+  {
+    "last_modified": "CAR-000624",
+    "total_items": 732.55,
+    "item_total": 564.52,
+    "cart_no": "CAR-000624",
+    "created_dt": "2024-05-26T19:25:20.922954"
+  },
+  {
+    "last_modified": "CAR-000625",
+    "total_items": 314.96,
+    "item_total": 593.23,
+    "cart_no": "CAR-000625",
+    "created_dt": "2025-05-05T19:25:20.922963"
+  },
+  {
+    "last_modified": "CAR-000626",
+    "total_items": 267.02,
+    "item_total": 810.79,
+    "cart_no": "CAR-000626",
+    "created_dt": "2025-10-04T19:25:20.922969"
+  },
+  {
+    "last_modified": "CAR-000627",
+    "total_items": 957.46,
+    "item_total": 241.02,
+    "cart_no": "CAR-000627",
+    "created_dt": "2023-07-22T19:25:20.922976"
+  },
+  {
+    "last_modified": "CAR-000628",
+    "total_items": 136.86,
+    "item_total": 246.97,
+    "cart_no": "CAR-000628",
+    "created_dt": "2024-01-06T19:25:20.922983"
+  },
+  {
+    "last_modified": "CAR-000629",
+    "total_items": 883.88,
+    "item_total": 957.74,
+    "cart_no": "CAR-000629",
+    "created_dt": "2023-09-25T19:25:20.922993"
+  },
+  {
+    "last_modified": "CAR-000630",
+    "total_items": 479.49,
+    "item_total": 643.21,
+    "cart_no": "CAR-000630",
+    "created_dt": "2024-03-02T19:25:20.923000"
+  },
+  {
+    "last_modified": "CAR-000631",
+    "total_items": 731.43,
+    "item_total": 134.83,
+    "cart_no": "CAR-000631",
+    "created_dt": "2023-10-26T19:25:20.923006"
+  },
+  {
+    "last_modified": "CAR-000632",
+    "total_items": 498.49,
+    "item_total": 809.75,
+    "cart_no": "CAR-000632",
+    "created_dt": "2024-08-04T19:25:20.923013"
+  },
+  {
+    "last_modified": "CAR-000633",
+    "total_items": 865.89,
+    "item_total": 761.55,
+    "cart_no": "CAR-000633",
+    "created_dt": "2023-10-05T19:25:20.923020"
+  },
+  {
+    "last_modified": "CAR-000634",
+    "total_items": 816.55,
+    "item_total": 533.43,
+    "cart_no": "CAR-000634",
+    "created_dt": "2023-09-15T19:25:20.923026"
+  },
+  {
+    "last_modified": "CAR-000635",
+    "total_items": 836.37,
+    "item_total": 338.41,
+    "cart_no": "CAR-000635",
+    "created_dt": "2025-03-10T19:25:20.923033"
+  },
+  {
+    "last_modified": "CAR-000636",
+    "total_items": 597.07,
+    "item_total": 175.13,
+    "cart_no": "CAR-000636",
+    "created_dt": "2024-12-25T19:25:20.923040"
+  },
+  {
+    "last_modified": "CAR-000637",
+    "total_items": 873.91,
+    "item_total": 167.26,
+    "cart_no": "CAR-000637",
+    "created_dt": "2025-02-06T19:25:20.923046"
+  },
+  {
+    "last_modified": "CAR-000638",
+    "total_items": 719.74,
+    "item_total": 902.06,
+    "cart_no": "CAR-000638",
+    "created_dt": "2025-05-28T19:25:20.923053"
+  },
+  {
+    "last_modified": "CAR-000639",
+    "total_items": 531.67,
+    "item_total": 162.72,
+    "cart_no": "CAR-000639",
+    "created_dt": "2023-12-07T19:25:20.923060"
+  },
+  {
+    "last_modified": "CAR-000640",
+    "total_items": 217.57,
+    "item_total": 442.42,
+    "cart_no": "CAR-000640",
+    "created_dt": "2023-03-02T19:25:20.923069"
+  },
+  {
+    "last_modified": "CAR-000641",
+    "total_items": 519.1,
+    "item_total": 432.82,
+    "cart_no": "CAR-000641",
+    "created_dt": "2024-05-09T19:25:20.923076"
+  },
+  {
+    "last_modified": "CAR-000642",
+    "total_items": 684.69,
+    "item_total": 833.49,
+    "cart_no": "CAR-000642",
+    "created_dt": "2023-04-22T19:25:20.923082"
+  },
+  {
+    "last_modified": "CAR-000643",
+    "total_items": 907.58,
+    "item_total": 642.75,
+    "cart_no": "CAR-000643",
+    "created_dt": "2023-03-18T19:25:20.923089"
+  },
+  {
+    "last_modified": "CAR-000644",
+    "total_items": 28.29,
+    "item_total": 949.6,
+    "cart_no": "CAR-000644",
+    "created_dt": "2024-06-18T19:25:20.923096"
+  },
+  {
+    "last_modified": "CAR-000645",
+    "total_items": 330.71,
+    "item_total": 556.15,
+    "cart_no": "CAR-000645",
+    "created_dt": "2023-05-03T19:25:20.923102"
+  },
+  {
+    "last_modified": "CAR-000646",
+    "total_items": 973.83,
+    "item_total": 736.73,
+    "cart_no": "CAR-000646",
+    "created_dt": "2024-03-14T19:25:20.923109"
+  },
+  {
+    "last_modified": "CAR-000647",
+    "total_items": 832.64,
+    "item_total": 480.19,
+    "cart_no": "CAR-000647",
+    "created_dt": "2025-03-15T19:25:20.923116"
+  },
+  {
+    "last_modified": "CAR-000648",
+    "total_items": 88.56,
+    "item_total": 363.84,
+    "cart_no": "CAR-000648",
+    "created_dt": "2024-11-25T19:25:20.923122"
+  },
+  {
+    "last_modified": "CAR-000649",
+    "total_items": 90.35,
+    "item_total": 482.8,
+    "cart_no": "CAR-000649",
+    "created_dt": "2024-02-04T19:25:20.923131"
+  },
+  {
+    "last_modified": "CAR-000650",
+    "total_items": 686.84,
+    "item_total": 712.03,
+    "cart_no": "CAR-000650",
+    "created_dt": "2025-02-19T19:25:20.923137"
+  },
+  {
+    "last_modified": "CAR-000651",
+    "total_items": 924.53,
+    "item_total": 703.02,
+    "cart_no": "CAR-000651",
+    "created_dt": "2023-04-15T19:25:20.923144"
+  },
+  {
+    "last_modified": "CAR-000652",
+    "total_items": 281.79,
+    "item_total": 711.45,
+    "cart_no": "CAR-000652",
+    "created_dt": "2024-06-22T19:25:20.923151"
+  },
+  {
+    "last_modified": "CAR-000653",
+    "total_items": 96.12,
+    "item_total": 688.97,
+    "cart_no": "CAR-000653",
+    "created_dt": "2024-05-23T19:25:20.923157"
+  },
+  {
+    "last_modified": "CAR-000654",
+    "total_items": 971.03,
+    "item_total": 391.91,
+    "cart_no": "CAR-000654",
+    "created_dt": "2025-02-23T19:25:20.923164"
+  },
+  {
+    "last_modified": "CAR-000655",
+    "total_items": 434.26,
+    "item_total": 330.0,
+    "cart_no": "CAR-000655",
+    "created_dt": "2025-05-08T19:25:20.923183"
+  },
+  {
+    "last_modified": "CAR-000656",
+    "total_items": 840.64,
+    "item_total": 655.39,
+    "cart_no": "CAR-000656",
+    "created_dt": "2023-04-06T19:25:20.923196"
+  },
+  {
+    "last_modified": "CAR-000657",
+    "total_items": 430.16,
+    "item_total": 341.3,
+    "cart_no": "CAR-000657",
+    "created_dt": "2024-07-09T19:25:20.923206"
+  },
+  {
+    "last_modified": "CAR-000658",
+    "total_items": 617.0,
+    "item_total": 362.04,
+    "cart_no": "CAR-000658",
+    "created_dt": "2024-03-29T19:25:20.923217"
+  },
+  {
+    "last_modified": "CAR-000659",
+    "total_items": 81.22,
+    "item_total": 364.61,
+    "cart_no": "CAR-000659",
+    "created_dt": "2023-08-01T19:25:20.923230"
+  },
+  {
+    "last_modified": "CAR-000660",
+    "total_items": 317.57,
+    "item_total": 120.48,
+    "cart_no": "CAR-000660",
+    "created_dt": "2023-10-07T19:25:20.923241"
+  },
+  {
+    "last_modified": "CAR-000661",
+    "total_items": 446.19,
+    "item_total": 602.86,
+    "cart_no": "CAR-000661",
+    "created_dt": "2024-09-10T19:25:20.923249"
+  },
+  {
+    "last_modified": "CAR-000662",
+    "total_items": 936.01,
+    "item_total": 17.86,
+    "cart_no": "CAR-000662",
+    "created_dt": "2025-09-29T19:25:20.923256"
+  },
+  {
+    "last_modified": "CAR-000663",
+    "total_items": 570.07,
+    "item_total": 214.48,
+    "cart_no": "CAR-000663",
+    "created_dt": "2023-03-14T19:25:20.923262"
+  },
+  {
+    "last_modified": "CAR-000664",
+    "total_items": 819.99,
+    "item_total": 70.42,
+    "cart_no": "CAR-000664",
+    "created_dt": "2025-05-29T19:25:20.923269"
+  },
+  {
+    "last_modified": "CAR-000665",
+    "total_items": 402.04,
+    "item_total": 199.75,
+    "cart_no": "CAR-000665",
+    "created_dt": "2025-10-24T19:25:20.923276"
+  },
+  {
+    "last_modified": "CAR-000666",
+    "total_items": 95.0,
+    "item_total": 739.04,
+    "cart_no": "CAR-000666",
+    "created_dt": "2023-05-12T19:25:20.923284"
+  },
+  {
+    "last_modified": "CAR-000667",
+    "total_items": 655.69,
+    "item_total": 163.68,
+    "cart_no": "CAR-000667",
+    "created_dt": "2024-06-13T19:25:20.923292"
+  },
+  {
+    "last_modified": "CAR-000668",
+    "total_items": 153.14,
+    "item_total": 529.08,
+    "cart_no": "CAR-000668",
+    "created_dt": "2024-10-26T19:25:20.923299"
+  },
+  {
+    "last_modified": "CAR-000669",
+    "total_items": 312.26,
+    "item_total": 666.19,
+    "cart_no": "CAR-000669",
+    "created_dt": "2025-02-01T19:25:20.923305"
+  },
+  {
+    "last_modified": "CAR-000670",
+    "total_items": 484.8,
+    "item_total": 416.11,
+    "cart_no": "CAR-000670",
+    "created_dt": "2025-10-02T19:25:20.923314"
+  },
+  {
+    "last_modified": "CAR-000671",
+    "total_items": 572.05,
+    "item_total": 524.7,
+    "cart_no": "CAR-000671",
+    "created_dt": "2024-08-07T19:25:20.923321"
+  },
+  {
+    "last_modified": "CAR-000672",
+    "total_items": 441.53,
+    "item_total": 697.22,
+    "cart_no": "CAR-000672",
+    "created_dt": "2025-07-24T19:25:20.923328"
+  },
+  {
+    "last_modified": "CAR-000673",
+    "total_items": 806.42,
+    "item_total": 875.5,
+    "cart_no": "CAR-000673",
+    "created_dt": "2025-11-02T19:25:20.923334"
+  },
+  {
+    "last_modified": "CAR-000674",
+    "total_items": 281.85,
+    "item_total": 795.7,
+    "cart_no": "CAR-000674",
+    "created_dt": "2024-12-03T19:25:20.923343"
+  },
+  {
+    "last_modified": "CAR-000675",
+    "total_items": 910.89,
+    "item_total": 558.01,
+    "cart_no": "CAR-000675",
+    "created_dt": "2025-08-15T19:25:20.923350"
+  },
+  {
+    "last_modified": "CAR-000676",
+    "total_items": 840.12,
+    "item_total": 340.31,
+    "cart_no": "CAR-000676",
+    "created_dt": "2024-10-18T19:25:20.923356"
+  },
+  {
+    "last_modified": "CAR-000677",
+    "total_items": 444.25,
+    "item_total": 249.59,
+    "cart_no": "CAR-000677",
+    "created_dt": "2023-01-26T19:25:20.923363"
+  },
+  {
+    "last_modified": "CAR-000678",
+    "total_items": 405.14,
+    "item_total": 986.9,
+    "cart_no": "CAR-000678",
+    "created_dt": "2023-04-20T19:25:20.923369"
+  },
+  {
+    "last_modified": "CAR-000679",
+    "total_items": 113.28,
+    "item_total": 352.46,
+    "cart_no": "CAR-000679",
+    "created_dt": "2024-07-24T19:25:20.923376"
+  },
+  {
+    "last_modified": "CAR-000680",
+    "total_items": 279.84,
+    "item_total": 881.94,
+    "cart_no": "CAR-000680",
+    "created_dt": "2024-02-03T19:25:20.923382"
+  },
+  {
+    "last_modified": "CAR-000681",
+    "total_items": 252.6,
+    "item_total": 162.7,
+    "cart_no": "CAR-000681",
+    "created_dt": "2023-10-28T19:25:20.923389"
+  },
+  {
+    "last_modified": "CAR-000682",
+    "total_items": 50.49,
+    "item_total": 891.63,
+    "cart_no": "CAR-000682",
+    "created_dt": "2023-04-23T19:25:20.923395"
+  },
+  {
+    "last_modified": "CAR-000683",
+    "total_items": 857.23,
+    "item_total": 932.08,
+    "cart_no": "CAR-000683",
+    "created_dt": "2023-10-07T19:25:20.923402"
+  },
+  {
+    "last_modified": "CAR-000684",
+    "total_items": 636.66,
+    "item_total": 146.41,
+    "cart_no": "CAR-000684",
+    "created_dt": "2025-04-06T19:25:20.923409"
+  },
+  {
+    "last_modified": "CAR-000685",
+    "total_items": 57.6,
+    "item_total": 339.43,
+    "cart_no": "CAR-000685",
+    "created_dt": "2024-11-13T19:25:20.923416"
+  },
+  {
+    "last_modified": "CAR-000686",
+    "total_items": 401.14,
+    "item_total": 699.8,
+    "cart_no": "CAR-000686",
+    "created_dt": "2024-05-07T19:25:20.923423"
+  },
+  {
+    "last_modified": "CAR-000687",
+    "total_items": 627.81,
+    "item_total": 72.34,
+    "cart_no": "CAR-000687",
+    "created_dt": "2025-03-02T19:25:20.923430"
+  },
+  {
+    "last_modified": "CAR-000688",
+    "total_items": 713.49,
+    "item_total": 822.8,
+    "cart_no": "CAR-000688",
+    "created_dt": "2024-01-26T19:25:20.923438"
+  },
+  {
+    "last_modified": "CAR-000689",
+    "total_items": 414.68,
+    "item_total": 741.5,
+    "cart_no": "CAR-000689",
+    "created_dt": "2025-03-01T19:25:20.923445"
+  },
+  {
+    "last_modified": "CAR-000690",
+    "total_items": 804.99,
+    "item_total": 370.79,
+    "cart_no": "CAR-000690",
+    "created_dt": "2025-10-14T19:25:20.923452"
+  },
+  {
+    "last_modified": "CAR-000691",
+    "total_items": 179.01,
+    "item_total": 94.64,
+    "cart_no": "CAR-000691",
+    "created_dt": "2024-01-09T19:25:20.923458"
+  },
+  {
+    "last_modified": "CAR-000692",
+    "total_items": 970.15,
+    "item_total": 725.43,
+    "cart_no": "CAR-000692",
+    "created_dt": "2024-10-21T19:25:20.923467"
+  },
+  {
+    "last_modified": "CAR-000693",
+    "total_items": 561.51,
+    "item_total": 862.29,
+    "cart_no": "CAR-000693",
+    "created_dt": "2023-03-28T19:25:20.923474"
+  },
+  {
+    "last_modified": "CAR-000694",
+    "total_items": 459.45,
+    "item_total": 876.0,
+    "cart_no": "CAR-000694",
+    "created_dt": "2025-03-31T19:25:20.923481"
+  },
+  {
+    "last_modified": "CAR-000695",
+    "total_items": 98.45,
+    "item_total": 167.13,
+    "cart_no": "CAR-000695",
+    "created_dt": "2025-01-01T19:25:20.923487"
+  },
+  {
+    "last_modified": "CAR-000696",
+    "total_items": 422.62,
+    "item_total": 225.37,
+    "cart_no": "CAR-000696",
+    "created_dt": "2023-12-12T19:25:20.923494"
+  },
+  {
+    "last_modified": "CAR-000697",
+    "total_items": 403.69,
+    "item_total": 644.93,
+    "cart_no": "CAR-000697",
+    "created_dt": "2024-07-12T19:25:20.923501"
+  },
+  {
+    "last_modified": "CAR-000698",
+    "total_items": 295.69,
+    "item_total": 401.47,
+    "cart_no": "CAR-000698",
+    "created_dt": "2023-07-11T19:25:20.923508"
+  },
+  {
+    "last_modified": "CAR-000699",
+    "total_items": 565.57,
+    "item_total": 778.99,
+    "cart_no": "CAR-000699",
+    "created_dt": "2025-11-25T19:25:20.923514"
+  },
+  {
+    "last_modified": "CAR-000700",
+    "total_items": 832.88,
+    "item_total": 831.83,
+    "cart_no": "CAR-000700",
+    "created_dt": "2025-07-25T19:25:20.923521"
+  },
+  {
+    "last_modified": "CAR-000701",
+    "total_items": 669.64,
+    "item_total": 894.77,
+    "cart_no": "CAR-000701",
+    "created_dt": "2025-06-19T19:25:20.923530"
+  },
+  {
+    "last_modified": "CAR-000702",
+    "total_items": 611.08,
+    "item_total": 74.03,
+    "cart_no": "CAR-000702",
+    "created_dt": "2023-04-26T19:25:20.923541"
+  },
+  {
+    "last_modified": "CAR-000703",
+    "total_items": 380.9,
+    "item_total": 77.84,
+    "cart_no": "CAR-000703",
+    "created_dt": "2024-06-21T19:25:20.923547"
+  },
+  {
+    "last_modified": "CAR-000704",
+    "total_items": 305.95,
+    "item_total": 795.53,
+    "cart_no": "CAR-000704",
+    "created_dt": "2025-02-05T19:25:20.923554"
+  },
+  {
+    "last_modified": "CAR-000705",
+    "total_items": 345.66,
+    "item_total": 675.46,
+    "cart_no": "CAR-000705",
+    "created_dt": "2023-08-14T19:25:20.923561"
+  },
+  {
+    "last_modified": "CAR-000706",
+    "total_items": 918.48,
+    "item_total": 623.71,
+    "cart_no": "CAR-000706",
+    "created_dt": "2025-01-10T19:25:20.923567"
+  },
+  {
+    "last_modified": "CAR-000707",
+    "total_items": 524.81,
+    "item_total": 676.23,
+    "cart_no": "CAR-000707",
+    "created_dt": "2024-08-27T19:25:20.923574"
+  },
+  {
+    "last_modified": "CAR-000708",
+    "total_items": 522.18,
+    "item_total": 647.65,
+    "cart_no": "CAR-000708",
+    "created_dt": "2023-05-11T19:25:20.923580"
+  },
+  {
+    "last_modified": "CAR-000709",
+    "total_items": 279.39,
+    "item_total": 450.49,
+    "cart_no": "CAR-000709",
+    "created_dt": "2024-01-23T19:25:20.923587"
+  },
+  {
+    "last_modified": "CAR-000710",
+    "total_items": 385.44,
+    "item_total": 326.05,
+    "cart_no": "CAR-000710",
+    "created_dt": "2025-10-26T19:25:20.923594"
+  },
+  {
+    "last_modified": "CAR-000711",
+    "total_items": 486.59,
+    "item_total": 368.03,
+    "cart_no": "CAR-000711",
+    "created_dt": "2024-04-29T19:25:20.923600"
+  },
+  {
+    "last_modified": "CAR-000712",
+    "total_items": 728.03,
+    "item_total": 270.69,
+    "cart_no": "CAR-000712",
+    "created_dt": "2024-11-05T19:25:20.923607"
+  },
+  {
+    "last_modified": "CAR-000713",
+    "total_items": 642.26,
+    "item_total": 312.86,
+    "cart_no": "CAR-000713",
+    "created_dt": "2023-08-09T19:25:20.923613"
+  },
+  {
+    "last_modified": "CAR-000714",
+    "total_items": 541.67,
+    "item_total": 660.67,
+    "cart_no": "CAR-000714",
+    "created_dt": "2025-06-15T19:25:20.923622"
+  },
+  {
+    "last_modified": "CAR-000715",
+    "total_items": 342.92,
+    "item_total": 416.42,
+    "cart_no": "CAR-000715",
+    "created_dt": "2025-01-17T19:25:20.923629"
+  },
+  {
+    "last_modified": "CAR-000716",
+    "total_items": 951.24,
+    "item_total": 728.66,
+    "cart_no": "CAR-000716",
+    "created_dt": "2024-07-14T19:25:20.923636"
+  },
+  {
+    "last_modified": "CAR-000717",
+    "total_items": 770.0,
+    "item_total": 860.01,
+    "cart_no": "CAR-000717",
+    "created_dt": "2025-09-21T19:25:20.923642"
+  },
+  {
+    "last_modified": "CAR-000718",
+    "total_items": 492.01,
+    "item_total": 947.14,
+    "cart_no": "CAR-000718",
+    "created_dt": "2024-09-03T19:25:20.923649"
+  },
+  {
+    "last_modified": "CAR-000719",
+    "total_items": 305.47,
+    "item_total": 121.43,
+    "cart_no": "CAR-000719",
+    "created_dt": "2024-11-04T19:25:20.923656"
+  },
+  {
+    "last_modified": "CAR-000720",
+    "total_items": 366.34,
+    "item_total": 469.17,
+    "cart_no": "CAR-000720",
+    "created_dt": "2025-04-29T19:25:20.923664"
+  },
+  {
+    "last_modified": "CAR-000721",
+    "total_items": 994.17,
+    "item_total": 667.35,
+    "cart_no": "CAR-000721",
+    "created_dt": "2025-05-30T19:25:20.923671"
+  },
+  {
+    "last_modified": "CAR-000722",
+    "total_items": 131.84,
+    "item_total": 339.7,
+    "cart_no": "CAR-000722",
+    "created_dt": "2024-08-11T19:25:20.923678"
+  },
+  {
+    "last_modified": "CAR-000723",
+    "total_items": 467.72,
+    "item_total": 860.22,
+    "cart_no": "CAR-000723",
+    "created_dt": "2024-05-30T19:25:20.923684"
+  },
+  {
+    "last_modified": "CAR-000724",
+    "total_items": 618.42,
+    "item_total": 270.2,
+    "cart_no": "CAR-000724",
+    "created_dt": "2025-08-16T19:25:20.923691"
+  },
+  {
+    "last_modified": "CAR-000725",
+    "total_items": 820.46,
+    "item_total": 662.67,
+    "cart_no": "CAR-000725",
+    "created_dt": "2023-04-25T19:25:20.923698"
+  },
+  {
+    "last_modified": "CAR-000726",
+    "total_items": 142.16,
+    "item_total": 358.87,
+    "cart_no": "CAR-000726",
+    "created_dt": "2023-12-23T19:25:20.923705"
+  },
+  {
+    "last_modified": "CAR-000727",
+    "total_items": 473.62,
+    "item_total": 505.48,
+    "cart_no": "CAR-000727",
+    "created_dt": "2023-10-11T19:25:20.923714"
+  },
+  {
+    "last_modified": "CAR-000728",
+    "total_items": 262.02,
+    "item_total": 231.02,
+    "cart_no": "CAR-000728",
+    "created_dt": "2024-07-05T19:25:20.923721"
+  },
+  {
+    "last_modified": "CAR-000729",
+    "total_items": 651.68,
+    "item_total": 733.92,
+    "cart_no": "CAR-000729",
+    "created_dt": "2023-04-16T19:25:20.923727"
+  },
+  {
+    "last_modified": "CAR-000730",
+    "total_items": 315.93,
+    "item_total": 399.57,
+    "cart_no": "CAR-000730",
+    "created_dt": "2024-03-07T19:25:20.923734"
+  },
+  {
+    "last_modified": "CAR-000731",
+    "total_items": 876.78,
+    "item_total": 380.35,
+    "cart_no": "CAR-000731",
+    "created_dt": "2024-10-28T19:25:20.923740"
+  },
+  {
+    "last_modified": "CAR-000732",
+    "total_items": 623.38,
+    "item_total": 320.93,
+    "cart_no": "CAR-000732",
+    "created_dt": "2024-09-10T19:25:20.923747"
+  },
+  {
+    "last_modified": "CAR-000733",
+    "total_items": 862.1,
+    "item_total": 541.04,
+    "cart_no": "CAR-000733",
+    "created_dt": "2023-12-08T19:25:20.923753"
+  },
+  {
+    "last_modified": "CAR-000734",
+    "total_items": 356.02,
+    "item_total": 27.48,
+    "cart_no": "CAR-000734",
+    "created_dt": "2024-02-05T19:25:20.923762"
+  },
+  {
+    "last_modified": "CAR-000735",
+    "total_items": 491.12,
+    "item_total": 601.83,
+    "cart_no": "CAR-000735",
+    "created_dt": "2023-04-16T19:25:20.923769"
+  },
+  {
+    "last_modified": "CAR-000736",
+    "total_items": 368.5,
+    "item_total": 506.57,
+    "cart_no": "CAR-000736",
+    "created_dt": "2023-09-25T19:25:20.923776"
+  },
+  {
+    "last_modified": "CAR-000737",
+    "total_items": 408.43,
+    "item_total": 163.83,
+    "cart_no": "CAR-000737",
+    "created_dt": "2023-01-18T19:25:20.923782"
+  },
+  {
+    "last_modified": "CAR-000738",
+    "total_items": 775.68,
+    "item_total": 269.87,
+    "cart_no": "CAR-000738",
+    "created_dt": "2025-05-14T19:25:20.923789"
+  },
+  {
+    "last_modified": "CAR-000739",
+    "total_items": 778.93,
+    "item_total": 416.44,
+    "cart_no": "CAR-000739",
+    "created_dt": "2024-09-08T19:25:20.923796"
+  },
+  {
+    "last_modified": "CAR-000740",
+    "total_items": 221.27,
+    "item_total": 738.7,
+    "cart_no": "CAR-000740",
+    "created_dt": "2024-05-01T19:25:20.923802"
+  },
+  {
+    "last_modified": "CAR-000741",
+    "total_items": 449.6,
+    "item_total": 307.58,
+    "cart_no": "CAR-000741",
+    "created_dt": "2023-06-02T19:25:20.923809"
+  },
+  {
+    "last_modified": "CAR-000742",
+    "total_items": 110.74,
+    "item_total": 406.44,
+    "cart_no": "CAR-000742",
+    "created_dt": "2023-07-14T19:25:20.923816"
+  },
+  {
+    "last_modified": "CAR-000743",
+    "total_items": 637.26,
+    "item_total": 105.06,
+    "cart_no": "CAR-000743",
+    "created_dt": "2023-04-06T19:25:20.923822"
+  },
+  {
+    "last_modified": "CAR-000744",
+    "total_items": 672.75,
+    "item_total": 494.25,
+    "cart_no": "CAR-000744",
+    "created_dt": "2024-08-25T19:25:20.923829"
+  },
+  {
+    "last_modified": "CAR-000745",
+    "total_items": 974.45,
+    "item_total": 133.24,
+    "cart_no": "CAR-000745",
+    "created_dt": "2024-01-25T19:25:20.923836"
+  },
+  {
+    "last_modified": "CAR-000746",
+    "total_items": 716.51,
+    "item_total": 576.19,
+    "cart_no": "CAR-000746",
+    "created_dt": "2025-10-16T19:25:20.923843"
+  },
+  {
+    "last_modified": "CAR-000747",
+    "total_items": 523.02,
+    "item_total": 224.58,
+    "cart_no": "CAR-000747",
+    "created_dt": "2024-06-08T19:25:20.923849"
+  },
+  {
+    "last_modified": "CAR-000748",
+    "total_items": 379.13,
+    "item_total": 768.92,
+    "cart_no": "CAR-000748",
+    "created_dt": "2025-10-26T19:25:20.923856"
+  },
+  {
+    "last_modified": "CAR-000749",
+    "total_items": 131.43,
+    "item_total": 35.14,
+    "cart_no": "CAR-000749",
+    "created_dt": "2023-11-06T19:25:20.923862"
+  },
+  {
+    "last_modified": "CAR-000750",
+    "total_items": 109.77,
+    "item_total": 87.05,
+    "cart_no": "CAR-000750",
+    "created_dt": "2024-01-28T19:25:20.923872"
+  },
+  {
+    "last_modified": "CAR-000751",
+    "total_items": 619.62,
+    "item_total": 40.93,
+    "cart_no": "CAR-000751",
+    "created_dt": "2025-10-21T19:25:20.923884"
+  },
+  {
+    "last_modified": "CAR-000752",
+    "total_items": 760.4,
+    "item_total": 443.95,
+    "cart_no": "CAR-000752",
+    "created_dt": "2025-10-29T19:25:20.923899"
+  },
+  {
+    "last_modified": "CAR-000753",
+    "total_items": 940.72,
+    "item_total": 465.41,
+    "cart_no": "CAR-000753",
+    "created_dt": "2024-07-06T19:25:20.923910"
+  },
+  {
+    "last_modified": "CAR-000754",
+    "total_items": 578.88,
+    "item_total": 493.99,
+    "cart_no": "CAR-000754",
+    "created_dt": "2023-08-08T19:25:20.923917"
+  },
+  {
+    "last_modified": "CAR-000755",
+    "total_items": 703.72,
+    "item_total": 186.32,
+    "cart_no": "CAR-000755",
+    "created_dt": "2023-01-22T19:25:20.923926"
+  },
+  {
+    "last_modified": "CAR-000756",
+    "total_items": 319.48,
+    "item_total": 683.11,
+    "cart_no": "CAR-000756",
+    "created_dt": "2023-10-18T19:25:20.923933"
+  },
+  {
+    "last_modified": "CAR-000757",
+    "total_items": 904.83,
+    "item_total": 164.53,
+    "cart_no": "CAR-000757",
+    "created_dt": "2023-12-24T19:25:20.923940"
+  },
+  {
+    "last_modified": "CAR-000758",
+    "total_items": 582.52,
+    "item_total": 782.79,
+    "cart_no": "CAR-000758",
+    "created_dt": "2023-08-25T19:25:20.923947"
+  },
+  {
+    "last_modified": "CAR-000759",
+    "total_items": 450.72,
+    "item_total": 680.09,
+    "cart_no": "CAR-000759",
+    "created_dt": "2024-01-18T19:25:20.923953"
+  },
+  {
+    "last_modified": "CAR-000760",
+    "total_items": 998.23,
+    "item_total": 792.68,
+    "cart_no": "CAR-000760",
+    "created_dt": "2023-04-19T19:25:20.923960"
+  },
+  {
+    "last_modified": "CAR-000761",
+    "total_items": 999.86,
+    "item_total": 374.33,
+    "cart_no": "CAR-000761",
+    "created_dt": "2024-01-11T19:25:20.923967"
+  },
+  {
+    "last_modified": "CAR-000762",
+    "total_items": 706.2,
+    "item_total": 598.4,
+    "cart_no": "CAR-000762",
+    "created_dt": "2025-10-08T19:25:20.923973"
+  },
+  {
+    "last_modified": "CAR-000763",
+    "total_items": 494.16,
+    "item_total": 459.91,
+    "cart_no": "CAR-000763",
+    "created_dt": "2025-04-12T19:25:20.923980"
+  },
+  {
+    "last_modified": "CAR-000764",
+    "total_items": 538.64,
+    "item_total": 222.25,
+    "cart_no": "CAR-000764",
+    "created_dt": "2025-07-19T19:25:20.923987"
+  },
+  {
+    "last_modified": "CAR-000765",
+    "total_items": 967.37,
+    "item_total": 238.18,
+    "cart_no": "CAR-000765",
+    "created_dt": "2024-02-02T19:25:20.923997"
+  },
+  {
+    "last_modified": "CAR-000766",
+    "total_items": 822.07,
+    "item_total": 755.75,
+    "cart_no": "CAR-000766",
+    "created_dt": "2025-12-26T19:25:20.924004"
+  },
+  {
+    "last_modified": "CAR-000767",
+    "total_items": 83.67,
+    "item_total": 197.67,
+    "cart_no": "CAR-000767",
+    "created_dt": "2023-05-27T19:25:20.924011"
+  },
+  {
+    "last_modified": "CAR-000768",
+    "total_items": 911.67,
+    "item_total": 316.79,
+    "cart_no": "CAR-000768",
+    "created_dt": "2023-04-07T19:25:20.924017"
+  },
+  {
+    "last_modified": "CAR-000769",
+    "total_items": 638.9,
+    "item_total": 975.82,
+    "cart_no": "CAR-000769",
+    "created_dt": "2024-10-02T19:25:20.924024"
+  },
+  {
+    "last_modified": "CAR-000770",
+    "total_items": 437.89,
+    "item_total": 852.56,
+    "cart_no": "CAR-000770",
+    "created_dt": "2024-10-06T19:25:20.924030"
+  },
+  {
+    "last_modified": "CAR-000771",
+    "total_items": 320.51,
+    "item_total": 715.14,
+    "cart_no": "CAR-000771",
+    "created_dt": "2023-09-15T19:25:20.924037"
+  },
+  {
+    "last_modified": "CAR-000772",
+    "total_items": 447.21,
+    "item_total": 821.98,
+    "cart_no": "CAR-000772",
+    "created_dt": "2025-09-03T19:25:20.924044"
+  },
+  {
+    "last_modified": "CAR-000773",
+    "total_items": 951.19,
+    "item_total": 275.35,
+    "cart_no": "CAR-000773",
+    "created_dt": "2025-11-25T19:25:20.924050"
+  },
+  {
+    "last_modified": "CAR-000774",
+    "total_items": 204.06,
+    "item_total": 769.97,
+    "cart_no": "CAR-000774",
+    "created_dt": "2025-12-18T19:25:20.924057"
+  },
+  {
+    "last_modified": "CAR-000775",
+    "total_items": 667.55,
+    "item_total": 915.03,
+    "cart_no": "CAR-000775",
+    "created_dt": "2024-09-29T19:25:20.924064"
+  },
+  {
+    "last_modified": "CAR-000776",
+    "total_items": 806.55,
+    "item_total": 776.44,
+    "cart_no": "CAR-000776",
+    "created_dt": "2023-07-30T19:25:20.924072"
+  },
+  {
+    "last_modified": "CAR-000777",
+    "total_items": 845.05,
+    "item_total": 565.11,
+    "cart_no": "CAR-000777",
+    "created_dt": "2025-03-01T19:25:20.924082"
+  },
+  {
+    "last_modified": "CAR-000778",
+    "total_items": 395.93,
+    "item_total": 34.94,
+    "cart_no": "CAR-000778",
+    "created_dt": "2025-01-18T19:25:20.924088"
+  },
+  {
+    "last_modified": "CAR-000779",
+    "total_items": 974.57,
+    "item_total": 349.28,
+    "cart_no": "CAR-000779",
+    "created_dt": "2023-09-12T19:25:20.924095"
+  },
+  {
+    "last_modified": "CAR-000780",
+    "total_items": 244.91,
+    "item_total": 732.17,
+    "cart_no": "CAR-000780",
+    "created_dt": "2024-07-17T19:25:20.924102"
+  },
+  {
+    "last_modified": "CAR-000781",
+    "total_items": 710.47,
+    "item_total": 801.92,
+    "cart_no": "CAR-000781",
+    "created_dt": "2025-03-26T19:25:20.924108"
+  },
+  {
+    "last_modified": "CAR-000782",
+    "total_items": 887.49,
+    "item_total": 865.34,
+    "cart_no": "CAR-000782",
+    "created_dt": "2023-02-03T19:25:20.924115"
+  },
+  {
+    "last_modified": "CAR-000783",
+    "total_items": 396.44,
+    "item_total": 939.58,
+    "cart_no": "CAR-000783",
+    "created_dt": "2025-06-11T19:25:20.924121"
+  },
+  {
+    "last_modified": "CAR-000784",
+    "total_items": 97.58,
+    "item_total": 134.99,
+    "cart_no": "CAR-000784",
+    "created_dt": "2025-04-21T19:25:20.924130"
+  },
+  {
+    "last_modified": "CAR-000785",
+    "total_items": 957.34,
+    "item_total": 798.8,
+    "cart_no": "CAR-000785",
+    "created_dt": "2025-02-03T19:25:20.924137"
+  },
+  {
+    "last_modified": "CAR-000786",
+    "total_items": 84.8,
+    "item_total": 630.36,
+    "cart_no": "CAR-000786",
+    "created_dt": "2025-02-03T19:25:20.924143"
+  },
+  {
+    "last_modified": "CAR-000787",
+    "total_items": 329.05,
+    "item_total": 167.48,
+    "cart_no": "CAR-000787",
+    "created_dt": "2023-11-28T19:25:20.924150"
+  },
+  {
+    "last_modified": "CAR-000788",
+    "total_items": 91.78,
+    "item_total": 117.12,
+    "cart_no": "CAR-000788",
+    "created_dt": "2023-04-14T19:25:20.924156"
+  },
+  {
+    "last_modified": "CAR-000789",
+    "total_items": 791.82,
+    "item_total": 551.09,
+    "cart_no": "CAR-000789",
+    "created_dt": "2025-03-15T19:25:20.924163"
+  },
+  {
+    "last_modified": "CAR-000790",
+    "total_items": 844.47,
+    "item_total": 811.91,
+    "cart_no": "CAR-000790",
+    "created_dt": "2024-04-23T19:25:20.924170"
+  },
+  {
+    "last_modified": "CAR-000791",
+    "total_items": 400.37,
+    "item_total": 760.64,
+    "cart_no": "CAR-000791",
+    "created_dt": "2024-03-28T19:25:20.924196"
+  },
+  {
+    "last_modified": "CAR-000792",
+    "total_items": 456.99,
+    "item_total": 271.46,
+    "cart_no": "CAR-000792",
+    "created_dt": "2024-06-30T19:25:20.924204"
+  },
+  {
+    "last_modified": "CAR-000793",
+    "total_items": 383.77,
+    "item_total": 378.58,
+    "cart_no": "CAR-000793",
+    "created_dt": "2024-10-27T19:25:20.924211"
+  },
+  {
+    "last_modified": "CAR-000794",
+    "total_items": 189.05,
+    "item_total": 689.58,
+    "cart_no": "CAR-000794",
+    "created_dt": "2024-03-31T19:25:20.924217"
+  },
+  {
+    "last_modified": "CAR-000795",
+    "total_items": 287.36,
+    "item_total": 925.29,
+    "cart_no": "CAR-000795",
+    "created_dt": "2025-05-30T19:25:20.924224"
+  },
+  {
+    "last_modified": "CAR-000796",
+    "total_items": 525.56,
+    "item_total": 799.32,
+    "cart_no": "CAR-000796",
+    "created_dt": "2023-01-15T19:25:20.924231"
+  },
+  {
+    "last_modified": "CAR-000797",
+    "total_items": 669.08,
+    "item_total": 766.87,
+    "cart_no": "CAR-000797",
+    "created_dt": "2024-02-08T19:25:20.924237"
+  },
+  {
+    "last_modified": "CAR-000798",
+    "total_items": 94.47,
+    "item_total": 388.23,
+    "cart_no": "CAR-000798",
+    "created_dt": "2023-07-03T19:25:20.924244"
+  },
+  {
+    "last_modified": "CAR-000799",
+    "total_items": 195.7,
+    "item_total": 966.71,
+    "cart_no": "CAR-000799",
+    "created_dt": "2024-02-17T19:25:20.924254"
+  },
+  {
+    "last_modified": "CAR-000800",
+    "total_items": 152.94,
+    "item_total": 214.02,
+    "cart_no": "CAR-000800",
+    "created_dt": "2025-06-18T19:25:20.924261"
+  },
+  {
+    "last_modified": "CAR-000801",
+    "total_items": 693.12,
+    "item_total": 224.22,
+    "cart_no": "CAR-000801",
+    "created_dt": "2023-08-15T19:25:20.924267"
+  },
+  {
+    "last_modified": "CAR-000802",
+    "total_items": 517.86,
+    "item_total": 782.52,
+    "cart_no": "CAR-000802",
+    "created_dt": "2024-06-16T19:25:20.924274"
+  },
+  {
+    "last_modified": "CAR-000803",
+    "total_items": 863.34,
+    "item_total": 939.71,
+    "cart_no": "CAR-000803",
+    "created_dt": "2024-07-26T19:25:20.924284"
+  },
+  {
+    "last_modified": "CAR-000804",
+    "total_items": 388.18,
+    "item_total": 143.23,
+    "cart_no": "CAR-000804",
+    "created_dt": "2025-11-13T19:25:20.924296"
+  },
+  {
+    "last_modified": "CAR-000805",
+    "total_items": 946.66,
+    "item_total": 268.43,
+    "cart_no": "CAR-000805",
+    "created_dt": "2023-02-05T19:25:20.924308"
+  },
+  {
+    "last_modified": "CAR-000806",
+    "total_items": 251.39,
+    "item_total": 250.5,
+    "cart_no": "CAR-000806",
+    "created_dt": "2024-07-12T19:25:20.924318"
+  },
+  {
+    "last_modified": "CAR-000807",
+    "total_items": 975.03,
+    "item_total": 900.41,
+    "cart_no": "CAR-000807",
+    "created_dt": "2025-05-27T19:25:20.924325"
+  },
+  {
+    "last_modified": "CAR-000808",
+    "total_items": 192.74,
+    "item_total": 177.29,
+    "cart_no": "CAR-000808",
+    "created_dt": "2024-11-11T19:25:20.924332"
+  },
+  {
+    "last_modified": "CAR-000809",
+    "total_items": 912.3,
+    "item_total": 21.3,
+    "cart_no": "CAR-000809",
+    "created_dt": "2026-01-06T19:25:20.924338"
+  },
+  {
+    "last_modified": "CAR-000810",
+    "total_items": 513.08,
+    "item_total": 879.67,
+    "cart_no": "CAR-000810",
+    "created_dt": "2023-10-24T19:25:20.924345"
+  },
+  {
+    "last_modified": "CAR-000811",
+    "total_items": 920.93,
+    "item_total": 474.03,
+    "cart_no": "CAR-000811",
+    "created_dt": "2023-04-27T19:25:20.924351"
+  },
+  {
+    "last_modified": "CAR-000812",
+    "total_items": 55.75,
+    "item_total": 577.28,
+    "cart_no": "CAR-000812",
+    "created_dt": "2023-08-30T19:25:20.924358"
+  },
+  {
+    "last_modified": "CAR-000813",
+    "total_items": 664.79,
+    "item_total": 488.34,
+    "cart_no": "CAR-000813",
+    "created_dt": "2025-06-01T19:25:20.924365"
+  },
+  {
+    "last_modified": "CAR-000814",
+    "total_items": 971.61,
+    "item_total": 244.87,
+    "cart_no": "CAR-000814",
+    "created_dt": "2023-06-02T19:25:20.924372"
+  },
+  {
+    "last_modified": "CAR-000815",
+    "total_items": 383.44,
+    "item_total": 743.06,
+    "cart_no": "CAR-000815",
+    "created_dt": "2023-12-07T19:25:20.924381"
+  },
+  {
+    "last_modified": "CAR-000816",
+    "total_items": 12.56,
+    "item_total": 426.86,
+    "cart_no": "CAR-000816",
+    "created_dt": "2023-04-27T19:25:20.924387"
+  },
+  {
+    "last_modified": "CAR-000817",
+    "total_items": 692.15,
+    "item_total": 75.02,
+    "cart_no": "CAR-000817",
+    "created_dt": "2023-09-10T19:25:20.924394"
+  },
+  {
+    "last_modified": "CAR-000818",
+    "total_items": 193.69,
+    "item_total": 102.87,
+    "cart_no": "CAR-000818",
+    "created_dt": "2025-03-14T19:25:20.924401"
+  },
+  {
+    "last_modified": "CAR-000819",
+    "total_items": 51.38,
+    "item_total": 550.14,
+    "cart_no": "CAR-000819",
+    "created_dt": "2023-02-17T19:25:20.924409"
+  },
+  {
+    "last_modified": "CAR-000820",
+    "total_items": 400.8,
+    "item_total": 58.83,
+    "cart_no": "CAR-000820",
+    "created_dt": "2024-05-06T19:25:20.924416"
+  },
+  {
+    "last_modified": "CAR-000821",
+    "total_items": 111.95,
+    "item_total": 396.03,
+    "cart_no": "CAR-000821",
+    "created_dt": "2024-10-11T19:25:20.924423"
+  },
+  {
+    "last_modified": "CAR-000822",
+    "total_items": 54.27,
+    "item_total": 887.19,
+    "cart_no": "CAR-000822",
+    "created_dt": "2025-02-12T19:25:20.924429"
+  },
+  {
+    "last_modified": "CAR-000823",
+    "total_items": 393.25,
+    "item_total": 304.4,
+    "cart_no": "CAR-000823",
+    "created_dt": "2024-03-08T19:25:20.924436"
+  },
+  {
+    "last_modified": "CAR-000824",
+    "total_items": 797.89,
+    "item_total": 264.14,
+    "cart_no": "CAR-000824",
+    "created_dt": "2023-08-14T19:25:20.924443"
+  },
+  {
+    "last_modified": "CAR-000825",
+    "total_items": 472.6,
+    "item_total": 118.1,
+    "cart_no": "CAR-000825",
+    "created_dt": "2025-07-23T19:25:20.924449"
+  },
+  {
+    "last_modified": "CAR-000826",
+    "total_items": 407.27,
+    "item_total": 329.67,
+    "cart_no": "CAR-000826",
+    "created_dt": "2024-09-24T19:25:20.924456"
+  },
+  {
+    "last_modified": "CAR-000827",
+    "total_items": 613.13,
+    "item_total": 30.23,
+    "cart_no": "CAR-000827",
+    "created_dt": "2024-08-15T19:25:20.924464"
+  },
+  {
+    "last_modified": "CAR-000828",
+    "total_items": 798.12,
+    "item_total": 573.44,
+    "cart_no": "CAR-000828",
+    "created_dt": "2023-04-19T19:25:20.924471"
+  },
+  {
+    "last_modified": "CAR-000829",
+    "total_items": 648.72,
+    "item_total": 237.17,
+    "cart_no": "CAR-000829",
+    "created_dt": "2025-04-17T19:25:20.924480"
+  },
+  {
+    "last_modified": "CAR-000830",
+    "total_items": 342.93,
+    "item_total": 665.38,
+    "cart_no": "CAR-000830",
+    "created_dt": "2025-05-20T19:25:20.924487"
+  },
+  {
+    "last_modified": "CAR-000831",
+    "total_items": 708.12,
+    "item_total": 600.22,
+    "cart_no": "CAR-000831",
+    "created_dt": "2025-09-23T19:25:20.924494"
+  },
+  {
+    "last_modified": "CAR-000832",
+    "total_items": 132.15,
+    "item_total": 78.46,
+    "cart_no": "CAR-000832",
+    "created_dt": "2023-12-06T19:25:20.924500"
+  },
+  {
+    "last_modified": "CAR-000833",
+    "total_items": 563.07,
+    "item_total": 108.84,
+    "cart_no": "CAR-000833",
+    "created_dt": "2023-10-19T19:25:20.924507"
+  },
+  {
+    "last_modified": "CAR-000834",
+    "total_items": 993.54,
+    "item_total": 150.78,
+    "cart_no": "CAR-000834",
+    "created_dt": "2023-10-31T19:25:20.924513"
+  },
+  {
+    "last_modified": "CAR-000835",
+    "total_items": 469.9,
+    "item_total": 20.67,
+    "cart_no": "CAR-000835",
+    "created_dt": "2024-06-21T19:25:20.924520"
+  },
+  {
+    "last_modified": "CAR-000836",
+    "total_items": 183.4,
+    "item_total": 961.12,
+    "cart_no": "CAR-000836",
+    "created_dt": "2024-08-22T19:25:20.924527"
+  },
+  {
+    "last_modified": "CAR-000837",
+    "total_items": 76.31,
+    "item_total": 256.48,
+    "cart_no": "CAR-000837",
+    "created_dt": "2023-10-17T19:25:20.924537"
+  },
+  {
+    "last_modified": "CAR-000838",
+    "total_items": 731.34,
+    "item_total": 783.15,
+    "cart_no": "CAR-000838",
+    "created_dt": "2024-02-11T19:25:20.924544"
+  },
+  {
+    "last_modified": "CAR-000839",
+    "total_items": 953.07,
+    "item_total": 407.51,
+    "cart_no": "CAR-000839",
+    "created_dt": "2026-01-02T19:25:20.924551"
+  },
+  {
+    "last_modified": "CAR-000840",
+    "total_items": 149.19,
+    "item_total": 121.95,
+    "cart_no": "CAR-000840",
+    "created_dt": "2025-11-19T19:25:20.924560"
+  },
+  {
+    "last_modified": "CAR-000841",
+    "total_items": 554.9,
+    "item_total": 514.94,
+    "cart_no": "CAR-000841",
+    "created_dt": "2023-12-20T19:25:20.924567"
+  },
+  {
+    "last_modified": "CAR-000842",
+    "total_items": 794.74,
+    "item_total": 519.26,
+    "cart_no": "CAR-000842",
+    "created_dt": "2025-03-26T19:25:20.924573"
+  },
+  {
+    "last_modified": "CAR-000843",
+    "total_items": 866.19,
+    "item_total": 928.78,
+    "cart_no": "CAR-000843",
+    "created_dt": "2024-09-22T19:25:20.924580"
+  },
+  {
+    "last_modified": "CAR-000844",
+    "total_items": 207.0,
+    "item_total": 993.72,
+    "cart_no": "CAR-000844",
+    "created_dt": "2024-09-24T19:25:20.924586"
+  },
+  {
+    "last_modified": "CAR-000845",
+    "total_items": 758.45,
+    "item_total": 829.28,
+    "cart_no": "CAR-000845",
+    "created_dt": "2024-12-12T19:25:20.924593"
+  },
+  {
+    "last_modified": "CAR-000846",
+    "total_items": 685.62,
+    "item_total": 625.34,
+    "cart_no": "CAR-000846",
+    "created_dt": "2025-07-24T19:25:20.924600"
+  },
+  {
+    "last_modified": "CAR-000847",
+    "total_items": 14.22,
+    "item_total": 368.47,
+    "cart_no": "CAR-000847",
+    "created_dt": "2024-09-06T19:25:20.924609"
+  },
+  {
+    "last_modified": "CAR-000848",
+    "total_items": 886.54,
+    "item_total": 333.01,
+    "cart_no": "CAR-000848",
+    "created_dt": "2025-07-21T19:25:20.924615"
+  },
+  {
+    "last_modified": "CAR-000849",
+    "total_items": 485.22,
+    "item_total": 344.69,
+    "cart_no": "CAR-000849",
+    "created_dt": "2024-08-08T19:25:20.924622"
+  },
+  {
+    "last_modified": "CAR-000850",
+    "total_items": 383.61,
+    "item_total": 225.5,
+    "cart_no": "CAR-000850",
+    "created_dt": "2024-02-03T19:25:20.924628"
+  },
+  {
+    "last_modified": "CAR-000851",
+    "total_items": 130.9,
+    "item_total": 877.32,
+    "cart_no": "CAR-000851",
+    "created_dt": "2025-07-27T19:25:20.924635"
+  },
+  {
+    "last_modified": "CAR-000852",
+    "total_items": 311.22,
+    "item_total": 908.27,
+    "cart_no": "CAR-000852",
+    "created_dt": "2025-07-12T19:25:20.924642"
+  },
+  {
+    "last_modified": "CAR-000853",
+    "total_items": 159.04,
+    "item_total": 547.65,
+    "cart_no": "CAR-000853",
+    "created_dt": "2024-12-18T19:25:20.924648"
+  },
+  {
+    "last_modified": "CAR-000854",
+    "total_items": 95.91,
+    "item_total": 337.11,
+    "cart_no": "CAR-000854",
+    "created_dt": "2023-02-23T19:25:20.924655"
+  },
+  {
+    "last_modified": "CAR-000855",
+    "total_items": 952.0,
+    "item_total": 587.08,
+    "cart_no": "CAR-000855",
+    "created_dt": "2023-04-28T19:25:20.924661"
+  },
+  {
+    "last_modified": "CAR-000856",
+    "total_items": 570.6,
+    "item_total": 21.82,
+    "cart_no": "CAR-000856",
+    "created_dt": "2024-10-15T19:25:20.924668"
+  },
+  {
+    "last_modified": "CAR-000857",
+    "total_items": 345.49,
+    "item_total": 760.78,
+    "cart_no": "CAR-000857",
+    "created_dt": "2023-06-25T19:25:20.924675"
+  },
+  {
+    "last_modified": "CAR-000858",
+    "total_items": 108.97,
+    "item_total": 929.66,
+    "cart_no": "CAR-000858",
+    "created_dt": "2025-07-27T19:25:20.924681"
+  },
+  {
+    "last_modified": "CAR-000859",
+    "total_items": 858.45,
+    "item_total": 702.27,
+    "cart_no": "CAR-000859",
+    "created_dt": "2024-12-12T19:25:20.924688"
+  },
+  {
+    "last_modified": "CAR-000860",
+    "total_items": 42.33,
+    "item_total": 416.7,
+    "cart_no": "CAR-000860",
+    "created_dt": "2023-06-29T19:25:20.924695"
+  },
+  {
+    "last_modified": "CAR-000861",
+    "total_items": 908.48,
+    "item_total": 894.32,
+    "cart_no": "CAR-000861",
+    "created_dt": "2024-04-28T19:25:20.924701"
+  },
+  {
+    "last_modified": "CAR-000862",
+    "total_items": 82.98,
+    "item_total": 261.11,
+    "cart_no": "CAR-000862",
+    "created_dt": "2023-11-19T19:25:20.924710"
+  },
+  {
+    "last_modified": "CAR-000863",
+    "total_items": 14.76,
+    "item_total": 102.29,
+    "cart_no": "CAR-000863",
+    "created_dt": "2023-10-29T19:25:20.924717"
+  },
+  {
+    "last_modified": "CAR-000864",
+    "total_items": 260.84,
+    "item_total": 811.06,
+    "cart_no": "CAR-000864",
+    "created_dt": "2024-03-24T19:25:20.924724"
+  },
+  {
+    "last_modified": "CAR-000865",
+    "total_items": 216.75,
+    "item_total": 453.74,
+    "cart_no": "CAR-000865",
+    "created_dt": "2024-07-28T19:25:20.924730"
+  },
+  {
+    "last_modified": "CAR-000866",
+    "total_items": 124.15,
+    "item_total": 561.78,
+    "cart_no": "CAR-000866",
+    "created_dt": "2023-10-06T19:25:20.924737"
+  },
+  {
+    "last_modified": "CAR-000867",
+    "total_items": 462.93,
+    "item_total": 867.01,
+    "cart_no": "CAR-000867",
+    "created_dt": "2023-08-01T19:25:20.924744"
+  },
+  {
+    "last_modified": "CAR-000868",
+    "total_items": 859.13,
+    "item_total": 19.3,
+    "cart_no": "CAR-000868",
+    "created_dt": "2024-06-15T19:25:20.924750"
+  },
+  {
+    "last_modified": "CAR-000869",
+    "total_items": 232.2,
+    "item_total": 331.35,
+    "cart_no": "CAR-000869",
+    "created_dt": "2023-06-23T19:25:20.924757"
+  },
+  {
+    "last_modified": "CAR-000870",
+    "total_items": 679.56,
+    "item_total": 671.61,
+    "cart_no": "CAR-000870",
+    "created_dt": "2024-09-19T19:25:20.924763"
+  },
+  {
+    "last_modified": "CAR-000871",
+    "total_items": 844.33,
+    "item_total": 642.66,
+    "cart_no": "CAR-000871",
+    "created_dt": "2023-05-18T19:25:20.924770"
+  },
+  {
+    "last_modified": "CAR-000872",
+    "total_items": 762.7,
+    "item_total": 54.16,
+    "cart_no": "CAR-000872",
+    "created_dt": "2024-10-04T19:25:20.924777"
+  },
+  {
+    "last_modified": "CAR-000873",
+    "total_items": 185.28,
+    "item_total": 584.34,
+    "cart_no": "CAR-000873",
+    "created_dt": "2023-09-02T19:25:20.924783"
+  },
+  {
+    "last_modified": "CAR-000874",
+    "total_items": 750.93,
+    "item_total": 725.34,
+    "cart_no": "CAR-000874",
+    "created_dt": "2023-06-30T19:25:20.924790"
+  },
+  {
+    "last_modified": "CAR-000875",
+    "total_items": 340.0,
+    "item_total": 757.38,
+    "cart_no": "CAR-000875",
+    "created_dt": "2023-03-23T19:25:20.924796"
+  },
+  {
+    "last_modified": "CAR-000876",
+    "total_items": 897.18,
+    "item_total": 271.39,
+    "cart_no": "CAR-000876",
+    "created_dt": "2024-02-13T19:25:20.924803"
+  },
+  {
+    "last_modified": "CAR-000877",
+    "total_items": 125.15,
+    "item_total": 10.32,
+    "cart_no": "CAR-000877",
+    "created_dt": "2024-06-13T19:25:20.924810"
+  },
+  {
+    "last_modified": "CAR-000878",
+    "total_items": 897.94,
+    "item_total": 860.2,
+    "cart_no": "CAR-000878",
+    "created_dt": "2024-04-28T19:25:20.924818"
+  },
+  {
+    "last_modified": "CAR-000879",
+    "total_items": 703.9,
+    "item_total": 983.39,
+    "cart_no": "CAR-000879",
+    "created_dt": "2024-10-22T19:25:20.924827"
+  },
+  {
+    "last_modified": "CAR-000880",
+    "total_items": 845.26,
+    "item_total": 545.99,
+    "cart_no": "CAR-000880",
+    "created_dt": "2024-02-04T19:25:20.924833"
+  },
+  {
+    "last_modified": "CAR-000881",
+    "total_items": 393.15,
+    "item_total": 857.88,
+    "cart_no": "CAR-000881",
+    "created_dt": "2024-05-27T19:25:20.924840"
+  },
+  {
+    "last_modified": "CAR-000882",
+    "total_items": 170.58,
+    "item_total": 60.95,
+    "cart_no": "CAR-000882",
+    "created_dt": "2024-01-03T19:25:20.924847"
+  },
+  {
+    "last_modified": "CAR-000883",
+    "total_items": 819.45,
+    "item_total": 720.94,
+    "cart_no": "CAR-000883",
+    "created_dt": "2024-05-07T19:25:20.924853"
+  },
+  {
+    "last_modified": "CAR-000884",
+    "total_items": 804.72,
+    "item_total": 419.42,
+    "cart_no": "CAR-000884",
+    "created_dt": "2025-05-14T19:25:20.924862"
+  },
+  {
+    "last_modified": "CAR-000885",
+    "total_items": 114.13,
+    "item_total": 60.71,
+    "cart_no": "CAR-000885",
+    "created_dt": "2023-05-17T19:25:20.924868"
+  },
+  {
+    "last_modified": "CAR-000886",
+    "total_items": 398.28,
+    "item_total": 882.3,
+    "cart_no": "CAR-000886",
+    "created_dt": "2023-12-30T19:25:20.924875"
+  },
+  {
+    "last_modified": "CAR-000887",
+    "total_items": 297.03,
+    "item_total": 745.75,
+    "cart_no": "CAR-000887",
+    "created_dt": "2023-09-06T19:25:20.924881"
+  },
+  {
+    "last_modified": "CAR-000888",
+    "total_items": 348.01,
+    "item_total": 158.36,
+    "cart_no": "CAR-000888",
+    "created_dt": "2023-06-21T19:25:20.924888"
+  },
+  {
+    "last_modified": "CAR-000889",
+    "total_items": 160.18,
+    "item_total": 393.53,
+    "cart_no": "CAR-000889",
+    "created_dt": "2024-11-05T19:25:20.924895"
+  },
+  {
+    "last_modified": "CAR-000890",
+    "total_items": 303.08,
+    "item_total": 344.47,
+    "cart_no": "CAR-000890",
+    "created_dt": "2025-11-20T19:25:20.924901"
+  },
+  {
+    "last_modified": "CAR-000891",
+    "total_items": 760.63,
+    "item_total": 584.17,
+    "cart_no": "CAR-000891",
+    "created_dt": "2023-03-07T19:25:20.924908"
+  },
+  {
+    "last_modified": "CAR-000892",
+    "total_items": 265.24,
+    "item_total": 688.43,
+    "cart_no": "CAR-000892",
+    "created_dt": "2023-01-23T19:25:20.924914"
+  },
+  {
+    "last_modified": "CAR-000893",
+    "total_items": 859.69,
+    "item_total": 744.23,
+    "cart_no": "CAR-000893",
+    "created_dt": "2025-12-17T19:25:20.924921"
+  },
+  {
+    "last_modified": "CAR-000894",
+    "total_items": 844.42,
+    "item_total": 385.17,
+    "cart_no": "CAR-000894",
+    "created_dt": "2025-01-02T19:25:20.924928"
+  },
+  {
+    "last_modified": "CAR-000895",
+    "total_items": 922.95,
+    "item_total": 954.32,
+    "cart_no": "CAR-000895",
+    "created_dt": "2023-09-27T19:25:20.924938"
+  },
+  {
+    "last_modified": "CAR-000896",
+    "total_items": 77.0,
+    "item_total": 524.21,
+    "cart_no": "CAR-000896",
+    "created_dt": "2023-09-23T19:25:20.924945"
+  },
+  {
+    "last_modified": "CAR-000897",
+    "total_items": 783.97,
+    "item_total": 481.59,
+    "cart_no": "CAR-000897",
+    "created_dt": "2023-07-18T19:25:20.924954"
+  },
+  {
+    "last_modified": "CAR-000898",
+    "total_items": 884.32,
+    "item_total": 891.47,
+    "cart_no": "CAR-000898",
+    "created_dt": "2023-07-25T19:25:20.924966"
+  },
+  {
+    "last_modified": "CAR-000899",
+    "total_items": 600.18,
+    "item_total": 473.7,
+    "cart_no": "CAR-000899",
+    "created_dt": "2024-11-15T19:25:20.924978"
+  },
+  {
+    "last_modified": "CAR-000900",
+    "total_items": 573.81,
+    "item_total": 894.15,
+    "cart_no": "CAR-000900",
+    "created_dt": "2023-09-30T19:25:20.924988"
+  },
+  {
+    "last_modified": "CAR-000901",
+    "total_items": 152.87,
+    "item_total": 230.59,
+    "cart_no": "CAR-000901",
+    "created_dt": "2023-05-26T19:25:20.924995"
+  },
+  {
+    "last_modified": "CAR-000902",
+    "total_items": 593.37,
+    "item_total": 880.55,
+    "cart_no": "CAR-000902",
+    "created_dt": "2023-07-15T19:25:20.925001"
+  },
+  {
+    "last_modified": "CAR-000903",
+    "total_items": 79.06,
+    "item_total": 787.47,
+    "cart_no": "CAR-000903",
+    "created_dt": "2025-09-19T19:25:20.925008"
+  },
+  {
+    "last_modified": "CAR-000904",
+    "total_items": 946.89,
+    "item_total": 761.7,
+    "cart_no": "CAR-000904",
+    "created_dt": "2024-01-08T19:25:20.925018"
+  },
+  {
+    "last_modified": "CAR-000905",
+    "total_items": 131.97,
+    "item_total": 558.36,
+    "cart_no": "CAR-000905",
+    "created_dt": "2023-09-03T19:25:20.925024"
+  },
+  {
+    "last_modified": "CAR-000906",
+    "total_items": 180.67,
+    "item_total": 664.08,
+    "cart_no": "CAR-000906",
+    "created_dt": "2025-11-04T19:25:20.925031"
+  },
+  {
+    "last_modified": "CAR-000907",
+    "total_items": 412.8,
+    "item_total": 967.17,
+    "cart_no": "CAR-000907",
+    "created_dt": "2025-01-31T19:25:20.925038"
+  },
+  {
+    "last_modified": "CAR-000908",
+    "total_items": 294.55,
+    "item_total": 172.32,
+    "cart_no": "CAR-000908",
+    "created_dt": "2024-12-11T19:25:20.925044"
+  },
+  {
+    "last_modified": "CAR-000909",
+    "total_items": 687.57,
+    "item_total": 778.55,
+    "cart_no": "CAR-000909",
+    "created_dt": "2025-09-25T19:25:20.925051"
+  },
+  {
+    "last_modified": "CAR-000910",
+    "total_items": 789.92,
+    "item_total": 223.52,
+    "cart_no": "CAR-000910",
+    "created_dt": "2024-09-26T19:25:20.925058"
+  },
+  {
+    "last_modified": "CAR-000911",
+    "total_items": 259.71,
+    "item_total": 385.29,
+    "cart_no": "CAR-000911",
+    "created_dt": "2023-10-11T19:25:20.925067"
+  },
+  {
+    "last_modified": "CAR-000912",
+    "total_items": 816.25,
+    "item_total": 890.7,
+    "cart_no": "CAR-000912",
+    "created_dt": "2023-11-28T19:25:20.925074"
+  },
+  {
+    "last_modified": "CAR-000913",
+    "total_items": 570.34,
+    "item_total": 974.57,
+    "cart_no": "CAR-000913",
+    "created_dt": "2024-10-02T19:25:20.925081"
+  },
+  {
+    "last_modified": "CAR-000914",
+    "total_items": 683.25,
+    "item_total": 12.28,
+    "cart_no": "CAR-000914",
+    "created_dt": "2024-02-05T19:25:20.925088"
+  },
+  {
+    "last_modified": "CAR-000915",
+    "total_items": 657.82,
+    "item_total": 198.82,
+    "cart_no": "CAR-000915",
+    "created_dt": "2023-07-28T19:25:20.925094"
+  },
+  {
+    "last_modified": "CAR-000916",
+    "total_items": 542.31,
+    "item_total": 397.87,
+    "cart_no": "CAR-000916",
+    "created_dt": "2025-03-28T19:25:20.925101"
+  },
+  {
+    "last_modified": "CAR-000917",
+    "total_items": 602.8,
+    "item_total": 99.44,
+    "cart_no": "CAR-000917",
+    "created_dt": "2023-03-11T19:25:20.925108"
+  },
+  {
+    "last_modified": "CAR-000918",
+    "total_items": 350.2,
+    "item_total": 487.57,
+    "cart_no": "CAR-000918",
+    "created_dt": "2025-10-02T19:25:20.925114"
+  },
+  {
+    "last_modified": "CAR-000919",
+    "total_items": 42.68,
+    "item_total": 388.71,
+    "cart_no": "CAR-000919",
+    "created_dt": "2024-07-16T19:25:20.925121"
+  },
+  {
+    "last_modified": "CAR-000920",
+    "total_items": 261.27,
+    "item_total": 886.92,
+    "cart_no": "CAR-000920",
+    "created_dt": "2024-02-21T19:25:20.925128"
+  },
+  {
+    "last_modified": "CAR-000921",
+    "total_items": 294.4,
+    "item_total": 484.09,
+    "cart_no": "CAR-000921",
+    "created_dt": "2024-02-12T19:25:20.925135"
+  },
+  {
+    "last_modified": "CAR-000922",
+    "total_items": 252.95,
+    "item_total": 125.28,
+    "cart_no": "CAR-000922",
+    "created_dt": "2023-02-09T19:25:20.925142"
+  },
+  {
+    "last_modified": "CAR-000923",
+    "total_items": 785.47,
+    "item_total": 263.37,
+    "cart_no": "CAR-000923",
+    "created_dt": "2023-12-30T19:25:20.925148"
+  },
+  {
+    "last_modified": "CAR-000924",
+    "total_items": 356.56,
+    "item_total": 317.91,
+    "cart_no": "CAR-000924",
+    "created_dt": "2025-03-22T19:25:20.925155"
+  },
+  {
+    "last_modified": "CAR-000925",
+    "total_items": 534.11,
+    "item_total": 16.4,
+    "cart_no": "CAR-000925",
+    "created_dt": "2024-08-20T19:25:20.925164"
+  },
+  {
+    "last_modified": "CAR-000926",
+    "total_items": 974.68,
+    "item_total": 416.1,
+    "cart_no": "CAR-000926",
+    "created_dt": "2024-04-30T19:25:20.925170"
+  },
+  {
+    "last_modified": "CAR-000927",
+    "total_items": 970.92,
+    "item_total": 371.51,
+    "cart_no": "CAR-000927",
+    "created_dt": "2025-11-09T19:25:20.925193"
+  },
+  {
+    "last_modified": "CAR-000928",
+    "total_items": 484.87,
+    "item_total": 861.04,
+    "cart_no": "CAR-000928",
+    "created_dt": "2023-08-25T19:25:20.925201"
+  },
+  {
+    "last_modified": "CAR-000929",
+    "total_items": 555.14,
+    "item_total": 641.17,
+    "cart_no": "CAR-000929",
+    "created_dt": "2023-07-10T19:25:20.925208"
+  },
+  {
+    "last_modified": "CAR-000930",
+    "total_items": 548.91,
+    "item_total": 37.14,
+    "cart_no": "CAR-000930",
+    "created_dt": "2025-01-05T19:25:20.925215"
+  },
+  {
+    "last_modified": "CAR-000931",
+    "total_items": 51.62,
+    "item_total": 724.89,
+    "cart_no": "CAR-000931",
+    "created_dt": "2025-04-18T19:25:20.925224"
+  },
+  {
+    "last_modified": "CAR-000932",
+    "total_items": 177.1,
+    "item_total": 256.62,
+    "cart_no": "CAR-000932",
+    "created_dt": "2025-08-09T19:25:20.925231"
+  },
+  {
+    "last_modified": "CAR-000933",
+    "total_items": 917.88,
+    "item_total": 43.84,
+    "cart_no": "CAR-000933",
+    "created_dt": "2025-07-03T19:25:20.925238"
+  },
+  {
+    "last_modified": "CAR-000934",
+    "total_items": 625.22,
+    "item_total": 719.91,
+    "cart_no": "CAR-000934",
+    "created_dt": "2024-03-13T19:25:20.925244"
+  },
+  {
+    "last_modified": "CAR-000935",
+    "total_items": 564.58,
+    "item_total": 964.81,
+    "cart_no": "CAR-000935",
+    "created_dt": "2024-11-08T19:25:20.925251"
+  },
+  {
+    "last_modified": "CAR-000936",
+    "total_items": 951.91,
+    "item_total": 777.93,
+    "cart_no": "CAR-000936",
+    "created_dt": "2025-04-15T19:25:20.925257"
+  },
+  {
+    "last_modified": "CAR-000937",
+    "total_items": 544.55,
+    "item_total": 477.26,
+    "cart_no": "CAR-000937",
+    "created_dt": "2023-01-31T19:25:20.925264"
+  },
+  {
+    "last_modified": "CAR-000938",
+    "total_items": 778.97,
+    "item_total": 167.88,
+    "cart_no": "CAR-000938",
+    "created_dt": "2023-02-11T19:25:20.925270"
+  },
+  {
+    "last_modified": "CAR-000939",
+    "total_items": 502.09,
+    "item_total": 828.1,
+    "cart_no": "CAR-000939",
+    "created_dt": "2025-08-06T19:25:20.925277"
+  },
+  {
+    "last_modified": "CAR-000940",
+    "total_items": 259.08,
+    "item_total": 165.93,
+    "cart_no": "CAR-000940",
+    "created_dt": "2024-04-15T19:25:20.925286"
+  },
+  {
+    "last_modified": "CAR-000941",
+    "total_items": 571.71,
+    "item_total": 799.23,
+    "cart_no": "CAR-000941",
+    "created_dt": "2025-01-19T19:25:20.925293"
+  },
+  {
+    "last_modified": "CAR-000942",
+    "total_items": 580.51,
+    "item_total": 121.97,
+    "cart_no": "CAR-000942",
+    "created_dt": "2023-10-29T19:25:20.925302"
+  },
+  {
+    "last_modified": "CAR-000943",
+    "total_items": 316.61,
+    "item_total": 123.71,
+    "cart_no": "CAR-000943",
+    "created_dt": "2025-12-23T19:25:20.925309"
+  },
+  {
+    "last_modified": "CAR-000944",
+    "total_items": 242.11,
+    "item_total": 762.64,
+    "cart_no": "CAR-000944",
+    "created_dt": "2023-03-09T19:25:20.925315"
+  },
+  {
+    "last_modified": "CAR-000945",
+    "total_items": 16.56,
+    "item_total": 14.44,
+    "cart_no": "CAR-000945",
+    "created_dt": "2024-03-17T19:25:20.925322"
+  },
+  {
+    "last_modified": "CAR-000946",
+    "total_items": 87.8,
+    "item_total": 50.91,
+    "cart_no": "CAR-000946",
+    "created_dt": "2023-01-26T19:25:20.925329"
+  },
+  {
+    "last_modified": "CAR-000947",
+    "total_items": 492.79,
+    "item_total": 345.09,
+    "cart_no": "CAR-000947",
+    "created_dt": "2025-07-31T19:25:20.925337"
+  },
+  {
+    "last_modified": "CAR-000948",
+    "total_items": 158.56,
+    "item_total": 30.99,
+    "cart_no": "CAR-000948",
+    "created_dt": "2025-02-17T19:25:20.925344"
+  },
+  {
+    "last_modified": "CAR-000949",
+    "total_items": 733.32,
+    "item_total": 659.52,
+    "cart_no": "CAR-000949",
+    "created_dt": "2026-01-02T19:25:20.925351"
+  },
+  {
+    "last_modified": "CAR-000950",
+    "total_items": 91.45,
+    "item_total": 888.57,
+    "cart_no": "CAR-000950",
+    "created_dt": "2024-01-01T19:25:20.925363"
+  },
+  {
+    "last_modified": "CAR-000951",
+    "total_items": 304.58,
+    "item_total": 947.64,
+    "cart_no": "CAR-000951",
+    "created_dt": "2025-08-26T19:25:20.925376"
+  },
+  {
+    "last_modified": "CAR-000952",
+    "total_items": 404.37,
+    "item_total": 534.53,
+    "cart_no": "CAR-000952",
+    "created_dt": "2025-04-03T19:25:20.925387"
+  },
+  {
+    "last_modified": "CAR-000953",
+    "total_items": 661.96,
+    "item_total": 699.21,
+    "cart_no": "CAR-000953",
+    "created_dt": "2025-09-18T19:25:20.925394"
+  },
+  {
+    "last_modified": "CAR-000954",
+    "total_items": 869.76,
+    "item_total": 276.37,
+    "cart_no": "CAR-000954",
+    "created_dt": "2023-09-12T19:25:20.925400"
+  },
+  {
+    "last_modified": "CAR-000955",
+    "total_items": 140.29,
+    "item_total": 471.8,
+    "cart_no": "CAR-000955",
+    "created_dt": "2025-12-04T19:25:20.925407"
+  },
+  {
+    "last_modified": "CAR-000956",
+    "total_items": 782.12,
+    "item_total": 361.96,
+    "cart_no": "CAR-000956",
+    "created_dt": "2023-10-02T19:25:20.925418"
+  },
+  {
+    "last_modified": "CAR-000957",
+    "total_items": 684.14,
+    "item_total": 575.44,
+    "cart_no": "CAR-000957",
+    "created_dt": "2024-08-10T19:25:20.925425"
+  },
+  {
+    "last_modified": "CAR-000958",
+    "total_items": 283.02,
+    "item_total": 826.98,
+    "cart_no": "CAR-000958",
+    "created_dt": "2024-09-26T19:25:20.925432"
+  },
+  {
+    "last_modified": "CAR-000959",
+    "total_items": 869.04,
+    "item_total": 404.26,
+    "cart_no": "CAR-000959",
+    "created_dt": "2023-04-30T19:25:20.925438"
+  },
+  {
+    "last_modified": "CAR-000960",
+    "total_items": 539.21,
+    "item_total": 769.33,
+    "cart_no": "CAR-000960",
+    "created_dt": "2024-05-21T19:25:20.925445"
+  },
+  {
+    "last_modified": "CAR-000961",
+    "total_items": 737.6,
+    "item_total": 932.68,
+    "cart_no": "CAR-000961",
+    "created_dt": "2024-12-19T19:25:20.925452"
+  },
+  {
+    "last_modified": "CAR-000962",
+    "total_items": 209.65,
+    "item_total": 577.14,
+    "cart_no": "CAR-000962",
+    "created_dt": "2023-12-09T19:25:20.925458"
+  },
+  {
+    "last_modified": "CAR-000963",
+    "total_items": 512.61,
+    "item_total": 498.48,
+    "cart_no": "CAR-000963",
+    "created_dt": "2024-09-09T19:25:20.925465"
+  },
+  {
+    "last_modified": "CAR-000964",
+    "total_items": 691.91,
+    "item_total": 224.01,
+    "cart_no": "CAR-000964",
+    "created_dt": "2025-12-19T19:25:20.925472"
+  },
+  {
+    "last_modified": "CAR-000965",
+    "total_items": 431.98,
+    "item_total": 797.66,
+    "cart_no": "CAR-000965",
+    "created_dt": "2024-07-27T19:25:20.925478"
+  },
+  {
+    "last_modified": "CAR-000966",
+    "total_items": 342.22,
+    "item_total": 978.05,
+    "cart_no": "CAR-000966",
+    "created_dt": "2025-03-01T19:25:20.925485"
+  },
+  {
+    "last_modified": "CAR-000967",
+    "total_items": 236.83,
+    "item_total": 407.32,
+    "cart_no": "CAR-000967",
+    "created_dt": "2025-08-08T19:25:20.925491"
+  },
+  {
+    "last_modified": "CAR-000968",
+    "total_items": 275.21,
+    "item_total": 667.02,
+    "cart_no": "CAR-000968",
+    "created_dt": "2024-02-09T19:25:20.925498"
+  },
+  {
+    "last_modified": "CAR-000969",
+    "total_items": 505.17,
+    "item_total": 108.73,
+    "cart_no": "CAR-000969",
+    "created_dt": "2023-06-12T19:25:20.925507"
+  },
+  {
+    "last_modified": "CAR-000970",
+    "total_items": 16.9,
+    "item_total": 371.33,
+    "cart_no": "CAR-000970",
+    "created_dt": "2025-06-05T19:25:20.925514"
+  },
+  {
+    "last_modified": "CAR-000971",
+    "total_items": 569.84,
+    "item_total": 501.39,
+    "cart_no": "CAR-000971",
+    "created_dt": "2023-04-26T19:25:20.925520"
+  },
+  {
+    "last_modified": "CAR-000972",
+    "total_items": 672.62,
+    "item_total": 37.43,
+    "cart_no": "CAR-000972",
+    "created_dt": "2025-04-20T19:25:20.925527"
+  },
+  {
+    "last_modified": "CAR-000973",
+    "total_items": 356.89,
+    "item_total": 575.74,
+    "cart_no": "CAR-000973",
+    "created_dt": "2025-10-07T19:25:20.925537"
+  },
+  {
+    "last_modified": "CAR-000974",
+    "total_items": 127.97,
+    "item_total": 566.73,
+    "cart_no": "CAR-000974",
+    "created_dt": "2024-01-18T19:25:20.925547"
+  },
+  {
+    "last_modified": "CAR-000975",
+    "total_items": 135.06,
+    "item_total": 234.58,
+    "cart_no": "CAR-000975",
+    "created_dt": "2025-03-10T19:25:20.925554"
+  },
+  {
+    "last_modified": "CAR-000976",
+    "total_items": 969.84,
+    "item_total": 455.46,
+    "cart_no": "CAR-000976",
+    "created_dt": "2026-01-02T19:25:20.925560"
+  },
+  {
+    "last_modified": "CAR-000977",
+    "total_items": 833.03,
+    "item_total": 579.6,
+    "cart_no": "CAR-000977",
+    "created_dt": "2024-12-01T19:25:20.925567"
+  },
+  {
+    "last_modified": "CAR-000978",
+    "total_items": 756.41,
+    "item_total": 589.64,
+    "cart_no": "CAR-000978",
+    "created_dt": "2023-03-11T19:25:20.925573"
+  },
+  {
+    "last_modified": "CAR-000979",
+    "total_items": 169.91,
+    "item_total": 910.4,
+    "cart_no": "CAR-000979",
+    "created_dt": "2024-02-06T19:25:20.925580"
+  },
+  {
+    "last_modified": "CAR-000980",
+    "total_items": 540.17,
+    "item_total": 938.53,
+    "cart_no": "CAR-000980",
+    "created_dt": "2023-12-10T19:25:20.925589"
+  },
+  {
+    "last_modified": "CAR-000981",
+    "total_items": 915.34,
+    "item_total": 812.45,
+    "cart_no": "CAR-000981",
+    "created_dt": "2025-08-04T19:25:20.925596"
+  },
+  {
+    "last_modified": "CAR-000982",
+    "total_items": 435.06,
+    "item_total": 218.9,
+    "cart_no": "CAR-000982",
+    "created_dt": "2023-07-16T19:25:20.925602"
+  },
+  {
+    "last_modified": "CAR-000983",
+    "total_items": 92.45,
+    "item_total": 605.53,
+    "cart_no": "CAR-000983",
+    "created_dt": "2025-12-01T19:25:20.925609"
+  },
+  {
+    "last_modified": "CAR-000984",
+    "total_items": 905.0,
+    "item_total": 471.98,
+    "cart_no": "CAR-000984",
+    "created_dt": "2023-06-13T19:25:20.925616"
+  },
+  {
+    "last_modified": "CAR-000985",
+    "total_items": 309.68,
+    "item_total": 860.62,
+    "cart_no": "CAR-000985",
+    "created_dt": "2024-04-15T19:25:20.925623"
+  },
+  {
+    "last_modified": "CAR-000986",
+    "total_items": 915.59,
+    "item_total": 306.04,
+    "cart_no": "CAR-000986",
+    "created_dt": "2023-05-28T19:25:20.925629"
+  },
+  {
+    "last_modified": "CAR-000987",
+    "total_items": 828.46,
+    "item_total": 587.0,
+    "cart_no": "CAR-000987",
+    "created_dt": "2025-02-19T19:25:20.925636"
+  },
+  {
+    "last_modified": "CAR-000988",
+    "total_items": 391.62,
+    "item_total": 352.37,
+    "cart_no": "CAR-000988",
+    "created_dt": "2025-07-30T19:25:20.925642"
+  },
+  {
+    "last_modified": "CAR-000989",
+    "total_items": 521.96,
+    "item_total": 549.96,
+    "cart_no": "CAR-000989",
+    "created_dt": "2025-08-19T19:25:20.925651"
+  },
+  {
+    "last_modified": "CAR-000990",
+    "total_items": 186.04,
+    "item_total": 656.6,
+    "cart_no": "CAR-000990",
+    "created_dt": "2023-05-23T19:25:20.925658"
+  },
+  {
+    "last_modified": "CAR-000991",
+    "total_items": 730.34,
+    "item_total": 243.28,
+    "cart_no": "CAR-000991",
+    "created_dt": "2023-08-04T19:25:20.925665"
+  },
+  {
+    "last_modified": "CAR-000992",
+    "total_items": 711.2,
+    "item_total": 466.48,
+    "cart_no": "CAR-000992",
+    "created_dt": "2025-01-23T19:25:20.925672"
+  },
+  {
+    "last_modified": "CAR-000993",
+    "total_items": 883.05,
+    "item_total": 265.3,
+    "cart_no": "CAR-000993",
+    "created_dt": "2024-12-14T19:25:20.925678"
+  },
+  {
+    "last_modified": "CAR-000994",
+    "total_items": 639.0,
+    "item_total": 205.58,
+    "cart_no": "CAR-000994",
+    "created_dt": "2024-02-08T19:25:20.925685"
+  },
+  {
+    "last_modified": "CAR-000995",
+    "total_items": 861.33,
+    "item_total": 626.41,
+    "cart_no": "CAR-000995",
+    "created_dt": "2023-06-07T19:25:20.925691"
+  },
+  {
+    "last_modified": "CAR-000996",
+    "total_items": 523.7,
+    "item_total": 173.14,
+    "cart_no": "CAR-000996",
+    "created_dt": "2023-12-01T19:25:20.925698"
+  },
+  {
+    "last_modified": "CAR-000997",
+    "total_items": 368.28,
+    "item_total": 119.21,
+    "cart_no": "CAR-000997",
+    "created_dt": "2023-10-01T19:25:20.925705"
+  },
+  {
+    "last_modified": "CAR-000998",
+    "total_items": 755.16,
+    "item_total": 852.9,
+    "cart_no": "CAR-000998",
+    "created_dt": "2024-10-10T19:25:20.925711"
+  },
+  {
+    "last_modified": "CAR-000999",
+    "total_items": 895.38,
+    "item_total": 867.88,
+    "cart_no": "CAR-000999",
+    "created_dt": "2025-10-13T19:25:20.925718"
+  },
+  {
+    "last_modified": "CAR-001000",
+    "total_items": 836.57,
+    "item_total": 617.25,
+    "cart_no": "CAR-001000",
+    "created_dt": "2025-10-05T19:25:20.925725"
+  }
+]

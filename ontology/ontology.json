@@ -1,0 +1,962 @@
+{
+  "metadata": {
+    "name": "E-Commerce Domain Ontology",
+    "version": "1.0.0",
+    "description": "Comprehensive ontology for e-commerce operations including customers, orders, products, and related entities",
+    "created": "2026-01-10"
+  },
+  "classes": {
+    "Customer": {
+      "description": "Individual or entity that purchases products",
+      "parent": null,
+      "properties": [
+        "customerId",
+        "email",
+        "firstName",
+        "lastName",
+        "phoneNumber",
+        "dateOfBirth",
+        "registrationDate",
+        "customerTier"
+      ],
+      "constraints": {
+        "email": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+          "required": true
+        },
+        "phoneNumber": {
+          "type": "string",
+          "pattern": "^\\+?[1-9]\\d{1,14}$"
+        },
+        "customerTier": {
+          "type": "enum",
+          "values": ["bronze", "silver", "gold", "platinum"]
+        }
+      }
+    },
+    "Order": {
+      "description": "Purchase transaction made by a customer",
+      "parent": null,
+      "properties": [
+        "orderId",
+        "orderDate",
+        "totalAmount",
+        "orderStatus",
+        "shippingMethod",
+        "trackingNumber"
+      ],
+      "constraints": {
+        "totalAmount": {
+          "type": "number",
+          "min": 0,
+          "required": true
+        },
+        "orderStatus": {
+          "type": "enum",
+          "values": ["pending", "confirmed", "processing", "shipped", "delivered", "cancelled", "refunded"]
+        },
+        "orderDate": {
+          "type": "datetime",
+          "required": true
+        }
+      }
+    },
+    "Product": {
+      "description": "Item available for purchase",
+      "parent": null,
+      "properties": [
+        "productId",
+        "productName",
+        "description",
+        "price",
+        "sku",
+        "weight",
+        "dimensions",
+        "brand"
+      ],
+      "constraints": {
+        "price": {
+          "type": "number",
+          "min": 0,
+          "required": true
+        },
+        "sku": {
+          "type": "string",
+          "pattern": "^[A-Z0-9-]+$",
+          "required": true
+        }
+      }
+    },
+    "Category": {
+      "description": "Product classification and grouping",
+      "parent": null,
+      "properties": [
+        "categoryId",
+        "categoryName",
+        "parentCategory",
+        "description",
+        "level"
+      ],
+      "constraints": {
+        "level": {
+          "type": "integer",
+          "min": 0,
+          "max": 5
+        }
+      }
+    },
+    "Electronics": {
+      "description": "Electronic products including computers, phones, and accessories",
+      "parent": "Category",
+      "properties": [
+        "warrantyPeriod",
+        "powerConsumption",
+        "voltage"
+      ],
+      "constraints": {
+        "warrantyPeriod": {
+          "type": "integer",
+          "min": 0,
+          "max": 120
+        }
+      }
+    },
+    "Phones": {
+      "description": "Mobile phones and smartphones",
+      "parent": "Electronics",
+      "properties": [
+        "screenSize",
+        "batteryCapacity",
+        "operatingSystem",
+        "storage"
+      ],
+      "constraints": {
+        "operatingSystem": {
+          "type": "enum",
+          "values": ["iOS", "Android", "Other"]
+        }
+      }
+    },
+    "Laptops": {
+      "description": "Portable computers",
+      "parent": "Electronics",
+      "properties": [
+        "processor",
+        "ram",
+        "storage",
+        "screenSize",
+        "graphicsCard"
+      ],
+      "constraints": {
+        "ram": {
+          "type": "integer",
+          "min": 2,
+          "max": 128
+        }
+      }
+    },
+    "Payment": {
+      "description": "Financial transaction for order",
+      "parent": null,
+      "properties": [
+        "paymentId",
+        "paymentMethod",
+        "paymentDate",
+        "amount",
+        "transactionId",
+        "paymentStatus"
+      ],
+      "constraints": {
+        "amount": {
+          "type": "number",
+          "min": 0,
+          "required": true
+        },
+        "paymentMethod": {
+          "type": "enum",
+          "values": ["credit_card", "debit_card", "paypal", "bank_transfer", "crypto", "cash_on_delivery"]
+        },
+        "paymentStatus": {
+          "type": "enum",
+          "values": ["pending", "completed", "failed", "refunded"]
+        }
+      }
+    },
+    "Address": {
+      "description": "Physical location for shipping or billing",
+      "parent": null,
+      "properties": [
+        "addressId",
+        "addressType",
+        "streetAddress",
+        "city",
+        "state",
+        "postalCode",
+        "country"
+      ],
+      "constraints": {
+        "addressType": {
+          "type": "enum",
+          "values": ["shipping", "billing", "both"]
+        },
+        "postalCode": {
+          "type": "string",
+          "pattern": "^[A-Z0-9\\s-]{3,10}$"
+        }
+      }
+    },
+    "Review": {
+      "description": "Customer feedback on product",
+      "parent": null,
+      "properties": [
+        "reviewId",
+        "rating",
+        "reviewText",
+        "reviewDate",
+        "verified",
+        "helpfulCount"
+      ],
+      "constraints": {
+        "rating": {
+          "type": "number",
+          "min": 1,
+          "max": 5,
+          "required": true
+        },
+        "verified": {
+          "type": "boolean"
+        }
+      }
+    },
+    "Vendor": {
+      "description": "Supplier or seller of products",
+      "parent": null,
+      "properties": [
+        "vendorId",
+        "vendorName",
+        "contactEmail",
+        "phoneNumber",
+        "rating",
+        "registrationDate",
+        "activeStatus"
+      ],
+      "constraints": {
+        "rating": {
+          "type": "number",
+          "min": 0,
+          "max": 5
+        },
+        "activeStatus": {
+          "type": "boolean",
+          "required": true
+        }
+      }
+    },
+    "Cart": {
+      "description": "Temporary storage of items before purchase",
+      "parent": null,
+      "properties": [
+        "cartId",
+        "createdDate",
+        "lastModified",
+        "totalItems",
+        "subtotal"
+      ],
+      "constraints": {
+        "totalItems": {
+          "type": "integer",
+          "min": 0
+        },
+        "subtotal": {
+          "type": "number",
+          "min": 0
+        }
+      }
+    },
+    "Discount": {
+      "description": "Price reduction or promotional offer",
+      "parent": null,
+      "properties": [
+        "discountId",
+        "discountCode",
+        "discountType",
+        "discountValue",
+        "startDate",
+        "endDate",
+        "minimumPurchase"
+      ],
+      "constraints": {
+        "discountType": {
+          "type": "enum",
+          "values": ["percentage", "fixed_amount", "buy_one_get_one", "free_shipping"]
+        },
+        "discountValue": {
+          "type": "number",
+          "min": 0,
+          "required": true
+        }
+      }
+    },
+    "Shipment": {
+      "description": "Physical delivery of ordered products",
+      "parent": null,
+      "properties": [
+        "shipmentId",
+        "carrier",
+        "trackingNumber",
+        "shipmentDate",
+        "estimatedDelivery",
+        "actualDelivery",
+        "shipmentStatus"
+      ],
+      "constraints": {
+        "shipmentStatus": {
+          "type": "enum",
+          "values": ["preparing", "in_transit", "out_for_delivery", "delivered", "failed", "returned"]
+        }
+      }
+    },
+    "Inventory": {
+      "description": "Stock management of products",
+      "parent": null,
+      "properties": [
+        "inventoryId",
+        "quantity",
+        "warehouseLocation",
+        "reorderLevel",
+        "reorderQuantity",
+        "lastRestocked"
+      ],
+      "constraints": {
+        "quantity": {
+          "type": "integer",
+          "min": 0,
+          "required": true
+        },
+        "reorderLevel": {
+          "type": "integer",
+          "min": 0
+        }
+      }
+    },
+    "Transaction": {
+      "description": "Financial record of business activities",
+      "parent": null,
+      "properties": [
+        "transactionId",
+        "transactionType",
+        "amount",
+        "currency",
+        "transactionDate",
+        "status",
+        "reference"
+      ],
+      "constraints": {
+        "amount": {
+          "type": "number",
+          "required": true
+        },
+        "transactionType": {
+          "type": "enum",
+          "values": ["sale", "refund", "adjustment", "fee", "payout"]
+        },
+        "currency": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$"
+        }
+      }
+    },
+    "SupportTicket": {
+      "description": "Customer service request or issue",
+      "parent": null,
+      "properties": [
+        "ticketId",
+        "subject",
+        "description",
+        "priority",
+        "status",
+        "createdDate",
+        "resolvedDate",
+        "category"
+      ],
+      "constraints": {
+        "priority": {
+          "type": "enum",
+          "values": ["low", "medium", "high", "critical"]
+        },
+        "status": {
+          "type": "enum",
+          "values": ["open", "in_progress", "waiting_customer", "resolved", "closed"]
+        }
+      }
+    },
+    "LoyaltyProfile": {
+      "description": "Customer loyalty and rewards information",
+      "parent": null,
+      "properties": [
+        "loyaltyId",
+        "points",
+        "tier",
+        "joinDate",
+        "lifetimeValue",
+        "pointsExpiry"
+      ],
+      "constraints": {
+        "points": {
+          "type": "integer",
+          "min": 0
+        },
+        "tier": {
+          "type": "enum",
+          "values": ["bronze", "silver", "gold", "platinum", "diamond"]
+        },
+        "lifetimeValue": {
+          "type": "number",
+          "min": 0
+        }
+      }
+    }
+  },
+  "relationships": [
+    {
+      "name": "places",
+      "source": "Customer",
+      "target": "Order",
+      "cardinality": "one-to-many",
+      "description": "Customer places orders"
+    },
+    {
+      "name": "contains",
+      "source": "Order",
+      "target": "Product",
+      "cardinality": "many-to-many",
+      "description": "Order contains products"
+    },
+    {
+      "name": "belongsTo",
+      "source": "Product",
+      "target": "Category",
+      "cardinality": "many-to-one",
+      "description": "Product belongs to category"
+    },
+    {
+      "name": "paysFor",
+      "source": "Customer",
+      "target": "Order",
+      "cardinality": "one-to-many",
+      "through": "Payment",
+      "description": "Customer pays for order"
+    },
+    {
+      "name": "hasAddress",
+      "source": "Customer",
+      "target": "Address",
+      "cardinality": "one-to-many",
+      "description": "Customer has addresses"
+    },
+    {
+      "name": "shipsTo",
+      "source": "Order",
+      "target": "Address",
+      "cardinality": "many-to-one",
+      "description": "Order ships to address"
+    },
+    {
+      "name": "writes",
+      "source": "Customer",
+      "target": "Review",
+      "cardinality": "one-to-many",
+      "description": "Customer writes reviews"
+    },
+    {
+      "name": "reviewsProduct",
+      "source": "Review",
+      "target": "Product",
+      "cardinality": "many-to-one",
+      "description": "Review is about product"
+    },
+    {
+      "name": "supplies",
+      "source": "Vendor",
+      "target": "Product",
+      "cardinality": "one-to-many",
+      "description": "Vendor supplies products"
+    },
+    {
+      "name": "owns",
+      "source": "Customer",
+      "target": "Cart",
+      "cardinality": "one-to-one",
+      "description": "Customer owns shopping cart"
+    },
+    {
+      "name": "includesItem",
+      "source": "Cart",
+      "target": "Product",
+      "cardinality": "many-to-many",
+      "description": "Cart includes products"
+    },
+    {
+      "name": "appliesTo",
+      "source": "Discount",
+      "target": "Product",
+      "cardinality": "many-to-many",
+      "description": "Discount applies to products"
+    },
+    {
+      "name": "delivers",
+      "source": "Shipment",
+      "target": "Order",
+      "cardinality": "one-to-one",
+      "description": "Shipment delivers order"
+    },
+    {
+      "name": "tracks",
+      "source": "Inventory",
+      "target": "Product",
+      "cardinality": "one-to-one",
+      "description": "Inventory tracks product stock"
+    },
+    {
+      "name": "recordsPayment",
+      "source": "Transaction",
+      "target": "Payment",
+      "cardinality": "one-to-one",
+      "description": "Transaction records payment"
+    },
+    {
+      "name": "creates",
+      "source": "Customer",
+      "target": "SupportTicket",
+      "cardinality": "one-to-many",
+      "description": "Customer creates support tickets"
+    },
+    {
+      "name": "relatesTo",
+      "source": "SupportTicket",
+      "target": "Order",
+      "cardinality": "many-to-one",
+      "description": "Support ticket relates to order"
+    },
+    {
+      "name": "hasLoyalty",
+      "source": "Customer",
+      "target": "LoyaltyProfile",
+      "cardinality": "one-to-one",
+      "description": "Customer has loyalty profile"
+    },
+    {
+      "name": "earnsPoints",
+      "source": "Order",
+      "target": "LoyaltyProfile",
+      "cardinality": "many-to-one",
+      "description": "Order earns loyalty points"
+    },
+    {
+      "name": "subcategoryOf",
+      "source": "Category",
+      "target": "Category",
+      "cardinality": "many-to-one",
+      "description": "Category is subcategory of parent category"
+    }
+  ],
+  "properties": {
+    "customerId": {
+      "datatype": "string",
+      "description": "Unique identifier for customer"
+    },
+    "email": {
+      "datatype": "string",
+      "description": "Customer email address"
+    },
+    "firstName": {
+      "datatype": "string",
+      "description": "Customer first name"
+    },
+    "lastName": {
+      "datatype": "string",
+      "description": "Customer last name"
+    },
+    "phoneNumber": {
+      "datatype": "string",
+      "description": "Contact phone number"
+    },
+    "dateOfBirth": {
+      "datatype": "date",
+      "description": "Customer date of birth"
+    },
+    "registrationDate": {
+      "datatype": "datetime",
+      "description": "Date when entity was registered"
+    },
+    "customerTier": {
+      "datatype": "string",
+      "description": "Customer membership tier level"
+    },
+    "orderId": {
+      "datatype": "string",
+      "description": "Unique identifier for order"
+    },
+    "orderDate": {
+      "datatype": "datetime",
+      "description": "Date when order was placed"
+    },
+    "totalAmount": {
+      "datatype": "decimal",
+      "description": "Total monetary value"
+    },
+    "orderStatus": {
+      "datatype": "string",
+      "description": "Current status of order"
+    },
+    "shippingMethod": {
+      "datatype": "string",
+      "description": "Method used for shipping"
+    },
+    "trackingNumber": {
+      "datatype": "string",
+      "description": "Shipment tracking identifier"
+    },
+    "productId": {
+      "datatype": "string",
+      "description": "Unique identifier for product"
+    },
+    "productName": {
+      "datatype": "string",
+      "description": "Name of product"
+    },
+    "description": {
+      "datatype": "text",
+      "description": "Detailed description"
+    },
+    "price": {
+      "datatype": "decimal",
+      "description": "Product price"
+    },
+    "sku": {
+      "datatype": "string",
+      "description": "Stock keeping unit identifier"
+    },
+    "weight": {
+      "datatype": "decimal",
+      "description": "Product weight"
+    },
+    "dimensions": {
+      "datatype": "string",
+      "description": "Product dimensions"
+    },
+    "brand": {
+      "datatype": "string",
+      "description": "Product brand name"
+    },
+    "categoryId": {
+      "datatype": "string",
+      "description": "Unique identifier for category"
+    },
+    "categoryName": {
+      "datatype": "string",
+      "description": "Name of category"
+    },
+    "parentCategory": {
+      "datatype": "string",
+      "description": "Parent category identifier"
+    },
+    "level": {
+      "datatype": "integer",
+      "description": "Hierarchy level"
+    },
+    "warrantyPeriod": {
+      "datatype": "integer",
+      "description": "Warranty duration in months"
+    },
+    "powerConsumption": {
+      "datatype": "decimal",
+      "description": "Power consumption in watts"
+    },
+    "voltage": {
+      "datatype": "string",
+      "description": "Operating voltage"
+    },
+    "screenSize": {
+      "datatype": "decimal",
+      "description": "Screen size in inches"
+    },
+    "batteryCapacity": {
+      "datatype": "integer",
+      "description": "Battery capacity in mAh"
+    },
+    "operatingSystem": {
+      "datatype": "string",
+      "description": "Operating system"
+    },
+    "storage": {
+      "datatype": "integer",
+      "description": "Storage capacity in GB"
+    },
+    "processor": {
+      "datatype": "string",
+      "description": "Processor model"
+    },
+    "ram": {
+      "datatype": "integer",
+      "description": "RAM size in GB"
+    },
+    "graphicsCard": {
+      "datatype": "string",
+      "description": "Graphics card model"
+    },
+    "paymentId": {
+      "datatype": "string",
+      "description": "Unique identifier for payment"
+    },
+    "paymentMethod": {
+      "datatype": "string",
+      "description": "Payment method used"
+    },
+    "paymentDate": {
+      "datatype": "datetime",
+      "description": "Date of payment"
+    },
+    "amount": {
+      "datatype": "decimal",
+      "description": "Monetary amount"
+    },
+    "transactionId": {
+      "datatype": "string",
+      "description": "Transaction identifier"
+    },
+    "paymentStatus": {
+      "datatype": "string",
+      "description": "Payment status"
+    },
+    "addressId": {
+      "datatype": "string",
+      "description": "Unique identifier for address"
+    },
+    "addressType": {
+      "datatype": "string",
+      "description": "Type of address"
+    },
+    "streetAddress": {
+      "datatype": "string",
+      "description": "Street address"
+    },
+    "city": {
+      "datatype": "string",
+      "description": "City name"
+    },
+    "state": {
+      "datatype": "string",
+      "description": "State or province"
+    },
+    "postalCode": {
+      "datatype": "string",
+      "description": "Postal or ZIP code"
+    },
+    "country": {
+      "datatype": "string",
+      "description": "Country name"
+    },
+    "reviewId": {
+      "datatype": "string",
+      "description": "Unique identifier for review"
+    },
+    "rating": {
+      "datatype": "decimal",
+      "description": "Rating score"
+    },
+    "reviewText": {
+      "datatype": "text",
+      "description": "Review content"
+    },
+    "reviewDate": {
+      "datatype": "datetime",
+      "description": "Date of review"
+    },
+    "verified": {
+      "datatype": "boolean",
+      "description": "Verification status"
+    },
+    "helpfulCount": {
+      "datatype": "integer",
+      "description": "Number of helpful votes"
+    },
+    "vendorId": {
+      "datatype": "string",
+      "description": "Unique identifier for vendor"
+    },
+    "vendorName": {
+      "datatype": "string",
+      "description": "Vendor name"
+    },
+    "contactEmail": {
+      "datatype": "string",
+      "description": "Contact email address"
+    },
+    "activeStatus": {
+      "datatype": "boolean",
+      "description": "Active status indicator"
+    },
+    "cartId": {
+      "datatype": "string",
+      "description": "Unique identifier for cart"
+    },
+    "createdDate": {
+      "datatype": "datetime",
+      "description": "Creation date"
+    },
+    "lastModified": {
+      "datatype": "datetime",
+      "description": "Last modification date"
+    },
+    "totalItems": {
+      "datatype": "integer",
+      "description": "Total number of items"
+    },
+    "subtotal": {
+      "datatype": "decimal",
+      "description": "Subtotal amount"
+    },
+    "discountId": {
+      "datatype": "string",
+      "description": "Unique identifier for discount"
+    },
+    "discountCode": {
+      "datatype": "string",
+      "description": "Discount code"
+    },
+    "discountType": {
+      "datatype": "string",
+      "description": "Type of discount"
+    },
+    "discountValue": {
+      "datatype": "decimal",
+      "description": "Discount value"
+    },
+    "startDate": {
+      "datatype": "datetime",
+      "description": "Start date"
+    },
+    "endDate": {
+      "datatype": "datetime",
+      "description": "End date"
+    },
+    "minimumPurchase": {
+      "datatype": "decimal",
+      "description": "Minimum purchase amount"
+    },
+    "shipmentId": {
+      "datatype": "string",
+      "description": "Unique identifier for shipment"
+    },
+    "carrier": {
+      "datatype": "string",
+      "description": "Shipping carrier"
+    },
+    "shipmentDate": {
+      "datatype": "datetime",
+      "description": "Date of shipment"
+    },
+    "estimatedDelivery": {
+      "datatype": "datetime",
+      "description": "Estimated delivery date"
+    },
+    "actualDelivery": {
+      "datatype": "datetime",
+      "description": "Actual delivery date"
+    },
+    "shipmentStatus": {
+      "datatype": "string",
+      "description": "Shipment status"
+    },
+    "inventoryId": {
+      "datatype": "string",
+      "description": "Unique identifier for inventory"
+    },
+    "quantity": {
+      "datatype": "integer",
+      "description": "Quantity amount"
+    },
+    "warehouseLocation": {
+      "datatype": "string",
+      "description": "Warehouse location"
+    },
+    "reorderLevel": {
+      "datatype": "integer",
+      "description": "Reorder threshold level"
+    },
+    "reorderQuantity": {
+      "datatype": "integer",
+      "description": "Reorder quantity amount"
+    },
+    "lastRestocked": {
+      "datatype": "datetime",
+      "description": "Last restock date"
+    },
+    "transactionType": {
+      "datatype": "string",
+      "description": "Type of transaction"
+    },
+    "currency": {
+      "datatype": "string",
+      "description": "Currency code"
+    },
+    "transactionDate": {
+      "datatype": "datetime",
+      "description": "Transaction date"
+    },
+    "status": {
+      "datatype": "string",
+      "description": "Status indicator"
+    },
+    "reference": {
+      "datatype": "string",
+      "description": "Reference identifier"
+    },
+    "ticketId": {
+      "datatype": "string",
+      "description": "Unique identifier for ticket"
+    },
+    "subject": {
+      "datatype": "string",
+      "description": "Ticket subject"
+    },
+    "priority": {
+      "datatype": "string",
+      "description": "Priority level"
+    },
+    "resolvedDate": {
+      "datatype": "datetime",
+      "description": "Resolution date"
+    },
+    "category": {
+      "datatype": "string",
+      "description": "Category classification"
+    },
+    "loyaltyId": {
+      "datatype": "string",
+      "description": "Unique identifier for loyalty profile"
+    },
+    "points": {
+      "datatype": "integer",
+      "description": "Loyalty points"
+    },
+    "tier": {
+      "datatype": "string",
+      "description": "Membership tier"
+    },
+    "joinDate": {
+      "datatype": "datetime",
+      "description": "Join date"
+    },
+    "lifetimeValue": {
+      "datatype": "decimal",
+      "description": "Customer lifetime value"
+    },
+    "pointsExpiry": {
+      "datatype": "datetime",
+      "description": "Points expiry date"
+    }
+  }
+}

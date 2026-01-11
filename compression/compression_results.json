@@ -1,0 +1,139 @@
+{
+  "compression_strategy": {
+    "layers": {
+      "1_property_id_encoding": {
+        "description": "Replace long property names with short IDs",
+        "example": "customerFirstName \u2192 p12",
+        "num_mappings": 99
+      },
+      "2_structural_flattening": {
+        "description": "Extract schema, use positional arrays",
+        "example": "[{\"a\":1}, {\"a\":2}] \u2192 {\"schema\":[\"a\"], \"data\":[[1],[2]]}"
+      },
+      "3_type_elision": {
+        "description": "Omit type information (infer from ontology)",
+        "example": "No explicit type encoding needed"
+      },
+      "4_batch_dictionary": {
+        "description": "Shared dictionary for repeated string values",
+        "example": "\"New York\" appears 100 times \u2192 {\"dict\":{\"@0\":\"New York\"}, ...}"
+      }
+    },
+    "reversible": true,
+    "target_compression": "\u226560% on batches (100+ records)"
+  },
+  "evaluations": {
+    "single_record": {
+      "original_chars": 241,
+      "compressed_chars": 192,
+      "original_tokens": 113,
+      "compressed_tokens": 102,
+      "reduction_pct": 9.734513274336283,
+      "reversible": true
+    },
+    "batch_10": {
+      "without_dictionary": {
+        "num_records": 10,
+        "original_chars": 2366,
+        "compressed_chars": 1320,
+        "original_tokens": 1128,
+        "compressed_tokens": 632,
+        "reduction_pct": 43.97163120567376,
+        "reversible": true,
+        "compression_ratio": 1.7848101265822784,
+        "dictionary_enabled": false,
+        "dictionary_size": 0
+      },
+      "with_dictionary": {
+        "num_records": 10,
+        "original_chars": 2366,
+        "compressed_chars": 1374,
+        "original_tokens": 1128,
+        "compressed_tokens": 752,
+        "reduction_pct": 33.33333333333333,
+        "reversible": true,
+        "compression_ratio": 1.5,
+        "dictionary_enabled": true,
+        "dictionary_size": 0
+      }
+    },
+    "batch_50": {
+      "without_dictionary": {
+        "num_records": 50,
+        "original_chars": 11804,
+        "compressed_chars": 6358,
+        "original_tokens": 5612,
+        "compressed_tokens": 2956,
+        "reduction_pct": 47.3271560940841,
+        "reversible": true,
+        "compression_ratio": 1.89851150202977,
+        "dictionary_enabled": false,
+        "dictionary_size": 0
+      },
+      "with_dictionary": {
+        "num_records": 50,
+        "original_chars": 11804,
+        "compressed_chars": 6228,
+        "original_tokens": 5612,
+        "compressed_tokens": 3348,
+        "reduction_pct": 40.34212401995723,
+        "reversible": true,
+        "compression_ratio": 1.6762246117084827,
+        "dictionary_enabled": true,
+        "dictionary_size": 0
+      }
+    },
+    "batch_100": {
+      "without_dictionary": {
+        "num_records": 100,
+        "original_chars": 23591,
+        "compressed_chars": 12645,
+        "original_tokens": 11208,
+        "compressed_tokens": 5852,
+        "reduction_pct": 47.78729478943612,
+        "reversible": true,
+        "compression_ratio": 1.9152426520847574,
+        "dictionary_enabled": false,
+        "dictionary_size": 0
+      },
+      "with_dictionary": {
+        "num_records": 100,
+        "original_chars": 23591,
+        "compressed_chars": 12327,
+        "original_tokens": 11208,
+        "compressed_tokens": 6557,
+        "reduction_pct": 41.4971448965025,
+        "reversible": true,
+        "compression_ratio": 1.7093182858014335,
+        "dictionary_enabled": true,
+        "dictionary_size": 0
+      }
+    },
+    "batch_200": {
+      "without_dictionary": {
+        "num_records": 200,
+        "original_chars": 47161,
+        "compressed_chars": 25215,
+        "original_tokens": 22416,
+        "compressed_tokens": 11660,
+        "reduction_pct": 47.98358315488937,
+        "reversible": true,
+        "compression_ratio": 1.9224699828473413,
+        "dictionary_enabled": false,
+        "dictionary_size": 0
+      },
+      "with_dictionary": {
+        "num_records": 200,
+        "original_chars": 47161,
+        "compressed_chars": 25014,
+        "original_tokens": 22416,
+        "compressed_tokens": 13226,
+        "reduction_pct": 40.99750178443969,
+        "reversible": true,
+        "compression_ratio": 1.694843490095267,
+        "dictionary_enabled": true,
+        "dictionary_size": 0
+      }
+    }
+  }
+}

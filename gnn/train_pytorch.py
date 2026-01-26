@@ -263,8 +263,7 @@ def train(
         optimizer,
         mode='max',
         factor=0.5,
-        patience=20,
-        verbose=verbose
+        patience=20
     )
 
     # Training loop
